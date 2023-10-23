@@ -51,7 +51,7 @@ Our "Managed Security Champions Programme" is based on a flexible package that i
 
 <!--#### Ongoing Communication-->
 
-* **How do you keep you champions informed?** Your champions need ongoing updates and information about what is going on in the industry, but preparing that is time consuming and needs constant work. We will prepare a monthly session for your champions including industry news, a more in-depth topic and your internal updates which we'll prepare together. We will also encourage your champions to be involved and deliver their own topics to improve their engagement and buy-in.
+* **How do you keep you champions informed?** Your champions need ongoing updates and information about what is going on in the industry, but preparing that is time consuming and needs constant work. We will prepare a monthly session for your champions including industry news, a more in-depth topic and your internal updates. We will also encourage your champions to be involved and deliver their own topics to improve their engagement and buy-in.
 
 <!--#### Deeper training-->
 
