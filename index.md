@@ -19,7 +19,7 @@ sort: sort_order
 mode: modal
 ---
 
-#### About Bounce Security
+#### About HELLO Bounce Security
 
 At Bounce Security, we care about doing security the right way.
 
