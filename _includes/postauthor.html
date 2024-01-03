@@ -1,0 +1,12 @@
+{% assign teammembers = site.team-members %}
+
+{% assign authorpage = page.author  | append: ".md" %}
+{% assign authorhtml = page.author  | append: ".html" %}
+
+{% for teammember in teammembers %}
+
+    {% if authorpage == teammember.name %}
+        <p>Published: {{ page.date | date: "%-d %B %Y" }} by <a href="/team-members/{{ authorhtml }}">{{ teammember.title }}</a></p>
+    {% endif %}
+
+{% endfor %}
