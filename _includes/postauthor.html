@@ -1,12 +1,26 @@
 {% assign teammembers = site.team-members %}
 
-{% assign authorpage = page.author  | append: ".md" %}
-{% assign authorhtml = page.author  | append: ".html" %}
+{% if page.author %}
+    {% assign authorpage = page.author %}  
+{% endif %}
+{% if include.post.author %}
+    {% assign authorpage = include.post.author %}  
+{% endif %}
+
+{% if page.author %}
+    {% assign postdate = page.date %}  
+{% endif %}
+{% if include.post.date %}
+    {% assign postdate = include.post.date %}  
+{% endif %}
+
+{% assign authormd = authorpage  | append: ".md" %}
+{% assign authorhtml = authorpage  | append: ".html" %}
 
 {% for teammember in teammembers %}
 
-    {% if authorpage == teammember.name %}
-        <p>Published: {{ page.date | date: "%-d %B %Y" }} by <a href="/team-members/{{ authorhtml }}">{{ teammember.title }}</a></p>
+    {% if authormd == teammember.name %}
+        Published on {{ postdate | date: "%-d %B %Y" }} by <a href="/team-members/{{ authorhtml }}"> {{ teammember.title }}</a>
     {% endif %}
 
 {% endfor %}
