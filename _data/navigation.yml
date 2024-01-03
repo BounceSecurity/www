@@ -13,5 +13,5 @@
 - name: Where we'll be
   link: /events/
   condition: future
-- name: Articles we wrote
+- name: What we've written
   link: /blog/ 
