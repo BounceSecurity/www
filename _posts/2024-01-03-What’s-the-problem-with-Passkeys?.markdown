@@ -2,7 +2,7 @@
 layout: post
 title:  "What’s the problem with Passkeys?"
 subtitle: "Or why a great and secure solution to passwordless authentication is not so great?"
-date:   2024-01-03 10:19:21 +0300
+date:   2024-01-16 10:19:21 +0300
 categories: blog
 hero_height: is-small
 author: michal
