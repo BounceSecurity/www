@@ -11,8 +11,6 @@ image: /assets/img/nosizefitsall.png
 ---
 ## The Problem with the current AppSec State
 
-![image](/assets/img/nosizefitsall.png){: width="300" style="display:block; margin-left:auto; margin-right:auto"}
-
 Is this as good as it gets? Triaging hundreds of findings, two weeks after deploying the code, with high rates of false positives and no time or resources left to spend on finding and addressing anything besides the low hanging fruit? Is this our fate in the appsec industry? 
 
 It is the reality of many organizations out there. But it doesn’t have to be.
@@ -20,6 +18,8 @@ It is the reality of many organizations out there. But it doesn’t have to be.
 We put a lot of effort, time, and resources into our organization’s security. Every respectable software company does. We have static and dynamic scanning tools to check our code for vulnerabilities, but they don’t live up to their promise. Why?
 
 ### The Cause
+
+![image](/assets/img/nosizefitsall.png){: .blog-image}
 
 The problem with all those tools is that they are generic. They assume we’re all pretty much the same. That we write code the same way, use the same popular frameworks, copy the same code snippets from Stack Overflow. And under this assumption, it makes sense that a finite number of generic rules can find all the problems when scanning any application.
 
