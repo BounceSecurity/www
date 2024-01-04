@@ -7,8 +7,11 @@ categories: blog
 hero_height: is-small
 author: michal
 summary: Why no size fits all and you need custom appsec testing
+image: /assets/img/nosizefitsall.png
 ---
 ## The Problem with the current AppSec State
+
+![image](/assets/img/nosizefitsall.png){: width="300" style="display:block; margin-left:auto; margin-right:auto"}
 
 Is this as good as it gets? Triaging hundreds of findings, two weeks after deploying the code, with high rates of false positives and no time or resources left to spend on finding and addressing anything besides the low hanging fruit? Is this our fate in the appsec industry? 
 
