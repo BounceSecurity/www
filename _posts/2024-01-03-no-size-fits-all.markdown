@@ -63,4 +63,5 @@ Now that we understand the problem and the solution, let’s define exactly what
 **Unique vulnerabilities** - generic tools are pretty useless here, doesn’t matter if there’s a mitigation here or not, they just won’t realize there’s an issue in the first place. This is the case of **false negatives**.
 
 It's worth learning how to address these cases with your own custom rules, and now it's easier than ever!
-Learn more through practical examples from our talks on the topic at various conferences: 
+
+You can see practical examples in the [various talks I have given on the topic](/team-members/michal#events) at conferences and meetups.
