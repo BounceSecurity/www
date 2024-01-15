@@ -9,6 +9,27 @@ author: michal
 summary: Passkeys are a great improvement on authentication security, but current implementation practices hold back its potential
 ---
 
+<!-- 
+Jekyll requires blog post files to be named according to the following format: 
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Format using markdown, for example:
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+**Bold**
+
+_Italic_
+
+etc
+
+-->
+
 ## Introduction
 
 Passkeys are a great improvement on authentication security, but current implementation practices hold back its potential.
