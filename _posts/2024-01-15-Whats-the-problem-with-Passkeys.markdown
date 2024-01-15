@@ -10,27 +10,6 @@ summary: Passkeys are a great improvement on authentication security, but curren
 image: /assets/img/passkeys.png
 ---
 
-<!-- 
-Jekyll requires blog post files to be named according to the following format: 
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Format using markdown, for example:
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-**Bold**
-
-_Italic_
-
-etc
-
--->
-
 ## Introduction
 
 ![image](/assets/img/passkeys.png){: .blog-image}
@@ -55,7 +34,11 @@ No more phishing, no more password reuse/ weaknesses/ mishandling, no danger in 
 
 ## Passkey Challenges
 
-**Ok, all of that sounds incredible. Why the long title then?**
+**Ok, all of that sounds incredible.** 
+
+![image](/assets/img/saddonkey.png){: .blog-image}
+
+**Why the long ~~face~~ title then?**
 
 Because in practice, something isn’t working. All implementations we see offer at least one additional authentication method, a lot of the times its a simple mail OTP, and you can’t even configure that you want your account to be accessible only with a Passkey and not through any other method.
 
