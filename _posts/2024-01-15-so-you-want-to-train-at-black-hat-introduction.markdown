@@ -17,9 +17,9 @@ series: training_series
 
 #### Introduction
 
-This is a blog post (series) that I have had in mind for a while now but only really felt ready to start writing whilst sitting on a  plane recently.
+This is a series of articles that I have had in mind for a while now but only really felt ready to start writing whilst sitting on a plane recently.
 
-The last couple of years have taken me on a quite surreal journey which I never expected and I have learnt a lot along the way. I am hoping that this blog series will inspire and inform anyone who is considering doing something similar whilst also acting as a useful reference and planning aid.
+The last couple of years have taken me on a quite surreal journey which I never expected and I have learnt a lot along the way. I am hoping that this series of articles will inspire and inform anyone who is considering doing something similar whilst also acting as a useful reference and planning aid.
 
 #### Chapters in the series
 
