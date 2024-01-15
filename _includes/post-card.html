@@ -24,6 +24,13 @@
         <div class="has-text-centered">
             <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Read more</a>
         </div>
+        {% if post.series %}
+        {% assign series = site.data.[post.series] %}
+            <div class="content">
+                <br />
+                <strong>This post is part of a series:</strong> <i>{{ series.title }}</i>
+            </div>
+        {% endif %}
     </div>
     <footer class="card-footer">
         <p class="card-footer-item">{% include postauthor.html post=post%}</p>
