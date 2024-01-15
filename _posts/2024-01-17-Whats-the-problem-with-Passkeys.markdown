@@ -41,7 +41,7 @@ Let's start with a quick overview of what Passkeys actually are.
 
 ## Passkeys Overview
 
-A passkey an authentication credential, based on the WebAuthN protocol, that relies on public key cryptography, and is defined by the [FIDO2 alliance](https://fidoalliance.org/passkeys/).
+A passkey is an authentication credential, based on the WebAuthN protocol, that relies on public key cryptography, and is defined by the [FIDO2 alliance](https://fidoalliance.org/passkeys/).
 
 Well, actually the WebAuthN protocol is not that new and is used to authenticate with a USB stick or some other hardware device. But that’s not really that useful, especially when talking about B2C applications. You can’t expect everyone to purchase a hardware authenticator in order to authenticate to your app. And if they lose the device, they’re locked out. No recovery is possible. 
 
