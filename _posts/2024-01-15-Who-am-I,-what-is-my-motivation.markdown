@@ -7,13 +7,15 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post I will give you some personal background about how I got into this journey and why. Hopefully it will put some of the later chapters in perspective and also help you understand the motivation you might need to do this.
-image: /assets/img/passkeys.png
+image: /assets/img/whoami.png
 series: training_series
 ---
 
 ---
 
 ### Who am I, what is my motivation?
+
+![image](/assets/img/whoami.png){: .blog-image}
 
 #### Some background
 
