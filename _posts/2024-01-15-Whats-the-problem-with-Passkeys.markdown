@@ -12,9 +12,9 @@ image: /assets/img/passkeys.png
 
 ## Introduction
 
-![image](/assets/img/passkeys.png){: .blog-image}
-
 Passkeys are a great improvement on authentication security, but current implementation practices hold back their potential.
+
+![image](/assets/img/passkeys.png){: .blog-image}
 
 Let's start with a quick overview of what Passkeys actually are.
 
