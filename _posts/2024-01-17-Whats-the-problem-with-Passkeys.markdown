@@ -6,7 +6,7 @@ date:   2024-01-16 10:19:21 +0300
 categories: blog
 hero_height: is-small
 author: michal
-summary: Passkeys are a great improvement on authentication security, but current implementation practices hold back its potential
+summary: Passkeys are a great improvement on authentication security, but current implementation practices hold back their potential
 image: /assets/img/passkeys.png
 ---
 
@@ -35,7 +35,7 @@ etc
 
 ![image](/assets/img/passkeys.png){: .blog-image}
 
-Passkeys are a great improvement on authentication security, but current implementation practices hold back its potential.
+Passkeys are a great improvement on authentication security, but current implementation practices hold back their potential.
 
 Let's start with a quick overview of what Passkeys actually are.
 
