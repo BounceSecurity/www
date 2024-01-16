@@ -16,6 +16,10 @@ layout: default
     <p>{% include postauthor.html %}</p>
 
     {{ content }}
+
+    {% if page.series %}
+        {% include seriesfooter.html %}
+    {% endif %}
 </div>
 
 <div class="tags">

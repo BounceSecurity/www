@@ -11,6 +11,11 @@
     <p><i>{{ series.description }}</i></p>
 {% endif %}
 
+{% if series.sections[0].label %}
+{% else %}
+    <p class="title is-6"><i>Posts in this series:</i></p>
+{% endif %}
+
 {% for section in series.sections %}
 
 {% if section.label %}
