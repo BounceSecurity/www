@@ -42,6 +42,8 @@ Be ready to work in a group, take part in discussions and present your findings 
 
 **[Back to top ↑](#top)**
 
+![OWASP logo](/assets/img/OWASP.png)
+
 The OWASP edition includes some more in-depth content on using the tools such as:
 
 - More detailed comparison of the different tool types covered considering specific use-cases
@@ -51,6 +53,8 @@ The OWASP edition includes some more in-depth content on using the tools such as
 ### Specific content in Black Hat edition
 
 **[Back to top ↑](#top)**
+
+![Black Hat logo](/assets/img/blackHat.png)
 
 The Black Hat edition of the course is slightly longer and includes content on wider topics around Application Security including:
 
