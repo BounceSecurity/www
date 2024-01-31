@@ -1,7 +1,7 @@
 - name: How we can help you
   link: /#
   dropdown:
-  - name: Value-driven Product Security Services  
+  - name: Value-Driven Product Security Services  
     link: /services/
   - name: Product Security Training
     link: /training/
