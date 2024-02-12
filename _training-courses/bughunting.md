@@ -18,5 +18,4 @@ You will practice performing scalable, assisted manual research, using free, ope
 
 Through multiple hands-on examples and practical exercises, you’ll learn how this approach of customization at scale enables you to look far beyond the low hanging fruit, with useful tools that spare you the trouble of reinventing the wheel each time around.
 
-
 You can see more details about what the course covers on the [Course Content](/training-courses/bughunting/topics.html) page.

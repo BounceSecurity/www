@@ -18,17 +18,19 @@ While analyzing a web application for vulnerabilities, you probably find yoursel
 Sure, generic scanning tools and fuzzers can help, but often they won't be smart enough to find exactly what you are looking for.
 
 In this course, you’ll learn how to use customizable scanning tools in order to discover those sneaky vulnerabilities, at scale. With topics including:
--	Optimizing your work through an assisted manual search, that checks all the relevant places in the app in a matter of seconds.
--	Finding generic but hard to discover vulnerabilities that other tools miss, thanks to your understanding of the application and its flows.
--	Crafting custom security rules specifically designed for the application's business logic, such as flows involving payment or booking.
--	Looking for vulnerabilities in dependencies (e.g., CVEs), answering questions such as “does it affect this app?” and “if it does, is it exploitable?” .
--	Finding the places where custom, application specific, security mechanisms are not implemented correctly .
--	Addressing false positives created by generic tools.
--	Learning how to make the above processes repeatable, by building continuous verification and regression testing mechanisms.
+
+- Optimizing your work through an assisted manual search, that checks all the relevant places in the app in a matter of seconds.
+- Finding generic but hard to discover vulnerabilities that other tools miss, thanks to your understanding of the application and its flows.
+- Crafting custom security rules specifically designed for the application's business logic, such as flows involving payment or booking.
+- Looking for vulnerabilities in dependencies (e.g., CVEs), answering questions such as “does it affect this app?” and “if it does, is it exploitable?” .
+- Finding the places where custom, application specific, security mechanisms are not implemented correctly .
+- Addressing false positives created by generic tools.
+- Learning how to make the above processes repeatable, by building continuous verification and regression testing mechanisms.
 
 The course is focused on a hands-on approach, with multiple examples and exercises. We’ll work with 2 free, open-source tools:
--	Semgrep for static analysis
--	Nuclei for dynamic analysis
+
+- Semgrep for static analysis
+- Nuclei for dynamic analysis
 
 The first day is focused on static analysis. You will learn how you can find interesting patterns while keeping it specific and omitting false positives, using customizable tools. For example, how to check whether a CVE in a dependency is exploitable in the application, how to track the flow of tainted data and find the root cause and how to do all that on the scale of a whole app when you approach a project.
 

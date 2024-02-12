@@ -13,8 +13,3 @@ show_course: bughunting
 ### Private opportunities to take the course
 
 We can run this course privately for your organization, in-person (or remotely) at a timing to suit your convenience and with the content that is most relevant for you.
-
-
-
-
-
