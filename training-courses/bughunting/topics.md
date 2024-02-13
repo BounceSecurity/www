@@ -6,7 +6,7 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: bughunting_menu
-toc: true
+toc: false
 ---
 
 ### Course Content
@@ -18,8 +18,6 @@ While analyzing a web application for vulnerabilities, you probably find yoursel
 Sure, generic scanning tools and fuzzers can help, but often they won't be smart enough to find exactly what you are looking for.
 
 ### Summary of topics covered
-
-**[Back to top ↑](#top)**
 
 In this course, you’ll learn how to use customizable scanning tools in order to discover those sneaky vulnerabilities, at scale.
 With topics including:
@@ -37,17 +35,18 @@ The course is focused on a hands-on approach, with multiple examples and exercis
 - Semgrep for static analysis
 - Nuclei for dynamic analysis
 
-### Two day training breakdown
-
 **[Back to top ↑](#top)**
+
+### Two day training breakdown
 
 The first day is focused on static analysis. You will learn how you can find interesting patterns while keeping it specific and omitting false positives, using customizable tools. For example, how to check whether a CVE in a dependency is exploitable in the application, how to track the flow of tainted data and find the root cause and how to do all that on the scale of a whole app when you approach a project.
 
 The second day is focused on dynamic analysis. You will learn how you can dynamically test an issue everywhere in the app at once, using customizable, dynamically flexible tools. For example, checking for unique issues that stem from the business logic of the application, looking for known vulnerabilities, following complex flows that go through multiple protocols and how to approach a project of dynamically testing an application using custom automation.
 
-### Key outcome
-
 **[Back to top ↑](#top)**
+
+### Key outcome
 
 You’ll leave the course with a clear understanding of how to automate your work while keeping it customized, so you’ll uncover vulnerabilities efficiently and continuously.
 
+**[Back to top ↑](#top)**
