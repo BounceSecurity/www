@@ -6,7 +6,7 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: bughunting_menu
-toc: false
+toc: true
 ---
 
 ### Course Content
