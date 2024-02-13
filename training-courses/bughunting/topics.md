@@ -17,7 +17,7 @@ While analyzing a web application for vulnerabilities, you probably find yoursel
 
 Sure, generic scanning tools and fuzzers can help, but often they won't be smart enough to find exactly what you are looking for.
 
-#### Summary of topics covered
+### Summary of topics covered
 
 **[Back to top ↑](#top)**
 
@@ -37,7 +37,7 @@ The course is focused on a hands-on approach, with multiple examples and exercis
 - Semgrep for static analysis
 - Nuclei for dynamic analysis
 
-#### Two day training breakdown
+### Two day training breakdown
 
 **[Back to top ↑](#top)**
 
@@ -45,10 +45,9 @@ The first day is focused on static analysis. You will learn how you can find int
 
 The second day is focused on dynamic analysis. You will learn how you can dynamically test an issue everywhere in the app at once, using customizable, dynamically flexible tools. For example, checking for unique issues that stem from the business logic of the application, looking for known vulnerabilities, following complex flows that go through multiple protocols and how to approach a project of dynamically testing an application using custom automation.
 
-#### Key outcome
+### Key outcome
 
 **[Back to top ↑](#top)**
 
 You’ll leave the course with a clear understanding of how to automate your work while keeping it customized, so you’ll uncover vulnerabilities efficiently and continuously.
 
-**[Back to top ↑](#top)**
