@@ -7,11 +7,11 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post I will give you some personal background about how I got into delivering public training courses and why. Hopefully it will put some of the later chapters in perspective and also help you understand the motivation you might need to do this.
-image: /assets/img/whoami.png
+image: /assets/img/bhseries/whoami.png
 series: training_series
 ---
 
-![image](/assets/img/whoami.png){: .blog-image}
+![image](/assets/img/bhseries/whoami.png){: .blog-image}
 
 #### Introduction
 
@@ -23,7 +23,7 @@ At my previous employer, I had always looked admiringly at the posters on the wa
 
 Separately, I had also been involved with reviewing the training course submissions for Global AppSec Tel Aviv 2019, (one of the last in-person OWASP Global AppSec conferences before COVID) as well as some of the local conferences as well. 
 
-![A blurry photo of Dhruv Shah delivering some hands-on hacking training at Global AppSec Tel Aviv 2019](/assets/img/globalappsectlv2019.jpeg){: .blog-image}
+![A blurry photo of Dhruv Shah delivering some hands-on hacking training at Global AppSec Tel Aviv 2019](/assets/img/bhseries/globalappsectlv2019.jpeg){: .blog-image}
 
 I had prepared and delivered some training courses in the past and these submission reviews meant that I was also quite familar with the application security training landscape.
 
@@ -37,7 +37,7 @@ Little did we know the journey this simple question would take us on...
 
 When I starting thinking about the answer, I thought back to a challenge I had seen at a number of recent clients. In each case, they had implemented a bunch of AppSec tools like SAST, DAST and SCA and gotten absolutely buried in findings, technical challenges and arguments about who should be fixing things. When I say challenge, I meant that this had made lots of people's jobs a lot more unpleasant and probably caused a net damage to the overall level of application security instead of an improvement. It certainly made people hate the entire topic.
 
-![Getting stabbed by AppSec tools...](/assets/img/sastdastsca.jpg){: .blog-image}
+![Getting stabbed by AppSec tools...](/assets/img/bhseries/sastdastsca.jpg){: .blog-image}
 
 The more I thought about it, the more it seemed like a gap in a crowded market for AppSec training courses. All the training courses related to AppSec tools which I had seen seemed to focus primarilly on the technology side of the tools such as implementation and automation. Having seen these tools in real-life, it seemed like no one wanted to talk about the people and process aspects of using these tools. (Hindsight has shown how much of a problem this is in AppSec in general, not just related to tools which provided the inspiration for the next evolution of this course.)
 
@@ -47,7 +47,7 @@ My depth of feeling on this topic soon led me (with Avi's encouragement) to prep
 
 And this is a critical point. I don't love designing training courses, I don't love writing slides. Maybe some people do, I don't know...  
 
-![But that's none of my business...](/assets/img/business.gif){: .blog-image}
+![But that's none of my business...](/assets/img/bhseries/business.gif){: .blog-image}
 
 However, I felt strongly enough about this and was passionate enough to push through and pull all of this together. And then stick with it when things got harder later on. I was determined that this was valuable content and that I wanted to do the work to get this released.
 
