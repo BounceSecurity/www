@@ -49,11 +49,19 @@ The question is, is this code vulnerable to SQL injection 💉?
 
 If you didn't see the poll, maybe take a minute to take a look and decide what your answer would be.
 
-&nbsp;
+.
 
-&nbsp;
+.
 
-&nbsp;
+.
+
+Just another minute to think about it
+
+.
+
+.
+
+.
 
 Ok? Ready? Let's move on.
 
