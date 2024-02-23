@@ -110,7 +110,7 @@ prepare`SELECT * FROM "users" WHERE username = ${'admin'}
 
 (Note that the Node.js security maven [Liran Tal](https://www.nodejs-security.com/) also provided a nice answer which I removed because I didn't want to spoil things 🤣)
 
-The basic idea is that in Typescript, if you provide a backticked string (which includes interpolated variables) immediately after the function (without even using brackets surrounding the parameters like in most function calls), the function actually receives a string with parameter markers plus a bunch of parameters. The functionality is called [tagged templates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates).
+The basic idea is that in JavaScript, if you provide a backticked string (which includes interpolated variables) immediately after the function (without even using brackets surrounding the parameters like in most function calls), the function actually receives a string with parameter markers plus a bunch of parameters. The functionality is called [tagged templates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates).
 
 This is then easy to translate into a safe, parameterized SQL query.
 
