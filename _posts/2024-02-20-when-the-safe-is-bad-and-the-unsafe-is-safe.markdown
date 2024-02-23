@@ -120,7 +120,9 @@ The Prisma documentation [helpfully explains this as well](https://www.prisma.io
 
 This is the only way of using that function, so that means that this function is secure, right? Well yes so it would seem, and Tomer assures me that you can't use this function unsafely from an SQL injection perspective - and if anyone should know about making a safe function into an unsafe function, a CTF expert would.
 
-On the other hand, it still bothers me that the query *looks* unsafe. Also, because it hides why it is safe behind a specific Typescript feature, I do worry that it is not clear *why* it is safe, and therefore it might not be clear why this sort of syntax would not be safe in other contexts.
+On the other hand, it still bothers me that the query *looks* unsafe. Also, because it hides why it is safe behind a specific JavaScript feature, I do worry that it is not clear *why* it is safe, and therefore it might not be clear why this sort of syntax would not be safe in other contexts.
+
+Nevertheless, if you are looking for a simple way of writing of writing dynamic but safe queries using Prisma, this is a great option.
 
 ## Making the recommendation
 
@@ -169,9 +171,12 @@ So having read all of this, you are now in a position to make recommendations to
 
 ## In conclusion
 
-So hopefully this has been a useful thought exercise about the day to day considerations in software security. A few key conclusions I think.
+So hopefully this has been a useful thought exercise about the day to day considerations in software security.
+
+A few key conclusions I think.
 
 - Most developers have had a bad experience with security people, being able to bridge this divide means being able to speak their language and provide them with realistic solutions.
-- The ideal solution is not always possible and product security people will need to be ready to find alternatives and to choose their battles.
+- Wherever possible, I'd like to provide a simple and ideal solution, like `$queryRaw`.
+- However, the ideal solution is not always possible and product security people will need to be ready to find alternatives and to choose their battles.
 - This also means that automated scanning which doesn't understand this context will probably provide the wrong answer.
 
