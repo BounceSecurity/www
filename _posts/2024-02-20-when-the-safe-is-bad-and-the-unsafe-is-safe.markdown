@@ -81,9 +81,9 @@ Now as you can see, a significant majority of people who responded with an actua
 
 To be honest, if I had been presented with this question and didn't have time to look it up, I probably would have also said that it's insecure. The reason for this is that as a product security person, I'm constantly expected to have familiarity with a variety of different languages without spending enough time to be an expert in any of them. That means that I'm always looking for the ways in which languages are similar and have similar syntax (and why Ruby is so challenging because it has completely different ideas about syntax compared to most other languages!). 
 
-In this case, if I look at the code, not knowing the specific library and not being a typescript expert, I see what looks like a clear case of string concatenation into an SQL query. It looks like standard string interpolation in typescript like in the example below.
+In this case, if I look at the code, not knowing the specific library and not being a JavaScript/Typescript expert, I see what looks like a clear case of string concatenation into an SQL query. It looks like standard string interpolation, like in the example below.
 
-``` ts
+``` js
 const org_name: string = "GeeksforGeeks";
 const org_desc: string = "A Computer Science portal for all geeks."
 console.log(`Organization name ${org_name}, 
@@ -154,14 +154,41 @@ So let's say that in the developer's use case, they need to build query strings 
 
 Luckily, there is another function in Prisma which they can use. You can pass the function a string variable containing the query with parameter markers, and then variables for each of the parameters and it will safely run the parameterized query.
 
-Unluckily, this function is called `$queryRawUnsafe` which is guaranteed to immediately trigger any security person who gets a sniff of this (including me when I first saw this.)
+Unluckily, this function is called `$queryRawUnsafe` which is guaranteed to immediately trigger any security person who gets a sniff of this (including me when I first saw this.) But it is called this for a good reason, it is very easy to use this function in an unsafe way that results in SQL injection.
 
 Whilst the [warning in the documentation on this function](https://www.prisma.io/docs/orm/prisma-client/queries/raw-database-access/raw-queries#queryrawunsafe) is nuanced, it still pushes you to use `$queryRaw`.
 
 ![image](/assets/img/2024-02-20-unsafe/unsafewarning.png){: .blog-image }
 
-
 And don't get me started on how SAST (code security) scanners will react.
+
+So, for example. Look at the following code:
+
+``` ts
+import { PrismaClient } from '@prisma/client'
+
+const prisma = new PrismaClient()
+
+const users = await prisma.$queryRawUnsafe(`
+SELECT * FROM "User" WHERE email = ${untrustedInput};
+`)
+```
+
+It looks almost identical to the original [code above](#the-linkedin-poll), right?
+
+Except that **this code is 100% vulnerable and will lead to SQL injection**. If you want to use this function, like I said above you have to use parameter markers and then pass the parameters as one or more variables:
+
+``` ts
+import { PrismaClient } from '@prisma/client'
+
+const prisma = new PrismaClient()
+
+const users = await prisma.$queryRawUnsafe(`
+SELECT * FROM "User" WHERE email = $1;
+`, untrustedInput)
+```
+
+This code is safe and not vulnerable. I also like the fact that the parameterization is a little more explicit.
 
 The bottom line is that this function can be used safely but can also be used unsafely.
 
@@ -177,6 +204,6 @@ A few key conclusions I think.
 
 - Most developers have had a bad experience with security people, being able to bridge this divide means being able to speak their language and provide them with realistic solutions.
 - Wherever possible, I'd like to provide a simple and ideal solution, like `$queryRaw`.
-- However, the ideal solution is not always possible and product security people will need to be ready to find alternatives and to choose their battles.
+- However, the ideal solution is not always possible and product security people will need to be ready to find alternatives, secure the alternatives, and to choose their battles.
 - This also means that automated scanning which doesn't understand this context will probably provide the wrong answer.
 
