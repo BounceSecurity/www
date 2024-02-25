@@ -11,7 +11,7 @@ Product Security people can't be everywhere at once. With larger developer teams
 
 That's where Bounce Security comes in.
 
-We have significant experience in product security as well as long experience of working directly with developers and within development organizations. We can use this to help you build and operate a security champions programme that works for your organization.
+We have significant experience in product security, including the application layer, software implementation, cloud deployments, etc. We also have long experience of working directly with developers and within development organizations. We can use this to help you build and operate a security champions programme that works for your organization.
 
 We have seen enough Security Champion Programmes in the past to have a good understanding of the practices that makes a programme successful. At the same time, we are familiar with the anti-patterns that may reduce the programme's efficiency or even cause it to fail.
 

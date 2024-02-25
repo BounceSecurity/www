@@ -10,7 +10,7 @@ hero_link_text: Get in contact with us!
 hero_link_colour: is-dark
 hero_link_size: is-medium
 services_head: Value-Driven Product Security services
-services_body: How can we add value to your product security processes?
+services_body: How can we add value to your product and application security processes?
 training_head: Product Security Training
 training_body: How can we help you level up your skills?
 team_head: Our Team
@@ -25,7 +25,7 @@ At Bounce Security, we care about doing product security the right way.
 
 For us, that means focusing on protecting what _really_ matters. Instead of wasting your limited resources on generic, so-called "best practices", draining your developers’ cycles or squandering budget on expensive and ineffective consultants.
 
-That is why we’ve developed our "**Value-Driven Product Security**" approach, to save you time and money, and to enable a more efficient product security process.
+That is why we’ve developed our "**Value-Driven**" approach, to save you time and money, and to enable a more efficient product security process.
 
 "Value-Driven Product Security" is a much better fit than common purist approaches, for modern development teams looking to design and implement security features in their software, without disrupting their natural flow.
 
