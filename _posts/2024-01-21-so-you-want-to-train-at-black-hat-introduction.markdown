@@ -2,7 +2,7 @@
 layout: post
 title:  "So, you want to train at Black Hat? An Introduction"
 subtitle: "Part 1, introducing this blog series"
-date:   2024-01-15 13:30:00 +0300
+date:   2024-01-21 13:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
