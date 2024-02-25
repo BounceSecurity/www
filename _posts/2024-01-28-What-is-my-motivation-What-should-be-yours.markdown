@@ -55,7 +55,7 @@ And this is a critical point. I don't love designing training courses, I don't l
 
 However, I felt strongly enough about this and was passionate enough to push through and pull all of this together. And then stick with it when things got harder later on. I was determined that this was valuable content and that I wanted to do the work to get this released.
 
-### Your motivation
+#### Your motivation
 
 The bottom line of this section is that building a course from scratch, marketing it and then finally delivering it is going to be a long and tricky road. If you are not used to teaching or presenting then it may also take you out of your comfort zone and you may need to skill up in areas you previously were not used to such as public speaking. Make sure you are passionate enough about this path before you get started.
 
