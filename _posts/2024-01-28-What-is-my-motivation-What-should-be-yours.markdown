@@ -57,7 +57,9 @@ However, I felt strongly enough about this and was passionate enough to push thr
 
 #### Your motivation
 
-The bottom line of this section is that building a course from scratch, marketing it and then finally delivering it is going to be a long and tricky road. If you are not used to teaching or presenting then it may also take you out of your comfort zone and you may need to skill up in areas you previously were not used to such as public speaking. Make sure you are passionate enough about this path before you get started.
+The bottom line of this section is that building a course from scratch, marketing it and then finally delivering it is going to be a long and tricky road.
+
+If you are not used to teaching or presenting then it may also take you out of your comfort zone and you may need to skill up in areas you previously were not used to such as public speaking. Make sure you are passionate enough about this path before you get started.
 
 #### Next post: The financial aspect
 
