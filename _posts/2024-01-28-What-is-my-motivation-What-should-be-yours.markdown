@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Who am I, what is my motivation?
-subtitle: "Part 2, providing some info on how I got into training"
+title:  What is my motivation? What should your motivation be?
+subtitle: "Part 2, providing some info on how I got into training and the motivation needed."
 date:   2024-01-15 15:30:00 +0300
 categories: blog
 hero_height: is-small
@@ -15,7 +15,11 @@ series: training_series
 
 #### Introduction
 
-In this post I will give you some personal background about how I got into delivering public training courses and why. Hopefully it will put some of the later chapters in perspective and also help you understand the motivation you might need to do this.
+In this post I will give you some personal background about how I got into delivering public training courses and why.
+
+May aim is to put some of the later chapters in perspective and also help you understand the motivation you might need to do this.
+
+Admittedly, this chapter is more about me than it is about you so if you are already comfortable with your motivation you may want to skip to the bottom line of this chapter, [what I think you need to expect from the journey](#your-motivation).
 
 #### Some background
 
@@ -51,8 +55,12 @@ And this is a critical point. I don't love designing training courses, I don't l
 
 However, I felt strongly enough about this and was passionate enough to push through and pull all of this together. And then stick with it when things got harder later on. I was determined that this was valuable content and that I wanted to do the work to get this released.
 
-#### The financial aspect
+### Your motivation
+
+The bottom line of this section is that building a course from scratch, marketing it and then finally delivering it is going to be a long and tricky road. If you are not used to teaching or presenting then it may also take you out of your comfort zone and you may need to skill up in areas you previously were not used to such as public speaking. Make sure you are passionate enough about this path before you get started.
+
+#### Next post: The financial aspect
 
 My motivation for this was certainly not money. A lot of the time spent putting this together was in working time when we didn't have a full project load so the time was available any way. The course revenue has covered back some of the time we put into the course, but probably not all. On the other hand, the experiences it led to certainly had value as well.
 
-In the next blog post, I'll go into slightly more detail on the financial aspect.
+In the next blog post, I'll go into much more detail on the financial aspects of training.

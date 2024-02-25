@@ -28,18 +28,20 @@ The last couple of years have taken me on a quite surreal journey which I never 
 The series is split into a set of posts. The posts chapters are roughly chronological but I would strongly recommend that you read all the way through the series before you decide whether this journey is definitely for you.
 
 The posts are planned as follows:
+
 - Introduction (this blog)
-- Who am I, what is my motivation?
-- Plan your financials
-- Other up-front considerations
-- Writing your submission
-- Selling and marketing your course.
-- Making your preparations
-- The experience itself.
+- What was my motivation? What motivation do you need?
+- How do the financials work for a training course
+- What is the niche/selling point for your course?
+- Planning the practical side, how will you make it fun?
+- How should you write your submission to increase the chance of acceptance?
+- How can you sell/market your course?
+- What preparations are you going to want to make before you travel?
+- What was my experience like and what should you expect?
 
 You can see the list of the currently written posts <a href="#top">at the top of this page</a>.
 
-If you have feedback or questions or there are particular things you would like me to cover or you would like make suggestions, please feel free to get in contact with me via [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/).
+If you have feedback or questions or there are particular things you would like me to cover or you would like make suggestions, please feel free to get in contact with me via [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/). This will be an evolving set of posts so be sure to follow me if you want to find out when new posts come out!
 
 #### My motivation
 
