@@ -23,9 +23,9 @@ items:
     info: 
 
   - event: "Cyber Security Virtual Meetups"
-    year: 2024
     dateval: 2024-03-06
     title: "Talk title: The Real AppSec Issues"
+    youtube: kF_g-1YgfSg
     embed: https://www.youtube-nocookie.com/embed/kF_g-1YgfSg
     url: https://www.meetup.com/cyber-security-virtual-meetups/events/299404911/
     by: Josh Grossman
