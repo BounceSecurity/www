@@ -99,7 +99,8 @@ console.log(users)
 I did another LinkedIn poll to see if people would pick up on this but there were still people who thought that this was not vulnerable.
 
 ![image](/assets/img/2024-04-02-prisma-2/linkedinpoll.png){: .blog-image-tall .blog-image }
-<https://www.linkedin.com/feed/update/urn:li:activity:7175089981831405568/>
+
+[LinkedIn Post link](https://www.linkedin.com/feed/update/urn:li:activity:7175089981831405568/)
 
 If you dig deep enough, you can see warnings about this particular function and it is also a lot easier to discover if it is being used than the previous method. But more on that later.
 
