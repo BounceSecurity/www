@@ -74,10 +74,22 @@ items:
     url: https://www.eventbrite.com/e/isc2-application-security-event-with-checkmarx-and-bounce-security-tickets-473968050197
     by: Josh Grossman
     info:
-
+    
+  - event:  NDC Security 2024 (Conference)
+    dateval: 2024-01-11
+    title: Discover your inner security engineer with this one weird trick (hackers hate it!)
+    youtube: VwBGnn9ckXg
+    embed: https://www.youtube-nocookie.com/embed/VwBGnn9ckXg
+    img: assets/img/ndcsecurity2024.png
+    url: https://ndc-security.com/agenda/lightning-talks-0loe/0id6hrfotuj
+    by: Josh Grossman
+    info:
+    
   - event:  NDC Security 2024 (Conference)
     dateval: 2024-01-11
     title: "No Size Fits All: Empowering Engineers with Custom Application Security tests"
+    youtube: ZdqFDiaaeNc
+    embed: https://www.youtube-nocookie.com/embed/ZdqFDiaaeNc
     img: assets/img/ndcsecurity2024.png
     url: https://ndc-security.com/agenda/no-size-fits-all-empowering-engineers-with-custom-application-security-tests-0mgr/09szzp7feis
     by: Michal Kamensky
@@ -86,6 +98,8 @@ items:
   - event:  NDC Security 2024 (Conference)
     dateval: 2024-01-11
     title: Tune your Toolbox for Velocity and Value
+    youtube: RWoOGC68Bg0
+    embed: https://www.youtube-nocookie.com/embed/RWoOGC68Bg0
     img: assets/img/ndcsecurity2024.png
     url: https://ndc-security.com/agenda/tune-your-toolbox-for-velocity-and-value-0703/0ndwga6o99b
     by: Josh Grossman
