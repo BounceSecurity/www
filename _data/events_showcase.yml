@@ -9,6 +9,17 @@ items:
     url: https://brakeingsecurity.com
     by: Josh Grossman
     info:
+
+  - event: RSA Conference 2024
+    year: 2024
+    dateval: 2024-05-08
+    title: Not another Top 10: Getting Business Value from SBoMs
+    img: assets/img/events/RSAC2024.png
+    url: https://www.rsaconference.com/usa/agenda/session/SBOM%20The%20good%20the%20bad%20and%20the%20ugly  
+    by: Avi Douglen 
+    delivery_type: In-Person
+    info: OWASP Seminar 
+    
   - event: Training at OWASP Global AppSec Lisbon 2024
     year: 2024
     date: June 25th-26th
@@ -20,14 +31,13 @@ items:
     course_name: valuenotvulns
     delivery_type: In-Person
     info: 
-
   - event: Training at OWASP Global AppSec Lisbon 2024
     year: 2024
     date: June 25th-26th
     dateval: 2024-06-25
     title: Practical Privacy by Design - Building secure applications that respect privacy
     img: assets/img/events/lisbon.jpg
-    url: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237
+    url: https://lisbon.globalappsec.org/trainings/#sku_PPBD 
     by: Avi Douglen with Dr. Kim Wuyts
     delivery_type: In-Person
     info: 
