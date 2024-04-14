@@ -1,4 +1,14 @@
 items:
+  - event: BrakeSec Education Podcast
+    year: 2024
+    date: 15th April
+    dateval: 2024-04-15
+    title: Building AppSec programs and bridging security and developer gaps
+    youtube: QjvubwKvYBk
+    embed: https://www.youtube-nocookie.com/embed/QjvubwKvYBk
+    url: https://brakeingsecurity.com
+    by: Josh Grossman
+    info:
   - event: Training at OWASP Global AppSec Lisbon 2024
     year: 2024
     date: June 25th-26th
