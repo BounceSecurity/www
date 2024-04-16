@@ -16,4 +16,4 @@ This is a topic I have had significant experience with over the last several yea
 
 From seeing these organisations and discussing in various forums, this problem certainly seems to resonate and training like this would fill a gap that urgently needs to be addressed. Companies are being told that they need to improve their application security posture and that more tools are the key to doing this efficiently. However, it is becoming clear that without effective processes and strategies for working with these tools, they quickly become a burden and a blocker.
 
-You can see more details about what the course covers on the [Course Content](/training-courses/valuenotvulns/topics.html) page.
+You can see more details about what the course covers on the [Course Content](/training/valuenotvulns/topics.html) page.

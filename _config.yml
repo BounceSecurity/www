@@ -52,12 +52,12 @@ collections:
     layout: team-member
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  service-details: 
+  services: 
     output: true
     layout: service
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  training-courses: 
+  training: 
     output: true
     layout: service
     image: https://via.placeholder.com/800x600
@@ -95,20 +95,20 @@ defaults:
   -
     scope:
       path: ""
-      type: "service-details"
+      type: "services"
     values:
       call_link: mailto:info@bouncesecurity.com
       call_text: Let's speak about this!
   -
     scope:
       path: ""
-      type: "training-courses"
+      type: "training"
     values:
       call_link: mailto:info@bouncesecurity.com
       call_text: Let's speak about this!
   -
     scope:
-      path: "training-courses"
+      path: "training"
       type: "pages"
     values:
       call_link: mailto:info@bouncesecurity.com

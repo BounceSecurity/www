@@ -24,4 +24,4 @@ These exercises are based on our highly successful model from previous courses a
 
 Be ready to leave the course with clear strategies and ideas on how to build a valuable product security programme with strong engineering support.
 
-You can see more details about what the course covers on the [Course Content](/training-courses/accelerated/topics.html) page.
+You can see more details about what the course covers on the [Course Content](/training/accelerated/topics.html) page.
