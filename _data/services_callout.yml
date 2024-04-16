@@ -8,18 +8,18 @@ items:
     description: >
       I need help planning a new or expanded Product Security or Application Security Security programme
     call_to_action_name: Read More
-    call_to_action_link: /service-details/roadmapping/
+    call_to_action_link: /services/roadmapping/
   - title: Product Security Consulting
     #subtitle: Example subtitle 2
     icon: fa-users
     description: >
       I need assistance with my existing Product Security or Application Security programme
     call_to_action_name: Read More
-    call_to_action_link: /service-details/consulting/
+    call_to_action_link: /services/consulting/
   - title: Managed Security Champions Programme
     #subtitle: Example subtitle 2
     icon: fa-medal
     description: >
       I need assistance building, improving, or operating my programme
     call_to_action_name: Read More
-    call_to_action_link: /service-details/secchamps/
+    call_to_action_link: /services/secchamps/

@@ -1,9 +1,9 @@
 - label: Course Overview
   items:
     - name: High level course explanation
-      link: /training-courses/bughunting.html
+      link: /training/bughunting.html
     - name: Course Content
-      link: /training-courses/bughunting/topics.html
+      link: /training/bughunting/topics.html
     - name: Where you can attend the course
-      link: /training-courses/bughunting/attend.html
+      link: /training/bughunting/attend.html
     

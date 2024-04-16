@@ -1,12 +1,12 @@
 - label: Course Overview
   items:
     - name: High level course explanation
-      link: /training-courses/accelerated.html
+      link: /training/accelerated.html
     - name: Course Content
-      link: /training-courses/accelerated/topics.html
+      link: /training/accelerated/topics.html
     - name: Participant Feedback
-      link: /training-courses/accelerated/feedback.html
+      link: /training/accelerated/feedback.html
     - name: Audio/Visual information about the course
-      link: /training-courses/accelerated/audiovisual.html
+      link: /training/accelerated/audiovisual.html
     - name: Where you can attend the course
-      link: /training-courses/accelerated/attend.html
+      link: /training/accelerated/attend.html

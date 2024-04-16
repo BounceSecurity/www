@@ -8,7 +8,7 @@ items:
     description: >
       I want to learn how to adopt sustainable threat modelling practices
     call_to_action_name: Read More
-    call_to_action_link: /training-courses/threatmodeling/
+    call_to_action_link: /training/threatmodeling/
 
   - title: Software Security Requirements with the ASVS
     #subtitle: Example subtitle 1
@@ -16,7 +16,7 @@ items:
     description: >
       I want to learn how to use the OWASP ASVS to build secure software
     call_to_action_name: Read More
-    call_to_action_link: /training-courses/asvs/
+    call_to_action_link: /training/asvs/
 
   - title: Building a High-Value AppSec Scanning Programme
     #subtitle: Example subtitle 2
@@ -24,7 +24,7 @@ items:
     description: >
       I want to understand how to get better value from SAST, DAST and SCA tools
     call_to_action_name: Read More
-    call_to_action_link: /training-courses/valuenotvulns/
+    call_to_action_link: /training/valuenotvulns/
 
   - title: Hacking your Product Security Programme for Velocity and Value
     #subtitle: Example subtitle 2
@@ -32,11 +32,11 @@ items:
     description: >
       I want to build an effective and responsive product security programme
     call_to_action_name: Read More
-    call_to_action_link: /training-courses/accelerated/
+    call_to_action_link: /training/accelerated/
 
   - title: "Accurate and Scalable: Web Application Bug Hunting"
     icon: fa-binoculars
     description: >
       I want to learn how to automate my research while keeping it customized
     call_to_action_name: Read More
-    call_to_action_link: /training-courses/bughunting/
+    call_to_action_link: /training/bughunting/
