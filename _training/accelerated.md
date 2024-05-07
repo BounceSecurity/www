@@ -6,6 +6,8 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: accelerated_menu
+redirect_from:
+    - /training-courses/accelerated
 ---
 
 ### High level course explanation

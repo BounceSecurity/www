@@ -6,6 +6,8 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: bughunting_menu
+redirect_from:
+    - /training-courses/bughunting
 ---
 
 ### High level course explanation

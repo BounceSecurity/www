@@ -6,6 +6,8 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: valuenotvulns_menu
+redirect_from:
+    - /training-courses/valuenotvulns
 ---
 
 ### High level course explanation
