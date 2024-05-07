@@ -33,6 +33,7 @@ theme: bulma-clean-theme
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 footer_menu: footer
 

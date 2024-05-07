@@ -5,6 +5,8 @@ layout: service
 hero_height: is-small
 backlink: /training
 backname: Training
+redirect_from:
+    - /training-courses/threatmodeling
 ---
 
 Threat modeling, a structured methodology for security-based analysis of a complex system, can help you identify and prioritize potential threats and attack vectors, and understand the appropriate mitigations.

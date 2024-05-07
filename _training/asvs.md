@@ -5,6 +5,8 @@ layout: service
 hero_height: is-small
 backlink: /training
 backname: Training
+redirect_from:
+    - /training-courses/asvs
 ---
 
 Security incidents due to software bugs are featuring more prominently in mainstream news with each passing year. However, if you are in a software engineering, architecture, or product management role, this may be a specialist area where you have less familiarity.
