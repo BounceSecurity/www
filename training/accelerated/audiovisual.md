@@ -23,3 +23,11 @@ In this short video, I give a quick explanation of the course and the ideas arou
 
 This editorial interview with [Dark Reading](https://www.darkreading.com/) which I did at Black Hat USA 2023, is about the course I ran there but we also dig into my general philosophy when it comes to effective application security which forms the basis for the "Accelerated AppSec" course.
 {% include youtube.html video="7pGS8Ge2Tbs" %}
+
+### Detailed discussion of the ideas around the course (~75 mins)
+
+**[Back to top ↑](#top)**
+
+In this podcast interview with Bryan Brake from [BrakeSec Education](https://www.brakeingsecurity.com/) I dive deeper into the challenges and ideas underlying this training course and talk through some of my ideas for improving an organization's Product Security programme.
+
+{% include youtube.html video="G3PxZFmDyj4" %}
