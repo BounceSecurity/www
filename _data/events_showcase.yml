@@ -1,4 +1,15 @@
 items:
+  - event: OWASP Projects Spotlight Series
+    year: 2024
+    date: 8th April
+    dateval: 2024-04-08
+    title: Threat Modeling Manifesto
+    youtube: vzcCw_1hmwo
+    embed: https://www.youtube-nocookie.com/embed/vzcCw_1hmwo
+    by: Avi Douglen
+    type: podcast
+    info:
+
   - event: BrakeSec Education Podcast
     year: 2024
     date: 15th April
@@ -8,6 +19,7 @@ items:
     embed: https://www.youtube-nocookie.com/embed/G3PxZFmDyj4
     url: https://brakeingsecurity.com/josh-grossman-building-appsec-programs-bridging-security-and-developer-gaps
     by: Josh Grossman
+    type: podcast
     info:
 
   - event: RSA Conference 2024
@@ -31,6 +43,7 @@ items:
     by: Josh Grossman
     course_name: valuenotvulns
     delivery_type: In-Person
+    type: training
     info: 
   - event: Training at OWASP Global AppSec Lisbon 2024
     year: 2024
@@ -41,6 +54,7 @@ items:
     url: https://lisbon.globalappsec.org/trainings/#sku_PPBD 
     by: Avi Douglen with Dr. Kim Wuyts
     delivery_type: In-Person
+    type: training
     info: 
 
   - event: "Cyber Security Virtual Meetups"
@@ -62,6 +76,7 @@ items:
     by: Josh Grossman
     course_name: accelerated
     delivery_type: Virtual
+    type: training
     info: 
 
   - event: Training at BlackHat USA 2024 - Session 2
@@ -74,6 +89,7 @@ items:
     by: Michal Kamensky
     course_name: bughunting
     delivery_type: In-person
+    type: training
     info:
 
   - event: Training at BlackHat USA 2024 - Session 1
@@ -86,6 +102,7 @@ items:
     by: Michal Kamensky
     course_name: bughunting
     delivery_type: In-person
+    type: training
     info:
 
   - event:  (ISC)2 Meetup February 2023
@@ -133,6 +150,7 @@ items:
     by: Josh Grossman
     course_name: valuenotvulns
     delivery_type: In-person
+    type: training
     info:
 
   - event:  DeveloperWeek Enterprise 2023
@@ -159,6 +177,7 @@ items:
     img: assets/img/BHUSA23.jpg
     url: https://www.blackhat.com/us-23/training/schedule/index.html#building--a-high-value-appsec-scanning-programme-sca-sast-dast-and-more-30622 
     by: Josh Grossman
+    type: training
     info:
 
   - event: Livestream at BlackHat USA 2023
@@ -168,6 +187,7 @@ items:
     embed: https://www.youtube-nocookie.com/embed/live/tqW--YelyPA?feature=share&t=5333
     url: https://www.linkedin.com/feed/update/urn:li:activity:7095780902043082752/
     by: Josh Grossman
+    type: podcast    
     info:
 
   - event: PyCon Israel 2023
@@ -190,6 +210,7 @@ items:
     embed: https://www.youtube-nocookie.com/embed/q1aFYoWEf1M
     url: https://www.ergonautic.ly/
     by: Avi Douglen
+    type: podcast
     info:
 
   - event: DataDog Application Security Report Livestream
@@ -201,6 +222,7 @@ items:
     embed: https://www.youtube-nocookie.com/embed/6quqIAq9QfQ
     url: https://www.datadoghq.com/
     by: Avi Douglen
+    type: podcast
     info: 
 
   - event: OWASP 2023 Virtual June Training
@@ -211,6 +233,8 @@ items:
     img: assets/img/June OWASP virtual training.jpg
     url: https://www.eventbrite.com/e/owasp-2023-virtual-june-training-tickets-600868583107?utm_campaign=none&utm_medium=event-page&utm_source=owasp-web
     by: Josh Grossman
+    delivery-type: Virtual
+    type: training
     info:
 
   - event: SecAppDev Workshop
@@ -221,6 +245,7 @@ items:
     img: assets/img/secappdev logo.png
     url: https://secappdev.org/2023/sessions/building-secure-systems-with-threat-modeling/
     by: Avi Douglen
+    type: training
     info:
 
   - event: SecAppDev Lectures
@@ -258,6 +283,7 @@ items:
     date: June 26-30th
     dateval: 2023-06-26
     title: Security Heroes Versus the Power of Privacy!
+    img: assets/img/Troopers23-SecHeroes-PowerPrivacy.png
     youtube: rBdcupIhkDc
     embed: https://www.youtube-nocookie.com/embed/watch?v=rBdcupIhkDc
     url: https://troopers.de/troopers23/talks/rwjsfv/
@@ -406,6 +432,7 @@ items:
     embed: https://www.youtube-nocookie.com/embed/CnGt-oJXogA
     url: https://bsidestlv.com/
     by: Avi Douglen
+    type: keynote    
     info:
 
   - event: BSides Tel Aviv 2022
