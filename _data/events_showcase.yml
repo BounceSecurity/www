@@ -1,4 +1,15 @@
 items:
+  - event: OWASP Projects Spotlight Series
+    year: 2024
+    date: 8th April
+    dateval: 2024-04-08
+    title: Threat Modeling Manifesto
+    youtube: vzcCw_1hmwo
+    embed: https://www.youtube-nocookie.com/embed/vzcCw_1hmwo
+    by: Avi Douglen
+    type: podcast
+    info:
+
   - event: BrakeSec Education Podcast
     year: 2024
     date: 15th April
