@@ -6,7 +6,13 @@
   - name: Product Security Training
     link: /training/
 - name: Who are we
-  link: /team/
+  link: /#
+  dropdown:
+  - name: Our Team
+    link: /team/
+  - name: Our Alumni
+    link: /alumni/
+
 - name: Where we were
   link: /eventspast/
   condition: past

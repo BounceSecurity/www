@@ -4,7 +4,7 @@
 
 <div class="columns is-multiline">
    
-  {% assign sorted_team = site.team-members | sort:page.sort %}
+  {% assign sorted_team = site.team-members | where:"status", page.person_status | sort:page.sort %}
 
   {% for teammember in sorted_team %}
   <div class="column is-4-desktop is-6-tablet">
