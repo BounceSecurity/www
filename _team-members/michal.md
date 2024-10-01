@@ -5,7 +5,7 @@ layout: team-member
 hero_height: is-small
 img: /assets/img/MichalK1.jpg
 sort_order: 5
-status: active
+status: alumni
 contacts:
     - label: Michal's LinkedIn profile
       url: https://www.linkedin.com/in/michal-kamensky-a65804247
