@@ -5,6 +5,7 @@ layout: team-member
 hero_height: is-small
 img: /assets/img/BounceLogo.png
 sort_order: 6
+status: active
 contacts:
     - label: Bounce Security's LinkedIn profile
       url: https://www.linkedin.com/company/bounce-security/

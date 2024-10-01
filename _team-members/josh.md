@@ -5,6 +5,7 @@ layout: team-member
 hero_height: is-small
 img: /assets/img/Josh1.png
 sort_order: 4
+status: active
 contacts:
     - label: Josh's LinkedIn profile
       url: https://www.linkedin.com/in/joshcgrossman/

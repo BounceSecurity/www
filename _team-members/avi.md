@@ -5,6 +5,7 @@ layout: team-member
 hero_height: is-small
 img: /assets/img/AviD1.png
 sort_order: 2
+status: active
 contacts:
     - label: Avi's LinkedIn profile
       url: https://www.linkedin.com/in/avidouglen/
