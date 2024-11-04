@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing your Submission"
-subtitle: "Part 5, how to write a submission to impress the reviewers?"
+subtitle: "Part 6, how to write a submission to impress the reviewers?"
 date:   2024-09-01 15:30:00 +0300
 categories: blog
 hero_height: is-small
@@ -99,4 +99,8 @@ For my course, aside from the materials from the exercises and the slides of cou
 
 Once you have submitted, it's time to play the waiting game and hope you get accepted.
 
-I have been rejected multiple times, even after I have been accepted at previous events from the same organization. E.g. I have never been accepted by Black Hat Asia and was accepted by Black Hat EU a couple of year but then rejected the following year. 
+I have been rejected multiple times, even after I have been accepted at previous events from the same organization. E.g. I have never been accepted by Black Hat Asia and was accepted by Black Hat EU a couple of years but then rejected the following year.
+
+As such, even if you didn't get accepted, make sure you ask for feedback and try again next time.
+
+If you did get accepted, congratulations! That is already a massive achievement and demonstrates that your course sounds good to the review board. However, the next stage will be to get people to attend. I will talk about this more in the next post.
