@@ -5,6 +5,7 @@ layout: team-member
 hero_height: is-small
 img: /assets/img/LielS1.png
 sort_order: 5
+status: active
 contacts:
     - label: Liel's LinkedIn profile
       url: https://www.linkedin.com/in/liel-shaked-cohen-b28bb1180
