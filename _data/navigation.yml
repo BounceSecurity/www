@@ -5,14 +5,8 @@
     link: /services/
   - name: Product Security Training
     link: /training/
-- name: Who are we
-  link: /#
-  dropdown:
-  - name: Our Team
-    link: /team/
-  - name: Our Alumni
-    link: /alumni/
-
+- name: Who we are
+  link: /team/
 - name: Where we were
   link: /eventspast/
   condition: past
