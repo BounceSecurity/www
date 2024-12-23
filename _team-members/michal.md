@@ -15,6 +15,6 @@ contacts:
       url: https://twitter.com/Kam3nskyM
 ---
 
-Michal was a security consultant and researcher at Bounce Security, with a focus on deep technical topics and pushing the boundaries of application security testing. 
+Michal worked at Bounce Security as a security consultant and researcher, with a focus on deep technical topics and pushing the boundaries of application security testing. 
 
 Michal went on to take her formidable Security Research skills to Microsoft!
