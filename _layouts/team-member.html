@@ -36,7 +36,12 @@ title: Fred
             {% include contacts.html contacts=page.contacts %}
         {% endif %}
         <br>
-        <a href="/team">Back to <strong>Our Team</strong></a>
+        {% if page.status == "active"%}
+            <a href="/team">Back to <strong>Our Team</strong></a>
+        {% endif %}
+        {% if page.status == "alumni"%}
+        <a href="/alumni">Back to <strong>Our Alumni</strong></a>
+    {% endif %}
         
     </div>
     <div class="column is-12" id="events">

@@ -4,7 +4,8 @@ subtitle: Associate Security Consultant
 layout: team-member
 hero_height: is-small
 img: /assets/img/MichalK1.jpg
-sort_order: 5
+sort_order: 97
+status: alumni
 contacts:
     - label: Michal's LinkedIn profile
       url: https://www.linkedin.com/in/michal-kamensky-a65804247
@@ -14,5 +15,6 @@ contacts:
       url: https://twitter.com/Kam3nskyM
 ---
 
-Michal is a security consultant and researcher at Bounce Security - where she works on projects to help clients build software securely from the start. 
-She particularly enjoys diving into a new domain and learning it inside out as well as sharing her knowledge with the community. In her spare time, she is a student of computer science and math, volunteers at the Hackeriot initiative and she also enjoys playing chess, following artistic and rhythmic gymnastics and is the lucky human of a ginger tabby cat named Unix.
+Michal was a security consultant and researcher at Bounce Security, with a focus on deep technical topics and pushing the boundaries of application security testing. 
+
+Michal went on to take her formidable Security Research skills to Microsoft!
