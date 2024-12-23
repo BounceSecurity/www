@@ -17,6 +17,7 @@ team_head: Our Team
 team_body: Check out our fantastic team!
 sort: sort_order
 mode: modal
+person_status: active
 ---
 
 #### About Bounce Security
