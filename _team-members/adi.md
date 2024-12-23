@@ -4,7 +4,7 @@ subtitle: CTO
 layout: team-member
 hero_height: is-small
 img: /assets/img/adi.png
-sort_order: 2
+sort_order: 99
 status: alumni
 contacts:
     - label: Adi's LinkedIn profile

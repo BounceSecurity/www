@@ -4,7 +4,7 @@ subtitle: Associate Security Consultant
 layout: team-member
 hero_height: is-small
 img: /assets/img/MichalK1.jpg
-sort_order: 5
+sort_order: 97
 status: alumni
 contacts:
     - label: Michal's LinkedIn profile
