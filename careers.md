@@ -6,7 +6,6 @@ show_sidebar: false
 hero_height: is-small
 ---
 
-<div class="content">
  
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
@@ -106,4 +105,4 @@ We also spend a lot of our time contributing to our communities. OWASP, BSides, 
 ### Send your resume, CV, or LinkedIn to us at: jobs@bouncesecurity.com 
 This is not an automated system that often loses sight of the human behind the details, but we will personally read every.single.application. Thanks for considering Bounce Security! 
 
-</div>
+
