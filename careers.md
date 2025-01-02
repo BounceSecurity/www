@@ -10,11 +10,6 @@ hero_height: is-small
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
 
-<i class="fa-solid fa-kitchen-set" />
-<i class="fa-solid fa-house-laptop" /> 
-<i class="fa-solid fa-hands-holding-circle"></i> 
-
-
 As our ProdSec Consultant, you will work on interesting projects to provide our clients with your insights on their designs, inform them of the security impact of their decisions, review their systems to identify and mitigate security flaws, and inspect their policies and implemented practices to improve their workflows.   
 
 Our “product security” umbrella is quite wide, covering application security, code, cloud platforms, system architecture, data lifecycle, and development processes, yet is narrowly focused on providing value by directly improving our clients’ products.   
@@ -47,14 +42,15 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
 
 
 ### Why you should join us 
-  * <i class="fas fa-comments-dollar" />	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
-  *	<i class="fas fa-crown" /> **Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
-  *	<i class="fas fa-umbrella-beach" /> **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
-  *	<i class="fas fa-satellite-dish" /> **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
-  * <i class="fas fa-fingerprint" /> **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
-  *	<i class="fas fa-hand-holding-heart" /> **Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
-  *	<i class="fas fa-graduation-cap" /> **Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
-
+<ul class="fa-ul">
+  * <span class="fa-li"><i class="fas fa-comments-dollar" /></span>	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
+  *	<span class="fa-li"><i class="fas fa-crown" /></span> **Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
+  *	<span class="fa-li"><i class="fas fa-umbrella-beach" /></span> **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
+  *	<span class="fa-li"><i class="fas fa-satellite-dish" /></span> **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
+  * <span class="fa-li"><i class="fas fa-fingerprint" /></span> **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
+  *	<span class="fa-li"><i class="fas fa-hand-holding-heart" /></span> **Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
+  *	<span class="fa-li"><i class="fas fa-graduation-cap" /></span> **Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
+</ul>
 
 ### What you’ll be doing
 Our typical workday is undefined, as it depends on the specific clients, projects, and initiatives we are focusing on at that point.   
