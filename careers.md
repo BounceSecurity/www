@@ -1,11 +1,12 @@
 ---
 title: Careers at Bounce Security
 subtitle: Come work with us! 
-layout: default
+layout: page
 show_sidebar: false
 hero_height: is-small
 ---
 
+<div class="content">
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
 
@@ -41,7 +42,7 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
 
 
 ## Why you should join us 
-  * <i class="fa-solid fa-comments-dollar"></i>	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
+  * <i class="fas fa-comments-dollar"></i>	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
   *	<i class="fa-brands fa-space-awesome"></i> **Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
   *	<i class="fa-solid fa-umbrella-beach"></i><i class="fa-solid fa-house-laptop"></i> **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
   *	<i class="fa-solid fa-satellite-dish"></i><i class="fa-solid fa-earth-europe"></i><i class="fa-solid fa-hands-holding-circle"></i> **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
@@ -103,3 +104,5 @@ We also spend a lot of our time contributing to our communities. OWASP, BSides, 
 # Does this sound like you? 
 ### Send your resume, CV, or LinkedIn to us at: jobs@bouncesecurity.com 
 This is not an automated system that often loses sight of the human behind the details, but we will personally read every.single.application. Thanks for considering Bounce Security! 
+
+</div>
