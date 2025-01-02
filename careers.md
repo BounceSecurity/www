@@ -10,6 +10,17 @@ hero_height: is-small
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
 
+<i class="fas fa-comments-dollar" />
+<i class="fas fa-crown" /> <i class="fas fa-kitchen-set" />
+<i class="fas fa-house-laptop" /> <i class="fas fa-umbrella-beach" /> 
+<i class="fas fa-hands-holding-circle"></i> 
+<i class="fas fa-satellite-dish"></i> 
+<i class="fas fa-earth-europe"></i>
+<i class="fas fa-users-rays"></i> <i class="fas fa-fingerprint"></i> 
+<i class="fas fa-hand-holding-heart"></i> 
+<i class="fas fa-graduation-cap"></i> 
+
+
 As our ProdSec Consultant, you will work on interesting projects to provide our clients with your insights on their designs, inform them of the security impact of their decisions, review their systems to identify and mitigate security flaws, and inspect their policies and implemented practices to improve their workflows.   
 
 Our “product security” umbrella is quite wide, covering application security, code, cloud platforms, system architecture, data lifecycle, and development processes, yet is narrowly focused on providing value by directly improving our clients’ products.   
@@ -46,7 +57,7 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
   *	<i class="fas fa-crown" /> <i class="fas fa-kitchen-set" /> **Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
   *	<i class="fas fa-house-laptop" /> <i class="fas fa-umbrella-beach" /> **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
   *	<i class="fas fa-hands-holding-circle"></i> <i class="fas fa-satellite-dish"></i> <i class="fas fa-earth-europe"></i> **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
-  *	i class="fas fa-users-rays"></i> <i class="fas fa-fingerprint"></i> **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
+  *	<i class="fas fa-users-rays"></i> <i class="fas fa-fingerprint"></i> **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
   *	<i class="fas fa-hand-holding-heart"></i> **Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
   *	<i class="fas fa-graduation-cap"></i> **Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
 
