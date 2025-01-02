@@ -39,14 +39,15 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
   *	Want to work for a big company or be forced to go into an office every day.
 
 
+
 ## Why you should join us 
-  *	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
-  *	**Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
-  *	**Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
-  *	**Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
-  *	**Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
-  *	**Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
-  *	**Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
+  * <i class="fa-solid fa-comments-dollar"></i>	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
+  *	<i class="fa-brands fa-space-awesome"></i> **Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
+  *	<i class="fa-solid fa-umbrella-beach"></i><i class="fa-solid fa-house-laptop"></i> **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
+  *	<i class="fa-solid fa-satellite-dish"></i><i class="fa-solid fa-earth-europe"></i><i class="fa-solid fa-hands-holding-circle"></i> **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
+  *	<i class="fa-solid fa-fingerprint"></i> <i class="fa-solid fa-users-rays"></i> **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
+  *	<i class="fa-solid fa-hand-holding-heart"></i> **Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
+  *	<i class="fa-solid fa-graduation-cap"></i> **Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
 
 
 ## What you’ll be doing
