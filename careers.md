@@ -1,10 +1,11 @@
 ---
 title: Careers at Bounce Security
 subtitle: Come work with us! 
-layout: default
+layout: page
 show_sidebar: false
 hero_height: is-small
 ---
+
 
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
@@ -19,7 +20,7 @@ This is a remote role (preferably within Israel) - as is the whole company - as 
 
 Application details down below. 
 
-## Who you are 
+### Who you are 
 You would be a good fit if you: 
   *	Want to work with developers to support them in building secure products.
   *	Like learning new things while in motion, and providing actionable insights while doing deep-dive research.
@@ -39,17 +40,20 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
   *	Want to work for a big company or be forced to go into an office every day.
 
 
-## Why you should join us 
-  *	**Interesting work and fair pay** (let’s be honest, that’s table stakes). 
-  *	**Experience**: our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.  
-  *	**Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. 
-  *	**Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.  
-  *	**Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. 
-  *	**Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. 
-  *	**Great learning opportunity**: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.  
+
+### Why you should join us 
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-comments-dollar"></i></span><strong>Interesting work and fair pay</strong> (let’s be honest, that’s table stakes). </li>
+  <li><span class="fa-li"><i class="fas fa-crown"></i></span> <strong>Experience</strong>: Our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.</li>
+  <li><span class="fa-li"><i class="fas fa-umbrella-beach"></i></span> <strong>Flexibility</strong>: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. </li>
+  <li><span class="fa-li"><i class="fas fa-satellite-dish"></i></span> <strong>Community</strong>: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday. </li>
+  <li><span class="fa-li"><i class="fas fa-fingerprint"></i></span> <strong>Unique focus</strong>: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. </li>
+  <li><span class="fa-li"><i class="fas fa-hand-holding-heart"></i></span> <strong>Caring</strong>: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. </li>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> <strong>Great learning opportunity</strong>: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.</li></ul>
 
 
-## What you’ll be doing
+### What you’ll be doing
 Our typical workday is undefined, as it depends on the specific clients, projects, and initiatives we are focusing on at that point.   
 
 For example, some of the activities you would be doing in this role:   
@@ -70,7 +74,7 @@ You will likely have a couple of ongoing clients with whom you will connect week
 You will be expected to spend some of your day expanding your knowledge base and enhancing your skillset, as a core goal. There will also be opportunities to perform independent research, publish articles, and even present at conferences if you’d like. 
 
 
-## What we want
+### What we want
 To truly succeed in this role, we need to see prior experience in securing applications – either in a security role, or in an adjacent role such as software development or DevOps.  
 
 While these specific details are not absolutely mandatory, we do prefer:  
@@ -99,6 +103,8 @@ We also spend a lot of our time contributing to our communities. OWASP, BSides, 
 
 ---
 
-# Does this sound like you? 
-### Send your resume, CV, or LinkedIn to us at: jobs@bouncesecurity.com 
+## Does this sound like you? 
+### Send your resume, CV, or LinkedIn to us at: [jobs@bouncesecurity.com](mailto:jobs@bouncesecurity.com)  
 This is not an automated system that often loses sight of the human behind the details, but we will personally read every.single.application. Thanks for considering Bounce Security! 
+
+
