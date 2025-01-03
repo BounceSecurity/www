@@ -104,7 +104,7 @@ We also spend a lot of our time contributing to our communities. OWASP, BSides, 
 ---
 
 ## Does this sound like you? 
-### Send your resume, CV, or LinkedIn to us at: jobs@bouncesecurity.com 
+### Send your resume, CV, or LinkedIn to us at: [jobs@bouncesecurity.com](mailto:jobs@bouncesecurity.com)  
 This is not an automated system that often loses sight of the human behind the details, but we will personally read every.single.application. Thanks for considering Bounce Security! 
 
 
