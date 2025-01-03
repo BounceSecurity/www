@@ -10,13 +10,14 @@ hero_height: is-small
 # About the role - Product Security Consultant 
 We’re looking for you to be our next **Product Security Consultant**!  
 
-As our ProdSec Consultant, you will work on interesting projects to provide our clients with your insights on their designs, inform them of the security impact of their decisions, review their systems to identify and mitigate security flaws, and inspect their policies and implemented practices to improve their workflows.   
+As our ProdSec Consultant, you will work on interesting projects to provide our clients with your insights on their designs, inform them of the security impact of their decisions, review their systems to identify and mitigate security flaws, and inspect their policies and implemented practices to improve their workflows – all with our “_Value Driven Security_” approach.   
 
 Our “product security” umbrella is quite wide, covering application security, code, cloud platforms, system architecture, data lifecycle, and development processes, yet is narrowly focused on providing value by directly improving our clients’ products.   
 
-To succeed in this role, you need to have a bit of background already. We are looking for **mid-to senior level** candidates, with prior experience in securing  applications – either in a security role, or in an adjacent role such as software development or DevOps . We are open to hearing from **junior candidates** as well, though for this role we would expect to see demonstration of significant abilities. (We do believe in hiring and training juniors, but not for this role.)  
+At this time, we are looking for **mid-to senior level** candidates, with prior experience in securing  applications – either in a security role, or in an adjacent role such as software development or DevOps.  
+We are open to hearing from **junior candidates** as well, though for this role we would expect to see demonstration of significant abilities. (We do believe in hiring and training juniors, but not for this role.)  
 
-This is a remote role (preferably within Israel) - as is the whole company - as we are focused on productivity and deliverables. You will work independently while in close synchronization with the rest of the team.  
+> This is a remote role (preferably within Israel) - as is the whole company - as we are focused on productivity and deliverables. You will work independently while in close synchronization with the rest of the team.  
 
 Application details down below. 
 
@@ -30,7 +31,7 @@ You would be a good fit if you:
   *	Prefer to work independently whilst also being part of a team with frequent communications and tight synchronization. 
   *	Are human, of any gender, race, religion, persuasion, or any other aspect irrelevant to the job. Even if you love PHP.  
 
-This job would probably not be a great fit for you (but we won’t disqualify you) if you:   
+That said, this job would probably NOT be a great fit for you (but we won’t disqualify you) if you:   
   *	Want to do penetration testing or spend your day hunting vulnerabilities, reversing binaries and generally breaking stuff.
   *	Prefer to work with computers than with people.
   *	Aren't interested in software development and code.
@@ -50,7 +51,7 @@ This job would probably not be a great fit for you (but we won’t disqualify yo
   <li><span class="fa-li"><i class="fas fa-satellite-dish"></i></span> <strong>Community</strong>: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday. </li>
   <li><span class="fa-li"><i class="fas fa-fingerprint"></i></span> <strong>Unique focus</strong>: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. </li>
   <li><span class="fa-li"><i class="fas fa-hand-holding-heart"></i></span> <strong>Caring</strong>: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. </li>
-  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> <strong>Great learning opportunity</strong>: Working with us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.</li></ul>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> <strong>Great learning opportunity</strong>: When you join us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.</li></ul>
 
 
 ### What you’ll be doing
@@ -58,7 +59,7 @@ Our typical workday is undefined, as it depends on the specific clients, project
 
 For example, some of the activities you would be doing in this role:   
   *	Daily synchronization with the rest of the team;
-  *	Providing ongoing support and input to other team members;
+  *	Provide ongoing support and input to other team members;
   *	Work with client engineering teams to improve their security practices;
   *	Perform design reviews and code reviews;
   *	Build and review a security architecture;
@@ -71,7 +72,7 @@ For example, some of the activities you would be doing in this role:
 
 You will likely have a couple of ongoing clients with whom you will connect weekly as a virtual part of the product security team, managing many aspects of their product security and performing these activities. You will also participate in shorter, more focused projects producing a specific deliverable to solve a specific problem.  
 
-You will be expected to spend some of your day expanding your knowledge base and enhancing your skillset, as a core goal. There will also be opportunities to perform independent research, publish articles, and even present at conferences if you’d like. 
+We also expect you to spend some of your day expanding your knowledge base and enhancing your skillset, as a core goal with allocated time. There will also be opportunities to perform independent research, publish articles, and even present at conferences if you’d like.   
 
 
 ### What we want
@@ -79,7 +80,7 @@ To truly succeed in this role, we need to see prior experience in securing appli
 
 While these specific details are not absolutely mandatory, we do prefer:  
   *	Work experience in an AppSec or product security role. Alternatively, experience in software development, DevOps, or other adjacent role where you can demonstrate how you worked to secure the product.
-  *	Good knowledge of at least one programming language, and comfort with transferring that knowledge to other languages.
+  *	Good knowledge of at least one programming language, and confidence to transfer that knowledge to other languages.
   *	Strong communication skills, including professional spoken and written English.
   *	Enthusiasm about the field of product security and eagerness to grow your expertise. 
   *	Ability to parse and analyze a complex topic and distill key information quickly. 
@@ -87,19 +88,19 @@ While these specific details are not absolutely mandatory, we do prefer:
 
 
 # About Bounce Security
-Job content is important, but for many of the best candidates, where you work, and with whom you work, is just as important (if not more so) as what you will be doing. So, you should know a few things about us too!  
+Job content is important, but for many of the best candidates - _where_ you work, and _with whom_ you work, is just as important (if not more so) as _what_ you will be doing. So, you should know a few things about us too!  
 
-**Bounce Security** is a boutique product security consultancy. What this means is that we are a small, focused but flexible company, specializing in providing value-driven security to product companies. What that means is that we spend our days helping teams to improve their workflows and their products, and guiding them to implement the right security in the right way.  
+**Bounce Security** is a boutique product security consultancy. What this means is that we are a small, focused but flexible company, specializing in providing value-driven security to product companies. What _that_ means is that we spend our days doing whatever is needed to help teams improve their workflows and their products, and guiding them to implement the right security in the right way.  
 
-As a small company, we are also incredibly flexible to accommodate your personal life, and we are focused on improving our craft while enjoying the work itself. While we are a fully remote company – to increase productivity, and for other reasons – we are cognizant of the need to have a social connection with teammates. We try to get together (during work hours of course) at least once a month, sometimes more, just to chat, share a bite or a milkshake, and just hang out with each other.  
+As a small company, we are also incredibly **flexible** to accommodate your personal life, and we are focused on improving our craft while enjoying the work itself. While we are a fully remote company – to increase productivity, and for other reasons – we are cognizant of the need to have a social connection with teammates. We try to get together (during work hours of course) at least once a month, sometimes more, just to chat, share a bite or a milkshake, and just hang out with each other.  
 
-We have a great culture! We know, lots of companies say that, and most of them either don’t explain, or they only talk about their foosball tables (and hey, we love foosball! But that ain’t culture). At Bounce Security, we actually help build our client’s security culture, so we know a thing or two about what that means. We spend a lot of time thinking about our internal culture and how to promote a healthy environment of support, independence, excellence, and growth. And how to be inclusive for each unique, individual person, and their skills, their quirks, and their needs.  
+We have a great **culture**! We know, lots of companies say that, and most of them either don’t explain, or they only talk about their foosball tables (and hey, we love foosball! But that ain’t culture). At Bounce Security, we actually help build our client’s security culture, so we know a thing or two about what that means. We spend a lot of time thinking about our internal culture and how to promote a healthy environment of support, independence, excellence, and growth. And how to be inclusive for each unique, individual person, and their skills, their quirks, and their needs.  
 
-We are NOT a family, which can often be annoying or even toxic, and not of your choosing – we are a self-selecting team who choose to work together because we respect each either, learn from each other, and basically just enjoy it. Your actual family does come first! We do not believe in work-life balance, which implies they are equal and at odds, one at the expense of the other. We prefer to think in terms of respecting boundaries, and we will never violate yours.  
+We are NOT a family, which can often be annoying or even toxic, and not of your choosing – we are a self-selecting team who choose to work together because we respect each either, learn from each other, and basically just enjoy it. Your actual family does come first! We do not believe in work-life balance, which implies they are equal and at odds, one at the expense of the other. We prefer to think in terms of **respecting boundaries**, and we will never violate yours.  
 
-We avoid working late nights or weekends – unless that happens to be your preferred work patterns, instead of early mornings; either way, it’s your choice! Whatever you define, work happens when you’re working; when you are off work, you are NOT working. We want you to work hard and then take the time off that you need without the expectation of being “always on”. We won’t dump a huge pile on you and expect you to sacrifice yourself to figure it out; instead, we plan accordingly and leave ourselves plenty of buffers to handle missed estimates, emergencies (both personal and clients), surprise goats, and a healthy lifestyle.   
+We avoid working late nights or weekends – unless that happens to be your preferred work patterns, instead of early mornings; either way, it’s your choice! Whatever you define, work happens when you’re working; when you are off work, you are NOT working. We want you to work hard and then take the time off that you need without the expectation of being “always on”. We won’t dump a huge pile on you and expect you to sacrifice yourself to figure it out; instead, we plan accordingly and leave ourselves plenty of buffers to handle missed estimates, emergencies (both personal and clients), surprise goats, and a **healthy lifestyle**.   
 
-We also spend a lot of our time contributing to our communities. OWASP, BSides, Hackeriot, and more. If you have an itch to be active and contribute to the community, you have our full support, and we will dedicate time for it.  
+We also spend a lot of our time contributing to our **communities**. OWASP, BSides, Hackeriot, and more. If you have an itch to be active and contribute to the community, you have our full support, and we will dedicate time for it.  
 
 ---
 
