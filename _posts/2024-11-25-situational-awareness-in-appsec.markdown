@@ -218,6 +218,8 @@ There probably isn't much data we can gather from this but this system can be us
 
 The place where employees document long form information about the company, the application, etc. 
 
+![library image](/assets/img/2024-11-25-situational/library.png){: .blog-image}
+
 ### Possible examples
 
 Examples of systems like this include:
@@ -225,7 +227,6 @@ Examples of systems like this include:
 - Confluence
 - Sharepoint
 - Notion
-- 
 
 ### What can we gather from it
 
@@ -246,7 +247,9 @@ This system can be useful for our own work, allowing us to:
 
 ## Source control system and Continuous Integration
 
-The system the company uses to store their source code and also to perform compilation/build processes. 
+The system the company uses to store their source code and also to perform compilation/build processes.
+
+![source image](/assets/img/2024-11-25-situational/source.png){: .blog-image}
 
 ### Possible examples
 
@@ -291,9 +294,9 @@ This system can be useful for our own work, allowing us to:
 
 ## Observability 
 
-((Meme of winnie the pooh in a suit. with logging and observability)
-
 This is the posh new word for logging :) The overall goal is to give developers and operations team more insight into what is going on in the running application, especially in production.
+
+![observability image](/assets/img/2024-11-25-situational/observability.jpg){: .blog-image}
 
 ### Possible examples
 
@@ -301,7 +304,8 @@ Examples of systems like this include:
 
 - DataDog
 - Logz.io
--
+- Sentry
+- New Relic
 
 ### What can we gather from it
 
