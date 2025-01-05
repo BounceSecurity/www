@@ -74,6 +74,8 @@ This system can be useful for our own work, allowing us to:
 
 A personal mailbox in the company's internal email system. I think we know what email is by now but the scope here is to have an account where when we send an email, it doesn't have a scary "this is an external email" message at the top.
 
+![email system](/assets/img/2024-11-25-situational/email.png){: .blog-image}
+
 ### Possible examples
 
 Examples of systems like this include:
@@ -81,7 +83,6 @@ Examples of systems like this include:
 - Office 365
 - Google Workspace
 - Zoho
--
 
 ### What can we gather from it
 
@@ -108,6 +109,8 @@ This system can be useful for our own work, allowing us to:
 ## Company calendar 
 
 The place where employees plan their meetings and potentially structure their day in other ways.
+
+![calendar image](/assets/img/2024-11-25-situational/calendar.png){: .blog-image}
 
 ### Possible examples
 
@@ -137,6 +140,8 @@ This system can be useful for our own work, allowing us to:
 ## Internal chat system 
 
 Most organizations will have a more informal system for internal ad hoc conversations without the overhead and formality of email. It will usually include both person to person conversations and also groups.
+
+![chat image](/assets/img/2024-11-25-situational/chat.png){: .blog-image}
 
 ### Possible examples
 
@@ -181,6 +186,8 @@ This system can be useful for our own work, allowing us to:
 ## Internal conference platform 
 
 The audio/video conferencing platform which the company uses for its internal meetings.
+
+![videoconf image](/assets/img/2024-11-25-situational/videoconf.png){: .blog-image}
 
 ### Possible examples
 
