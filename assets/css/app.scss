@@ -55,16 +55,6 @@ div {
 	scroll-margin-top: 3.5em;
 }
 
-
-.hero.is-primary {
-	.title {
-		color: #fff;
-	}
-	.subtitle {
-		color: rgba(255, 255, 255, 0.9);
-	}
-}
-
 // Without this, the modal will go wider than a mobile screen.
 // Plus at the same time we override the previously transparent
 // background colour
@@ -158,7 +148,7 @@ $graduation:"\f19d";
 			font-variant:normal;
 			line-height:1;
 			text-rendering:auto;
-			font-family:"Font Awesome 6 Free";
+			font-family:"Font Awesome 5 Free";
 			font-weight:900;
 			font-size: x-large;
 		}
