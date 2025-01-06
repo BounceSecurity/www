@@ -96,3 +96,61 @@ div {
 	margin-right:auto;
 	margin-bottom: 10px;
 }
+
+// -------- Font awesome characters
+
+$thumb: "\f00c";
+$x: "\58";
+$dollar:"\f653";
+$crown:"\f521";
+$beach:"\f5ca";
+$satellite:"\f7c0";
+$fingerprint:"\f577";
+$hand-heart:"\f4be";
+$graduation:"\f19d";
+
+// -------- Font awesome styles
+@counter-style benefits {
+    system: cyclic;
+    symbols: $dollar $crown $beach $satellite $fingerprint $hand-heart $graduation; 
+    suffix: " ";
+}
+
+.list-awesome ul { 
+	list-style: benefits;
+	li::marker {
+		color: $primary;
+	}
+}
+
+.list-awesome-good ul { 
+	list-style: $thumb;
+	li::marker {
+		color: lightgreen;
+	}
+}
+
+.list-awesome-bad ul { 
+	list-style: $x;
+	li::marker {
+		color:red;
+	}
+}
+
+.list-awesome, .list-awesome-good, .list-awesome-bad {
+	ul li {
+		padding-inline-start: 2ch;
+
+		&::marker {
+			-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;
+			display:var(--fa-display,inline-block);
+			font-style:normal;
+			font-variant:normal;
+			line-height:1;
+			text-rendering:auto;
+			font-family:"Font Awesome 6 Free";
+			font-weight:900;
+			font-size: x-large;
+		}
+	}
+}
