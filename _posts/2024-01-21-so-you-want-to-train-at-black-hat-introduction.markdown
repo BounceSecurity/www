@@ -15,34 +15,38 @@ series: training_series
 
 #### Introduction
 
-In this post I introduce this blog series and give you an overview of what it is about and why I wanted to write it.
+Welcome to a new blog series exploring the process of preparing, submitting, and delivering training courses at conferences such as [Black Hat](https://www.blackhat.com/trainings/), [OWASP Global AppSec conferences](https://owasp.org/events), and [NDC Security](https://ndc-security.com/). In this introductory post, I will provide an overview of what this series entails and share the inspiration behind it.
 
 #### Background
 
-This is a series of articles about our experiences submitting, preparing and delivering training at Black Hat (and other conferences as well such as [OWASP Global Appsec conferences](https://owasp.org/events) and [NDC Security](https://ndc-security.com/)). I have had this series in mind for a while now but only really felt ready to start writing whilst sitting on a plane recently.
+The idea for this series has been on my mind for some time, but it was only during a recent flight that I felt ready to begin writing. Over the past few years, I have embarked on an unexpected journey that has been both rewarding and challenging. This experience has equipped me with valuable insights and lessons that I am eager to share.
 
-The last couple of years have taken me on a quite surreal journey which I never expected and I have learnt a lot along the way. I am hoping that this series of articles will inspire and inform anyone who is considering doing something similar whilst also acting as a useful reference and planning aid.
+This series aims to inspire and guide individuals considering a similar endeavor, offering practical advice and serving as a planning resource. Whether you are contemplating delivering a course or simply curious about the process, I hope these posts provide clarity and motivation.
 
-#### Chapters in the series
+<!--<ADDIMAGE prompt="Stylized illustration of a trainer presenting to an engaged audience in a modern conference setting. The scene uses clean lines, vibrant colors, and a slight abstract touch to convey a dynamic and professional atmosphere.">-->
 
-The series is split into a set of posts. The posts chapters are roughly chronological but I would strongly recommend that you read all the way through the series before you decide whether this journey is definitely for you.
+![image](/assets/img/bhseries/trainer.png){: .blog-image}
 
-The posts are planned as follows:
+#### Chapters in the Series
 
-- Introduction (this blog)
-- What was my motivation? What motivation do you need?
-- How do the financials work for a training course
-- What is the niche/selling point for your course?
-- Planning the practical side, how will you make it fun?
-- How should you write your submission to increase the chance of acceptance?
-- How can you sell/market your course?
-- What preparations are you going to want to make before you travel?
-- What was my experience like and what should you expect?
+The blog series is structured into chapters that follow the chronological steps of my journey. While the posts are designed to be read sequentially, I recommend reading the entire series to gain a comprehensive understanding before deciding if this path aligns with your goals. The planned chapters include:
 
-You can see the list of the currently written posts <a href="#top">at the top of this page</a>.
+- **Introduction** (this post)  
+- **What Was My Motivation? What Motivation Do You Need?**  
+- **How Do the Financials Work for a Training Course?**  
+- **What Is the Niche/Selling Point for Your Course?**  
+- **Planning the Practical Side: How Will You Make It Engaging?**  
+- **How Should You Write Your Submission to Maximize Acceptance Chances?**  
+- **How Can You Effectively Market Your Course?**  
+- **What Preparations Should You Make Before Traveling?**  
+<!--- **What Was My Experience Like, and What Should You Expect?**-->
 
-If you have feedback or questions or there are particular things you would like me to cover or you would like make suggestions, please feel free to get in contact with me via [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/). This will be an evolving set of posts so be sure to follow me if you want to find out when new posts come out!
+A complete list of published posts can be found <a href="#top">at the top of this page</a>.
 
-#### My motivation
+I welcome your feedback, questions, and suggestions for additional topics to cover. Feel free to reach out to me on [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/). As this series evolves, following me will ensure you are notified when new posts are published.
 
-With all that being said, in the next post I will give you some personal background about how I got into delivering public training courses and why.
+![image](/assets/img/bhseries/roadmap.png){: .blog-image}
+
+#### My Motivation
+
+In the next post, I will go into my personal motivations for delivering public training courses and share the factors that guided me along this path. I hope it provides insight and encouragement as you consider your own journey.
