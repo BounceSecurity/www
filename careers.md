@@ -15,6 +15,7 @@ As our ProdSec Consultant, you will work on interesting projects to provide our 
 Our “product security” umbrella is quite wide, covering application security, code, cloud platforms, system architecture, data lifecycle, and development processes, yet is narrowly focused on providing value by directly improving our clients’ products.   
 
 At this time, we are looking for **mid-to senior level** candidates, with prior experience in securing  applications – either in a security role, or in an adjacent role such as software development or DevOps.  
+
 We are open to hearing from **junior candidates** as well, though for this role we would expect to see demonstration of significant abilities. (We do believe in hiring and training juniors, but not for this role.)  
 
 > This is a remote role (preferably within Israel) - as is the whole company - as we are focused on productivity and deliverables. You will work independently while in close synchronization with the rest of the team.  
