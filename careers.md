@@ -22,15 +22,22 @@ We are open to hearing from **junior candidates** as well, though for this role 
 Application details down below. 
 
 ### Who you are 
-You would be a good fit if you: 
+
+<div class="list-awesome-good" markdown="1">
+You would be a **good fit** if you: 
   *	Want to work with developers to support them in building secure products.
   *	Like learning new things while in motion, and providing actionable insights while doing deep-dive research.
   *	Are comfortable being dropped into a new environment using an unfamiliar development framework, library and language, asking sensible questions and then researching how to secure them.
   *	Enjoy presenting, training, and making public contributions (but we won’t force you). 
   *	Aim high, expect to produce something of value, and want to have an outsized impact. 
   *	Prefer to work independently whilst also being part of a team with frequent communications and tight synchronization. 
-  *	Are human, of any gender, race, religion, persuasion, or any other aspect irrelevant to the job. Even if you love PHP.  
+  *	Are human, of any gender, race, religion, persuasion, or any other aspect irrelevant to the job. Even if you love PHP.   
+</div> 
 
+<p></p>
+<p></p>
+
+<div class="list-awesome-bad" markdown="1">
 That said, this job would probably NOT be a great fit for you (but we won’t disqualify you) if you:   
   *	Want to do penetration testing or spend your day hunting vulnerabilities, reversing binaries and generally breaking stuff.
   *	Prefer to work with computers than with people.
@@ -40,18 +47,21 @@ That said, this job would probably NOT be a great fit for you (but we won’t di
   *	Tend to work in isolation without communicating with others. 
   *	Want to work for a big company or be forced to go into an office every day.
 
-
+</div>
 
 ### Why you should join us 
 
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-comments-dollar"></i></span><strong>Interesting work and fair pay</strong> (let’s be honest, that’s table stakes). </li>
-  <li><span class="fa-li"><i class="fas fa-crown"></i></span> <strong>Experience</strong>: Our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.</li>
-  <li><span class="fa-li"><i class="fas fa-umbrella-beach"></i></span> <strong>Flexibility</strong>: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work. </li>
-  <li><span class="fa-li"><i class="fas fa-satellite-dish"></i></span> <strong>Community</strong>: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday. </li>
-  <li><span class="fa-li"><i class="fas fa-fingerprint"></i></span> <strong>Unique focus</strong>: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research. </li>
-  <li><span class="fa-li"><i class="fas fa-hand-holding-heart"></i></span> <strong>Caring</strong>: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health. </li>
-  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span> <strong>Great learning opportunity</strong>: When you join us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.</li></ul>
+<div class="list-awesome" markdown="1">
+
+  * **Interesting work and fair pay** (let’s be honest, that’s table stakes).
+  * **Experience**: Our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.
+  * **Flexibility**: Whether you want to work early mornings or late nights; from your home, a private office, or on the beach; at a comfortable desk and chair, or hanging upside down from the ceiling of your dark cave – however you function as the best version of you, we can discuss how to make it work.
+  * **Community**: You will have time allocated to contribute to open-source projects or community volunteering in the security industry, as part of your workday.
+  * **Unique focus**: We work on projects at a higher level than almost any other firm, dedicated to generating an outsized impact by leveraging valuable activities, combined with deep technical research.
+  * **Caring**: We invest in our team. We’ll make sure you have the right equipment to be most effective and happy, ensure you continue growing your skills and enjoying your work, send you to conferences and training courses that you’re interested in, and balance your mental health.
+  * **Great learning opportunity**: When you join us, you will be working side by side with leaders in the industry. We invest time and effort in mentoring everyone at an appropriate level, helping you succeed in creating greater impact than you even expected by increasing your adjacent skillsets.
+
+</div>
 
 
 ### What you’ll be doing
