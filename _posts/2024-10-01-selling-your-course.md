@@ -101,6 +101,6 @@ As I mentioned above, my main period of activity was late 2022 and early 2023 an
 
 You will need to decide what level of effort makes sense for your own personal goals.
 
-#### Looking for more?
+#### Once you get the "GO" decision
 
-This is what I have so far. I have some other thoughts so let me know if you found this useful and maybe I will preprae some other sections about getting the training ready for delivery. Alternatively, let me know what topics you would like to hear about or what questions you would like answered!    
+Your course is confirmed and you are going ahead? Fantastic, that is a big achievement! In the next section I will talk about some of the preparations you may want to make before your course.
