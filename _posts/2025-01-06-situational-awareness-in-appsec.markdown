@@ -8,7 +8,7 @@ hero_height: is-small
 author: josh
 summary: |
     In this post, I highlight the crucial role of situational awareness in AppSec and how AppSec architects can leverage internal systems like ticketing, email, chat, and source control to gather vital information and enhance security practices. Discover practical tips to seamlessly integrate into development teams and boost your security posture.
-image: /assets/img/2025-01-06-situational/sitware.png
+image: /assets/img/2025-01-06-situational/knowing.png
 toc: true
 toc_title: " "
 ---
