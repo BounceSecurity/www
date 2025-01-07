@@ -124,51 +124,8 @@ $system:"\f108";
     suffix: " ";
 }
 
-.list-awesome ul { 
-	list-style: benefits;
-	li::marker {
-		color: $primary;
-	}
-}
-
-.list-awesome-good ul { 
-	list-style: $thumb;
-	li::marker {
-		color: lightgreen;
-	}
-}
-
-.list-awesome-info ul { 
-	list-style: $info;
-	li::marker {
-		color: darkblue;
-	}
-}
-
-.list-awesome-action ul { 
-	list-style: $action;
-	li::marker {
-		color: darkgreen
-	}
-	
-}
-
-.list-awesome-system ul { 
-	list-style: $system;
-	li::marker {
-		color: #f79421;
-	}
-}
-
-.list-awesome-bad ul { 
-	list-style: $x;
-	li::marker {
-		color:red;
-	}
-}
-
-.list-awesome, .list-awesome-good, .list-awesome-bad {
-	ul li {
+.list-awesome {
+	li {
 		padding-inline-start: 2ch;
 
 		&::marker {
@@ -183,23 +140,67 @@ $system:"\f108";
 			font-size: x-large;
 		}
 	}
+
+	li::marker {
+		color: $primary;
+	}
 }
 
-.list-awesome, .list-awesome-info, .list-awesome-action, .list-awesome-system {
-	ul li {
-		padding-inline-start: 2ch;
+.list-awesome-good ul { 
+	@extend .list-awesome;
 
-		&::marker {
-			-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;
-			display:var(--fa-display,inline-block);
-			font-style:normal;
-			font-variant:normal;
-			line-height:1;
-			text-rendering:auto;
-			font-family:"Font Awesome 5 Free";
-			font-weight:900;
-			font-size: medium;
-		}
+	list-style: $thumb;
+	li::marker {
+		color: lightgreen;
+	}
+}
+
+.list-awesome-bad ul { 
+	@extend .list-awesome;
+
+	list-style: $x;
+	li::marker {
+		color:red;
+	}
+}
+
+.list-awesome-benefits ul { 
+	@extend .list-awesome;
+
+	list-style: benefits;
+	li::marker {
+		color: $primary;
+	}
+}
+
+.list-awesome-info ul { 
+	@extend .list-awesome;
+
+	list-style: $info;
+	li::marker {
+		color: darkblue;
+		font-size: medium;
+	}
+}
+
+.list-awesome-action ul { 
+	@extend .list-awesome;
+
+	list-style: $action;
+	li::marker {
+		color: darkgreen;
+		font-size: medium;
+	}
+	
+}
+
+.list-awesome-system ul { 
+	@extend .list-awesome;
+
+	list-style: $system;
+	li::marker {
+		color: #f79421;
+		font-size: medium;
 	}
 }
 
