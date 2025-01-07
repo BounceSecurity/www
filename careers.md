@@ -52,7 +52,7 @@ That said, this job would probably NOT be a great fit for you (but we won’t di
 
 ### Why you should join us 
 
-<div class="list-awesome" markdown="1">
+<div class="list-awesome-benefits" markdown="1">
 
   * **Interesting work and fair pay** (let’s be honest, that’s table stakes).
   * **Experience**: Our broad range of clients, projects, and technologies provide great opportunities to skill up in a wide range of areas.
@@ -68,6 +68,7 @@ That said, this job would probably NOT be a great fit for you (but we won’t di
 ### What you’ll be doing
 Our typical workday is undefined, as it depends on the specific clients, projects, and initiatives we are focusing on at that point.   
 
+<div class="list-awesome" markdown="1">
 For example, some of the activities you would be doing in this role:   
   *	Daily synchronization with the rest of the team;
   *	Provide ongoing support and input to other team members;
@@ -80,6 +81,7 @@ For example, some of the activities you would be doing in this role:
   *	Design training courses and develop training materials;
   *	Advise vendors on their security products and improve their quality;
   *	Write up your work, prepare reports and policies, author research articles, and other documentation.
+</div>
 
 You will likely have a couple of ongoing clients with whom you will connect weekly as a virtual part of the product security team, managing many aspects of their product security and performing these activities. You will also participate in shorter, more focused projects producing a specific deliverable to solve a specific problem.  
 
@@ -89,6 +91,7 @@ We also expect you to spend some of your day expanding your knowledge base and e
 ### What we want
 To truly succeed in this role, we need to see prior experience in securing applications – either in a security role, or in an adjacent role such as software development or DevOps.  
 
+<div class="list-awesome" markdown="1">
 While these specific details are not absolutely mandatory, we do prefer:  
   *	Work experience in an AppSec or product security role. Alternatively, experience in software development, DevOps, or other adjacent role where you can demonstrate how you worked to secure the product.
   *	Good knowledge of at least one programming language, and confidence to transfer that knowledge to other languages.
@@ -96,7 +99,7 @@ While these specific details are not absolutely mandatory, we do prefer:
   *	Enthusiasm about the field of product security and eagerness to grow your expertise. 
   *	Ability to parse and analyze a complex topic and distill key information quickly. 
   *	Some experience finding, exploiting, or fixing vulnerabilities.
-
+</div>
 
 # About Bounce Security
 Job content is important, but for many of the best candidates - _where_ you work, and _with whom_ you work, is just as important (if not more so) as _what_ you will be doing. So, you should know a few things about us too!  
