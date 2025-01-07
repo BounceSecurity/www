@@ -2,13 +2,13 @@
 layout: post
 title:  "Knowing is half the battle"
 subtitle: "Gathering information in a development organization"
-date:   2025-01-09 12:45:21 +0300
+date:   2025-01-06 12:45:21 +0300
 categories: blog
 hero_height: is-small
 author: josh
 summary: |
     In this post, I highlight the crucial role of situational awareness in AppSec and how AppSec architects can leverage internal systems like ticketing, email, chat, and source control to gather vital information and enhance security practices. Discover practical tips to seamlessly integrate into development teams and boost your security posture.
-image: /assets/img/2025-01-09-situational/sitware.png
+image: /assets/img/2025-01-06-situational/sitware.png
 ---
 
 ## Introduction
@@ -19,7 +19,7 @@ Amongst other things, this involves being aware of what development activity is 
 
 And as GI Joe famously taught us:
 
-![knowing is half the battle](/assets/img/2025-01-09-situational/knowing.png){: .blog-image}
+![knowing is half the battle](/assets/img/2025-01-06-situational/knowing.png){: .blog-image}
 
 For some of our clients we operate as part-time AppSec architects either joining their existing team or becoming their team. As we are acting as virtual employees, we generally request some access to internal systems to get some situational awareness into development activity (or activity in general) within the organization. Otherwise we are operating completely at "arms length" without insight into what they are working on and how they work. 
 
@@ -31,7 +31,7 @@ Some of our uses here are a little more unorthodox and many will be useful ideas
 
 So take a look and also let me know if you think there is anything I have missed 😀
 
-![map representing situational awareness](/assets/img/2025-01-09-situational/sitware.png){: .blog-image}
+![map representing situational awareness](/assets/img/2025-01-06-situational/sitware.png){: .blog-image}
 
 For each system, I will give:
 
@@ -54,7 +54,7 @@ This will be the system that the development organization uses to guide develope
 Either way, it tends to be a key system that developers (and maybe other development staff) use to organize their day.
 
 
-![ticketing system](/assets/img/2025-01-09-situational/ticket.png){: .blog-image}
+![ticketing system](/assets/img/2025-01-06-situational/ticket.png){: .blog-image}
 
 ### System examples
 
@@ -92,7 +92,7 @@ This system can be useful for our own work, allowing us to:
 
 A personal mailbox in the company's internal email system. I think we know what email is by now but the scope here is to have an account where when we send an email, it doesn't have a scary "this is an external email" message at the top.
 
-![email system](/assets/img/2025-01-09-situational/email.png){: .blog-image}
+![email system](/assets/img/2025-01-06-situational/email.png){: .blog-image}
 
 ### System examples
 
@@ -130,7 +130,7 @@ This system can be useful for our own work, allowing us to:
 
 The place where employees plan their meetings and potentially structure their day in other ways.
 
-![calendar image](/assets/img/2025-01-09-situational/calendar.png){: .blog-image}
+![calendar image](/assets/img/2025-01-06-situational/calendar.png){: .blog-image}
 
 ### System examples
 
@@ -165,7 +165,7 @@ This system can be useful for our own work, allowing us to:
 
 Most organizations will have a more informal system for internal ad hoc conversations without the overhead and formality of email. It will usually include both person to person conversations and also groups.
 
-![chat image](/assets/img/2025-01-09-situational/chat.png){: .blog-image}
+![chat image](/assets/img/2025-01-06-situational/chat.png){: .blog-image}
 
 ### System examples
 
@@ -213,7 +213,7 @@ This system can be useful for our own work, allowing us to:
 
 The audio/video conferencing platform which the company uses for its internal meetings.
 
-![videoconf image](/assets/img/2025-01-09-situational/videoconf.png){: .blog-image}
+![videoconf image](/assets/img/2025-01-06-situational/videoconf.png){: .blog-image}
 
 ### System examples
 
@@ -246,7 +246,7 @@ There probably isn't much data we can gather from this but this system can be us
 
 The place where employees document long form information about the company, the application, etc. This could include both simple documents but also larger files such as meeting recordings.
 
-![library image](/assets/img/2025-01-09-situational/library.png){: .blog-image}
+![library image](/assets/img/2025-01-06-situational/library.png){: .blog-image}
 
 ### System examples
 
@@ -281,7 +281,7 @@ This system can be useful for our own work, allowing us to:
 
 The system the company uses to store their source code and also to perform compilation/build processes.
 
-![source image](/assets/img/2025-01-09-situational/source.png){: .blog-image}
+![source image](/assets/img/2025-01-06-situational/source.png){: .blog-image}
 
 ### System examples
 
@@ -332,7 +332,7 @@ Most organizations are using cloud hosted infrastucture to host their applicatio
 
 For our purposes, access to the API might be even better than the graphical console.
 
-![cloud platforms image](/assets/img/2025-01-09-situational/cloudplatforms.png){: .blog-image}
+![cloud platforms image](/assets/img/2025-01-06-situational/cloudplatforms.png){: .blog-image}
 
 ### System examples
 
@@ -366,7 +366,7 @@ This system can be useful for our own work, allowing us to:
 
 This is the posh new word for logging :) The overall goal is to give developers and operations team more insight into what is going on in the running application, especially in production.
 
-![observability image](/assets/img/2025-01-09-situational/observability.jpg){: .blog-image}
+![observability image](/assets/img/2025-01-06-situational/observability.jpg){: .blog-image}
 
 ### System examples
 
