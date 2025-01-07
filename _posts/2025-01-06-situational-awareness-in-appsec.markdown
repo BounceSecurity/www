@@ -177,7 +177,7 @@ If we are struggling to get traction or cooperation within development teams, ca
 
 This could include:
 
-- Looking at the meetings which people have on their calendars in order to understand who is the meeting with whom and about what. This might reveal information on new developments or new development plans. 
+- Looking at the meetings which people have on their calendars in order to understand who is meeting with whom and about what. This might reveal information on new developments or new development plans. 
 - Planning documents or other notes documents might also be attached to meeting invites and therefore reveal information about what they are working on.
 
 ### Usage cases for AppSec
