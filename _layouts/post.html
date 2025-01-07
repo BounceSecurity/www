@@ -15,6 +15,14 @@ layout: default
 
     <p>{% include postauthor.html %}</p>
 
+    {% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    <details>
+        <summary><strong>Table of Contents</strong></summary>
+        {% include toc.html html=content h_min=2 h_max=2 contents_title=contentsTitle %}
+    </details>
+    {% endif %}
+
     {{ content }}
 
     {% if page.series %}
