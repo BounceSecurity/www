@@ -82,6 +82,7 @@ For example, some of the activities you would be doing in this role:
   *	Advise vendors on their security products and improve their quality;
   *	Write up your work, prepare reports and policies, author research articles, and other documentation.
 </div>
+<p></p>
 
 You will likely have a couple of ongoing clients with whom you will connect weekly as a virtual part of the product security team, managing many aspects of their product security and performing these activities. You will also participate in shorter, more focused projects producing a specific deliverable to solve a specific problem.  
 
@@ -100,6 +101,7 @@ While these specific details are not absolutely mandatory, we do prefer:
   *	Ability to parse and analyze a complex topic and distill key information quickly. 
   *	Some experience finding, exploiting, or fixing vulnerabilities.
 </div>
+<p></p>
 
 # About Bounce Security
 Job content is important, but for many of the best candidates - _where_ you work, and _with whom_ you work, is just as important (if not more so) as _what_ you will be doing. So, you should know a few things about us too!  
