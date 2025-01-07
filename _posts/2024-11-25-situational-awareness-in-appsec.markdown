@@ -1,38 +1,53 @@
 ---
 layout: post
-title:  "Situational Awareness in AppSec"
-subtitle: "How to gather information in a development organization"
+title:  "Knowing is half the battle"
+subtitle: "Gathering information in a development organization"
 date:   2024-11-25 12:45:21 +0300
 categories: blog
 hero_height: is-small
 author: josh
 summary: |
-    In this post, I highlight the crucial role of situational awareness in AppSec and how AppSec engineers can leverage internal systems like ticketing, email, chat, and source control to gather vital information and enhance security practices. Discover practical tips to seamlessly integrate into development teams and boost your security posture.
+    In this post, I highlight the crucial role of situational awareness in AppSec and how AppSec architects can leverage internal systems like ticketing, email, chat, and source control to gather vital information and enhance security practices. Discover practical tips to seamlessly integrate into development teams and boost your security posture.
 image: /assets/img/2024-11-25-situational/sitware.png
 ---
 
 ## Introduction
 
-For some of our client projects, we step into the shoes of an internal AppSec Engineer in the organization to provide developers with software security support on an ongoing basis.
+AppSec architects (sometimes known as AppSec engineers) have a tough job. As a small team within a larger development organization, they are tasked with figuring out how to ensure that software is being built securely and being available to provide support in doing this. 
 
-Since we are acting as seconded employees of the client, we generally request some access to their internal systems as otherwise we are operating completely at "arms length" without insight into what they are working on and how they work. Additionally, most organizations nowadays are distributed in some way. That might be by having multiple international offices or a remote/hybrid working environment. This makes access to their internal communication systems even more important in order to be able to effectively interact with the team.
+Amongst other things, this involves being aware of what development activity is actually going on.
+
+And as GI Joe famously taught us:
+
+![knowing is half the battle](/assets/img/2024-11-25-situational/knowing.png){: .blog-image}
+
+For some of our clients we operate as part-time AppSec architects either joining their existing team or becoming their team. As we are acting as virtual employees, we generally request some access to internal systems to get some situational awareness into development activity (or activity in general) within the organization. Otherwise we are operating completely at "arms length" without insight into what they are working on and how they work. 
+
+Additionally, most organizations nowadays are distributed in some way. That might be by having multiple international offices or a remote/hybrid working environment. This makes access to their internal communication systems even more important in order to be able to effectively interact with the team.
 
 Since it came up recently, I thought it would be valuable to go into a little more detail about the sorts of systems we request access to and how this can help us.
 
-![map representing situational awareness](/assets/img/2024-11-25-situational/sitware.png){: .blog-image}
+Some of our uses here are a little more unorthodox and many will be useful ideas for regular, full time employed, AppSec architects as well.
 
-Some of our uses here are a little more unorthodox and some may even be useful ideas for internal AppSec engineers (i.e. not working as consultants) so take a look and also let me know if you think there is anything I have missed 😀
+So take a look and also let me know if you think there is anything I have missed 😀
+
+![map representing situational awareness](/assets/img/2024-11-25-situational/sitware.png){: .blog-image}
 
 For each system, I will give:
 
-- A brief explanation of what it does
-- Some examples that you might see "in the wild"
-- What useful information we can gather
-- How we can use the system for our own purposes
-- Some subtler edge cases that the system can help us with
+- **Explanation** - A brief overview of each system type and what it does
+- **System examples** - Some examples that you might see "in the wild"
+- **Information provided** - What useful information can we gather from the system to increase our situational awareness?
+  - In some cases we might be able to use some slightly more sneaky tricks to discover useful information.
+- **Usage cases for AppSec** - How we can use the system for our own purposes
 
+### Security systems and platforms
+
+I am not going to mention these in detail as it almost goes without saying that these would be useful for AppSec work. My intention in this post is to focus on the more mainstream organizational systems.
 
 ## Developer Ticketing system
+
+### Explanation
 
 This will be the system that the development organization uses to guide developers on what they will be working on at any point in time. It might be used just for regular work tracking, (e.g. you are working on this piece of functionality today,) or it might also be used for bug tracking as well, (i.e. QA will open tracking tickets when they find quality bugs.)
 
@@ -41,7 +56,7 @@ Either way, it tends to be a key system that developers (and maybe other develop
 
 ![ticketing system](/assets/img/2024-11-25-situational/ticket.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
@@ -49,8 +64,9 @@ Examples of systems like this include:
 - GitHub Issues
 - Gitlab Issues
 - Trello
+- Notion
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -61,7 +77,7 @@ We can use this system to discover information including:
 - Who from the team is working on it? (and therefore who do we need to ask questions to)
 - Potential links to design documentation (so we are prepared with questions to ask)
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
@@ -70,13 +86,15 @@ This system can be useful for our own work, allowing us to:
 - Open tickets for other work such as design reviews alongside the standard development tickets
 - Maybe even automatically have sub tickets be opened for security tasks (such as threat modeling) when development task tickets get opened for a new feature or development.
 
-## Company email 
+## Company email
+
+### Explanation
 
 A personal mailbox in the company's internal email system. I think we know what email is by now but the scope here is to have an account where when we send an email, it doesn't have a scary "this is an external email" message at the top.
 
 ![email system](/assets/img/2024-11-25-situational/email.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
@@ -84,7 +102,7 @@ Examples of systems like this include:
 - Google Workspace
 - Zoho
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -97,53 +115,59 @@ We can use this system to discover information including:
   - Who works with whom
   - If this isn't maintained here, you might want to try and find it from somewhere else.
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
 - Communicate with people (obviously 🙃)
 - Sending periodic updates on what is going on in the world of AppSec and within the internal AppSec team using internal mailing lists - Good to build awareness and for internal "marketing" of AppSec. (Obviously you don't want to overdo this!)
-- Demonstrate that we are more integrated and "belong" more than a regular consultant
+- Demonstrate that we are more integrated and have a real human identity within the organization. This should differentiate us from a regular "arms length" or "short term" consultant
 - Demonstrate why the company should take you more seriously since they spent money to give you an account
 
-## Company calendar 
+## Company calendar
+
+### Explanation 
 
 The place where employees plan their meetings and potentially structure their day in other ways.
 
 ![calendar image](/assets/img/2024-11-25-situational/calendar.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Mostly the same systems as for internal email.
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
 - When people are free or busy to make it easier to schedule meetings and avoid rounds of trying to find mutually acceptable times.
 - Where people are working - sometimes this will indicate if they are in the office.
 
-### Slightly sneakier information we can gather from it
+#### Slightly sneakier information we can gather from it
 
-If we are struggling to get traction or cooperation within development teams, calendars can sometimes also reveal some other interesting information. This could include:
+If we are struggling to get traction or cooperation within development teams, calendars can sometimes also reveal some other interesting information.
 
-Looking at the meetings people have on their calendars to understand who is the meeting with whom and about what. This might reveal information on new developments or new development plans. 
-Planning documents or other notes documents might also be attached to meeting invites and therefore reveal information about what they are working on.
+This could include:
 
-### How can this system be useful to us
+- Looking at the meetings which people have on their calendars in order to understand who is the meeting with whom and about what. This might reveal information on new developments or new development plans. 
+- Planning documents or other notes documents might also be attached to meeting invites and therefore reveal information about what they are working on.
+
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
 - Send internal meeting invites using internal conference platform (more on this below)
 - Look more official by sending meeting invites from a company email address.
 
-## Internal chat system 
+## Internal chat system
+
+### Explanation 
 
 Most organizations will have a more informal system for internal ad hoc conversations without the overhead and formality of email. It will usually include both person to person conversations and also groups.
 
 ![chat image](/assets/img/2024-11-25-situational/chat.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
@@ -152,7 +176,7 @@ Examples of systems like this include:
 - Microsoft Teams
 - IRC (maybe, maybe not...)
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -167,29 +191,31 @@ We can use this system to discover information including:
   - Discussions/solutions for errors that you might see
 - Discover new third party products being on boarded
 
-### Slightly sneakier information we can gather from it
+#### Slightly sneakier information we can gather from it
 
 If we are struggling to get traction or cooperation within development teams, chat systems can sometimes also reveal some other interesting information. This could include:
 
 - Search for secret information or secrets being shared. Maybe you need test credentials but can't anyone who will provide them...
 - Lurking in groups to discover potential issues. I was once lurking in a group where someone asked for the easiest way to forge a production token so as to do some testing. 
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
 - Create ad hoc groups to discuss particular issues or events with a specific team of people.
 - Build automations to alert on particular events.
 - Another channel to communicate with people. "Did you see my email?"
-- Vary communication as different people communicate better in different ways. Some might prefer email, some might prefer chat.
+- Vary communication mechanisms since different people communicate better in different ways. Some might prefer email, some might prefer chat.
 
-## Internal conference platform 
+## Internal conference platform
+
+### Explanation 
 
 The audio/video conferencing platform which the company uses for its internal meetings.
 
 ![videoconf image](/assets/img/2024-11-25-situational/videoconf.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
@@ -198,7 +224,7 @@ Examples of systems like this include:
 - Zoom
 - Cisco WebEx
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 There probably isn't much data we can gather from this but this system can be useful for our own work in lots of ways, allowing us to:
 
@@ -214,21 +240,24 @@ There probably isn't much data we can gather from this but this system can be us
 
 -----
 
-## Internal documentation platform 
+## Internal documentation / file storage platform
 
-The place where employees document long form information about the company, the application, etc. 
+### Explanation 
+
+The place where employees document long form information about the company, the application, etc. This could include both simple documents but also larger files such as meeting recordings.
 
 ![library image](/assets/img/2024-11-25-situational/library.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
 - Confluence
-- Sharepoint
+- Sharepoint / Office 365
 - Notion
+- Google Drive / Google Workspace
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -236,22 +265,25 @@ We can use this system to discover information including:
   - Obviously it depends on how well updated the documentation is.
 - Track ongoing tasks or features from project planning documentation
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
 - Create security documentation and diagrams in a platform that the company are familiar with.
 - Add our comments and questions to existing documents.
+- Upload files and other materials to a storage location which is native to the organization rather than relying on some external storage
 
 ----
 
 ## Source control system and Continuous Integration
 
+### Explanation
+
 The system the company uses to store their source code and also to perform compilation/build processes.
 
 ![source image](/assets/img/2024-11-25-situational/source.png){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of source control systems include:
 
@@ -270,7 +302,7 @@ Examples of CI systems include:
 - Jenkins
 - Azure DevOps
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -281,7 +313,7 @@ We can use this system to discover information including:
 - See history of changes to understand remediations implemented or understand regressions.
 
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
@@ -292,13 +324,51 @@ This system can be useful for our own work, allowing us to:
 
 ------
 
-## Observability 
+## Cloud Management Platforms
+
+### Explanation 
+
+Most organizations are using cloud hosted infrastucture to host their applications. Some may be entirely cloud based or cloud native. There will generally be a management platform where all of this infrastructure is managed. Visibility of this platform will be even more important if the company is not using "Infrastucture as Code" to configure it.
+
+For our purposes, access to the API might be even better than the graphical console.
+
+![cloud platforms image](/assets/img/2024-11-25-situational/cloudplatforms.png){: .blog-image}
+
+### System examples
+
+Examples of systems like this include:
+
+- Amazon Web Services management console
+- Microsoft Azure portal
+- Google Cloud Platform console
+- Digital Ocean admin interface
+
+### Information provided
+
+We can use this system to discover information including:
+
+- What cloud resources are currently deployed.
+- Which different deployment environments are available including which are considered "production" and which are not.
+- Any logging, monitoring, or security relevant information which the platform provides
+
+### Usage cases for AppSec
+
+This system can be useful for our own work, allowing us to:
+
+- Deploy our own infrastructure for our own internal tools or mechanisms rather than having to rely on separate mechanisms.
+- Utilize scans which pull information directly from the cloud platform API.
+
+------
+
+## Observability
+
+### Explanation 
 
 This is the posh new word for logging :) The overall goal is to give developers and operations team more insight into what is going on in the running application, especially in production.
 
 ![observability image](/assets/img/2024-11-25-situational/observability.jpg){: .blog-image}
 
-### Possible examples
+### System examples
 
 Examples of systems like this include:
 
@@ -307,7 +377,7 @@ Examples of systems like this include:
 - Sentry
 - New Relic
 
-### What can we gather from it
+### Information provided
 
 We can use this system to discover information including:
 
@@ -315,7 +385,7 @@ We can use this system to discover information including:
 - The level of coverage that a DAST tool or penetration test is giving us if we have a way of knowing which traffic relates to the tool or test.
 - Potentially being able to discover who is responsible for what within the application portfolio if they are associated with alerting for particular applications.
 
-### How can this system be useful to us
+### Usage cases for AppSec
 
 This system can be useful for our own work, allowing us to:
 
