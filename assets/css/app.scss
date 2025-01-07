@@ -179,6 +179,7 @@ $system:"\f108";
 	list-style: $info;
 	li::marker {
 		color: darkblue;
+		font-size: medium;
 	}
 }
 
@@ -187,7 +188,8 @@ $system:"\f108";
 
 	list-style: $action;
 	li::marker {
-		color: darkgreen
+		color: darkgreen;
+		font-size: medium;
 	}
 	
 }
@@ -198,6 +200,7 @@ $system:"\f108";
 	list-style: $system;
 	li::marker {
 		color: #f79421;
+		font-size: medium;
 	}
 }
 
