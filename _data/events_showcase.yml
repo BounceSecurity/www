@@ -1,42 +1,88 @@
 items:
-- event: Training at BlackHat USA 2025
+  - event: Training at BlackHat USA 2025
     year: 2025
     date: August 4th-5th
     dateval: 2025-08-04
-    title: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value (Virtual)
+    title: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value
     img: assets/img/events/blackhatlogo2025.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accelerated-appsec--hacking-your-product-security-programme-for-velocity-and-value-virtual-37218
+    url: https://www.blackhat.com/us-25/training/schedule/index.html#accelerated-appsec---hacking-your-product-security-programme-for-velocity-and-value-43988
     by: Josh Grossman
     course_name: accelerated
-    delivery_type: Virtual
+    delivery_type: In-person
     type: training
     info: 
 
-  - event: Training at BlackHat USA 2024 - Session 2
-    year: 2024
-    date: August 5rd-6th
-    dateval: 2024-08-05
+  - event: Training at BlackHat USA 2025
+    year: 2025
+    date: August 4th-5th
+    dateval: 2025-08-04
+    title: "Breaking Bad Privacy: Practical Skills for the Security Team"
+    img: assets/img/events/blackhatlogo2025.png
+    url: https://www.blackhat.com/us-25/training/schedule/index.html#breaking-bad-privacy-practical-skills-for-the-security-team-444441736876492
+    by: Avi Douglen with Dr. Kim Wuyts
+    #course_name: privacy
+    delivery_type: In-person
+    type: training
+    info: 
+
+  - event: Training at BlackHat USA 2025 - Session 2
+    year: 2025
+    date: August 4th-5th
+    dateval: 2025-08-04
     title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2024.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-372101705524544
+    img: assets/img/events/blackhatlogo2025.png
+    url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-445051736891000
     by: Michal Kamensky
     course_name: bughunting
     delivery_type: In-person
     type: training
     info:
 
-  - event: Training at BlackHat USA 2024 - Session 1
-    year: 2024
-    date: August 3rd-4th
-    dateval: 2024-08-03
+  - event: Training at BlackHat USA 2025 - Session 1
+    year: 2025
+    date: August 2nd-3rd
+    dateval: 2025-08-02
     title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2024.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-37210
+    img: assets/img/events/blackhatlogo2025.png
+    url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-44505
     by: Michal Kamensky
     course_name: bughunting
     delivery_type: In-person
     type: training
     info:
+
+  - event: Training at OWASP Global AppSec Barcelona 2025
+    year: 2025
+    date: May 27th-28th
+    dateval: 2025-05-27
+    title: Building a High-Value AppSec Scanning Programme
+    img: assets/img/events/barcelona.png
+    url: https://owasp.glueup.com/event/123983/register/
+    by: Josh Grossman
+    course_name: valuenotvulns
+    delivery_type: In-Person
+    type: training
+    info: 
+  
+  - event: Training at OWASP Global AppSec Barcelona 2025
+    year: 2025
+    date: May 27th-28th
+    dateval: 2025-05-27
+    title: Practical Privacy by Design - Going Beyond Security in your SDLC
+    img: assets/img/events/barcelona.png
+    url: https://owasp.glueup.com/event/123983/register/
+    by: Avi Douglen with Dr. Kim Wuyts
+    delivery_type: In-Person
+    type: training
+    info: 
+
+  - event:  DevSecNext by Jit
+    dateval: 2025-01-14
+    title: "Get Ready for the OWASP ASVS 5.0"
+    img: assets/img/events/devsecnext.png
+    url: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
+    by: Josh Grossman
+    info: asdsadasds
 
   - event: OWASP Projects Spotlight Series
     year: 2024
@@ -322,7 +368,7 @@ items:
     date: June 26-30th
     dateval: 2023-06-26
     title: Security Heroes Versus the Power of Privacy!
-    img: assets/img/Troopers23-SecHeroes-PowerPrivacy.png
+    img: assets/img/events/Troopers23-SecHeroes-PowerPrivacy.png
     youtube: rBdcupIhkDc
     embed: https://www.youtube-nocookie.com/embed/watch?v=rBdcupIhkDc
     url: https://troopers.de/troopers23/talks/rwjsfv/
