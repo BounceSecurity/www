@@ -32,7 +32,7 @@ items:
     title: "Accurate and Scalable: Web Application Bug Hunting"
     img: assets/img/events/blackhatlogo2025.png
     url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-445051736891000
-    by: Michal Kamensky
+    by: tbc
     course_name: bughunting
     delivery_type: In-person
     type: training
@@ -45,7 +45,7 @@ items:
     title: "Accurate and Scalable: Web Application Bug Hunting"
     img: assets/img/events/blackhatlogo2025.png
     url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-44505
-    by: Michal Kamensky
+    by: tbc
     course_name: bughunting
     delivery_type: In-person
     type: training
@@ -82,7 +82,7 @@ items:
     img: assets/img/events/devsecnext.png
     url: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
     by: Josh Grossman
-    info: asdsadasds
+    info: 
 
   - event: OWASP Projects Spotlight Series
     year: 2024
