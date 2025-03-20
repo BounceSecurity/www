@@ -5,6 +5,7 @@
 {% assign series = site.data.[page.series] %}
 {% assign posts = site.posts %}
 <hr>
+<hr>
 {% assign firstpost = site.posts | where: "title", series.sections[0].items[0].title %}
 <p><i><strong>This post is part of a series:</strong> <a href="{{ firstpost[0].url }}">{{ series.title }}</a></i></p>
 

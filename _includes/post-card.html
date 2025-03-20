@@ -16,7 +16,9 @@
         {% if post.series %}
                 {% assign series = site.data.[post.series] %}
                 {% assign firstpost = site.posts | where: "title", series.sections[0].items[0].title %}
-                <strong>This post is part of a series:</strong> <a href="{{ firstpost[0].url }}">{{ series.title }}</a>
+                <i><strong>This post is part of a series:</strong></i>
+                <br />
+                <a href="{{ firstpost[0].url }}">{{ series.title }}</a>
         {% endif %}
     </div>
         {% if post.image %}
