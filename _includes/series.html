@@ -4,7 +4,7 @@
 
 {% assign series = site.data.[page.series] %}
 {% assign posts = site.posts %}
-
+<hr>
 <p class="title is-5">Article Series: <i>{{ series.title }}</i></p>
 
 {% if series.description %}
@@ -39,5 +39,6 @@
     {% endfor %}
 </ul>
 {% endfor %}
+<hr>
 <hr>
 <p class="title is-4">{{ page.title }}</p>
