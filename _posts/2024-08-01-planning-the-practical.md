@@ -105,7 +105,7 @@ I think that explaining about the time I created a multi-player game based on th
 
 Aside from crowing a bit about what I think are some cool ideas I had, I think the point is that you can think creatively about practical exercises and come up with ideas other than traditional hacking or code writing exercises. Remember that the rarest and most valuable skill in security is the ability to communicate and convince effectively.
 
-#### Putting pen to paper
+#### Next Post: Putting pen to paper
 
 So now, having figured out your financials, your niche, and your exercises, you now need to actually get accepted by a conference. In the next post, I will talk about writing a convincing Call for Training submission. 
 

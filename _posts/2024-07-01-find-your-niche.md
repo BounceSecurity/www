@@ -49,6 +49,6 @@ How is your potential participant going to justify to their boss that this topic
 
 That being said, there are lots of unsolved problems in the wider cybersecurity industry. Plus, the industry is constantly moving with new developments and technologies and there is always something new and insecure to become a specialist about.
 
-#### Practical exercises
+#### Next Post: Practical exercises
 
 One of the big things that will differentiate your course is what the participants actually get to do themselves other than listening to you talk. In the next blog post, I'll go into this in more detail.
