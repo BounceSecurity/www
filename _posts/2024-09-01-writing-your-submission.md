@@ -103,4 +103,6 @@ I have been rejected multiple times, even after I have been accepted at previous
 
 As such, even if you didn't get accepted, make sure you ask for feedback and try again next time.
 
+#### Next Post: Selling your course
+
 If you did get accepted, congratulations! That is already a massive achievement and demonstrates that your course sounds good to the review board. However, the next stage will be to get people to attend. I will talk about this more in the next post.

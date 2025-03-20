@@ -84,6 +84,6 @@ The conference themselves may also have a financial minimum so make sure you are
 
 Also, factor in that flight costs might increase if you are waiting for that decision before you book.
 
-#### Figuring out your selling point
+#### Next Post: Figuring out your selling point
 
 You can make these decisions and plans but you still need to figure out how your course is going to fit into a crowded market. I'll talk about this in the next blog in the series.

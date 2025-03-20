@@ -47,6 +47,6 @@ A complete list of published posts can be found <a href="#top">at the top of thi
 
 I welcome your feedback, questions, and suggestions for additional topics to cover. Feel free to reach out to me on [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/). As this series evolves, following me will ensure you are notified when new posts are published.
 
-#### My Motivation
+#### Next Post: My Motivation
 
 In the next post, I will go into my personal motivations for delivering public training courses and share the factors that guided me along this path. I hope it provides insight and encouragement as you consider your own journey.
