@@ -19,33 +19,33 @@ Welcome to a new blog series exploring the process of preparing, submitting, and
 
 #### Background
 
+![image](/assets/img/bhseries/trainer.png){: .blog-image}
+
 The idea for this series has been on my mind for some time, but it was only during a recent flight that I felt ready to begin writing. Over the past few years, I have embarked on an unexpected journey that has been both rewarding and challenging. This experience has equipped me with valuable insights and lessons that I am eager to share.
 
 This series aims to inspire and guide individuals considering a similar endeavor, offering practical advice and serving as a planning resource. Whether you are contemplating delivering a course or simply curious about the process, I hope these posts provide clarity and motivation.
 
-<!--<ADDIMAGE prompt="Stylized illustration of a trainer presenting to an engaged audience in a modern conference setting. The scene uses clean lines, vibrant colors, and a slight abstract touch to convey a dynamic and professional atmosphere.">-->
-
-![image](/assets/img/bhseries/trainer.png){: .blog-image}
-
 #### Chapters in the Series
 
-The blog series is structured into chapters that follow the chronological steps of my journey. While the posts are designed to be read sequentially, I recommend reading the entire series to gain a comprehensive understanding before deciding if this path aligns with your goals. The planned chapters include:
+The blog series is structured into chapters that follow the chronological steps of my journey. While the posts are designed to be read sequentially, I recommend reading the entire series to gain a comprehensive understanding before deciding if this path aligns with your goals.
 
-- **Introduction** (this post)  
-- **What Was My Motivation? What Motivation Do You Need?**  
-- **How Do the Financials Work for a Training Course?**  
-- **What Is the Niche/Selling Point for Your Course?**  
-- **Planning the Practical Side: How Will You Make It Engaging?**  
-- **How Should You Write Your Submission to Maximize Acceptance Chances?**  
-- **How Can You Effectively Market Your Course?**  
-- **What Preparations Should You Make Before Traveling?**  
-<!--- **What Was My Experience Like, and What Should You Expect?**-->
+![image](/assets/img/bhseries/roadmap.png){: .blog-image}
+
+The planned chapters include:
+
+- Introduction (this post)  
+- What Was My Motivation? What Motivation Do You Need?  
+- How Do the Financials Work for a Training Course?  
+- What Is the Niche/Selling Point for Your Course?  
+- Planning the Practical Side: How Will You Make It Engaging?  
+- How Should You Write Your Submission to Maximize Acceptance Chances?  
+- How Can You Effectively Market Your Course?  
+- What Preparations Should You Make Before Traveling?  
+<!--- What Was My Experience Like, and What Should You Expect?-->
 
 A complete list of published posts can be found <a href="#top">at the top of this page</a>.
 
 I welcome your feedback, questions, and suggestions for additional topics to cover. Feel free to reach out to me on [Twitter](https://twitter.com/JoshCGrossman) or [LinkedIn](https://www.linkedin.com/in/joshcgrossman/). As this series evolves, following me will ensure you are notified when new posts are published.
-
-![image](/assets/img/bhseries/roadmap.png){: .blog-image}
 
 #### My Motivation
 
