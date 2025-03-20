@@ -2,7 +2,7 @@
 layout: post
 title: "Finding your niche/selling point"
 subtitle: "Part 4, what is the unique selling point your course brings or niche it fills."
-date:   2024-07-01 15:30:00 +0300
+date:   2024-04-17 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh

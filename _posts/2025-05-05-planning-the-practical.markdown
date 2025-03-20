@@ -2,7 +2,7 @@
 layout: post
 title: "Planning the Practical"
 subtitle: "Part 5, how will the participants get their hands dirty?"
-date:   2024-08-01 15:30:00 +0300
+date:   2025-05-05 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh

@@ -2,7 +2,7 @@
 layout: post
 title: "Writing your Submission"
 subtitle: "Part 6, how to write a submission to impress the reviewers?"
-date:   2024-09-01 15:30:00 +0300
+date:   2025-05-20 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh

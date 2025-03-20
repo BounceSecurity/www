@@ -2,7 +2,7 @@
 layout: post
 title: "Making your preparations"
 subtitle: "Part 8, what will you want to prepare beforehand?"
-date:   2024-11-01 15:30:00 +0300
+date:   2025-06-25 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
