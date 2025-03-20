@@ -21,7 +21,9 @@ Admittedly, this chapter focuses more on my experiences than actionable advice, 
 
 #### Some Background
 
-At my previous employer, I had always looked admiringly at the posters on the wall from when my previous boss (AppSec legend, [Erez Metula](https://www.linkedin.com/in/erezmetula/)) had delivered some of the early mobile security training courses at Black Hat USA. While the company had moved away from training by the time I joined, the prestige of Black Hat training always stood out to me as a mark of excellence.
+At my previous employer, I had always looked admiringly at the posters on the wall of the office from when my previous boss (AppSec legend, [Erez Metula](https://www.linkedin.com/in/erezmetula/)) had delivered some of the early mobile security training courses at Black Hat USA. (I have my own poster up on the wall as an homage to that, [as you can see in some of my videos](https://www.youtube.com/watch?v=Ybm4Vr7rQgo)).
+
+While the company had moved away from training by the time I joined, the prestige of Black Hat training always stood out to me as a mark of excellence.
 
 Separately, I had the opportunity to review training course submissions for Global AppSec Tel Aviv 2019, as well as for local conferences.  
 
