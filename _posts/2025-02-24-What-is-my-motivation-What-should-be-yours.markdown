@@ -2,7 +2,7 @@
 layout: post
 title: "What is my motivation? What should your motivation be?"
 subtitle: "Part 2, providing some info on how I got into training and the motivation needed."
-date:   2024-02-24 15:30:00 +0300
+date:   2025-02-24 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
