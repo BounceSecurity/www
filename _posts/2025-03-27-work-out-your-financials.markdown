@@ -7,83 +7,124 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I want to talk through the financial aspects of training including expenses and effort to take into account and some thoughts on how different conferences do pricing.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/financials.png
 series: training_series
 ---
 
+![image](/assets/img/bhseries/financials.png){: .blog-image}
+
 #### Introduction
 
-In the previous post, I briefly mentioned the financial rewards (or lack thereof) of delivering training courses. In this post, I want to dive a little more deeply into this topic.
+In my previous post, I briefly touched on the financial realities of delivering training courses. In this post, I'll explore this topic in greater depth.
 
-#### Making your millions
+#### Making your millions??
 
-IMHO Building training courses is not the way to make your millions. Training courses take a lot of upfront investment and then require constant "care and feeding". Things you might have to do include:
+If your goal is a big financial success, training courses will probably not be your golden ticket. That is why I want to tackle this topic up front. You will need to think about this but you also need to be realistic. 
 
-- Update material based on new industry developments.
-- Update material based on your updated experience
-- Check that training exercises still work
-- Update technology aspects of training exercises
-- Update training exercises to keep them relevant
-- Apply feedback and lessons learnt from previous course runs
+Developing a course requires significant upfront investment, and even after launch, it demands ongoing "care and feeding". Keeping content fresh and relevant is crucial, and that means regularly:
 
-If you can find a topic which is generic enough to be widely applicable, different enough to what is already on the market so that there is demand for it, and also doesn't require a lot of care and feeding, then maybe you have an opportunity for a highly profitable course.
+- Updating material to reflect industry changes
+- Incorporating new insights and experiences
+- Ensuring training exercises still function as intended
+- Revising and updating technical components of exercises
+- Adapting exercises to maintain relevance
+- Applying feedback from previous course sessions
+
+If you can identify a subject that is broad enough to appeal to a large audience, different enough from existing options to generate demand, and also low-maintenance in terms of updates, then you might have a high-profit opportunity.
 
 But let me know if you do manage that as it is pretty tough...
 
-From our perspective, the course is a little niche. The "care and feeding" is not huge but I have only really delivered the course 5-8 times.
+![alt text](/assets/img/bhseries/mazetomoney.png){: .blog-image}
 
-#### Covering some/all of your investment
+In my case, the course I built falls into a slightly specialized category. While maintenance isn't overwhelming, I have only delivered it 5–8 times so far. 
 
-Just doing this may be challenging enough. One thing that I did was to start off writing the content gradually by first delivering a 1 hour overview for the Open Security Summit and then a 1 day version of the course at a virtual OWASP Global AppSec.
+#### Non-financial benefits
 
-Both times allowed me get a feeling for how the material came across and in the case of the 1 day course, I was able to try out the (slightly experimental) exercises as well (more on that later).
+On the other hand, there are other benefits that may be attractive to you.
 
-Again, I was not necessilly covering the time investment at this stage but at least I was getting validation that the course was worthwhile and effective.
+The experience of preparing and delivering a course at this level may itself be valuable to your professional development. It may also bring a boost to your public profile and your resume.
 
-Ultimately, you need to balance between investing enough to validate the concept and also demonstrate that it can work, whilst also not incurring a large up-front investment for something that won't work.
+Depending on your planned career trajectory, these aspects may be more valuable than money. However, your current employer may not see things this way. 🙃
 
-#### Breaking even on an individual course
+#### Recouping your investment
 
-This is one area where we really could not compromise. Of course, if you are able to afford to deliver training "for the exposure", then that is easier.
+Before you make a profit you are going to need to cover your initial investment.
 
-For a virtual course this is a lot easier as I just needed to cover the time cost to deliver it which is a lot easier.  
+The most basic investment is any actual money you spend to deliver the course in person. There are a bunch of considerations for this so I will cover it in more detail a little further down.
 
-##### Basic break-even
+The real cost however is (or at least should be) the time you spend building the course. You certainly don't want to spend a lot of time building a course which no one wants to attend.
 
-For in-person training, we had to figure out what our break even point was. Specifically, how many people need to register to get the revenue required to break even. Obviously the first thing you need to know is what share of the course income you will receive from the venue which is hosting the training. (You may be able to negotiate this in certain cases).
+To try and mitigate this risk for my course, I took a phased approach. I started by delivering a one-hour overview at the Open Security Summit, followed by a one-day version at OWASP Global AppSec.
 
-You can then start building your profit calculator based on your expected expenses. I usually prepare an Excel spreadsheet/Google Doc to work this out and recalculate dynamically.
+These smaller commitments helped me gauge audience reception and refine my content. The one-day course also allowed me to test my experimental exercises (more on that later). While this phase didn't compensate for all the time investment, it provided some validation that the course was worthwhile and effective and therefore I should continue investing in it.
 
-##### Think about expenses?
+Striking the right balance is key: invest enough to prove the concept and demonstrate viability, but avoid committing excessive resources to an untested idea that might not work out.
 
-Black Hat pays for flights (up to a certain max) and for the hotel (although note just for the training days, not the conference days) and the per person amount you receive is also higher than other conferences. You also get a free ticket to the conference itself which is not exactly cheap :) Other conferences like OWASP will usually give trainers a free ticket as well.
+![alt text](/assets/img/bhseries/balance.png){: .blog-image}
 
-Aside from hotel and flights, other expenses you might want to consider in your break even calculation could include airport transfers, meals/per-diems, things you buy for participants (I have a bunch of print-outs I prepare and hand-out over the duration of the course).
+#### Breaking even on an single course session
 
-##### What about your time?
+If you are able to afford to pay expenses to deliver training "for the exposure", then you don't need to worry about this. In most cases however, you will need to have a plan.
 
-Also, if you work as a consultant, you are self-employed, or you are doing this separate to your employer, consider the "opportunity" cost. Could you be earning money doing other work during the time you are training which you now won't be able to do. Remember that it is not just the training days but also any days you spend traveling.
+Virtual training is simpler financially: as long as you cover your time cost, you're in the clear. In-person training, however, introduces a host of additional expenses and complications and I will try and cover some of these here. 
 
-##### Revenue per course day
+For in-person training, you need to figure out what your break even point is. Specifically, how many people need to register to get the revenue required to break even. Obviously the first thing you need to know is what share of the course income you will receive from the venue which is hosting the training. You may be able to negotiate this in certain cases.
 
-OWASP has a linear scale for multi-day courses where paticipants pay a flat amount per day so a 3 day course costs three times as much as a one day course but they also have a non-linear (but publically published) revenue share calculation.
+![alt text](/assets/img/bhseries/model.png){: .blog-image}
 
-Black Hat course costs seem to vary a little and it also appears that a 4 day Black Hat course does not cost the attendee twice as much as a 2 day course. I would presume this would also have a similar effect on the revenue share but I am speculating and I also know that Black Hat expects trainers to keep this confidential so I can't find out and I couldn't tell you even if I did.
+You can then start building a break even and profit calculator based on your expected expenses. I usually prepare an Excel spreadsheet or Google Doc to work this out and recalculate dynamically.
 
-On the other hand, at Black Hat USA you have the opportunity to run a 2 day course twice (Sat-Sun and Mon-Tues) so that might be more financially worthwhile if you can attract the required number of people to both runs. This is outside my experience so I couldn't tell you for sure.
+##### Key Expenses to Consider
 
-I have also seen conferences who will pay a flat fee per course/per day (again contingent on hitting a specific minimum number of registrations.)
+Different conferences handle costs in different ways. Expenses that conferences might cover for you (wholly or partly) include:
 
-##### Be clear about your minimum up front
+* Flight costs
+* Hotel costs
+* Venue costs including food and beverage.
 
-Most conferences will ask you up-front what your financial minimum is and you will have to stay in close contact with them to figure out when you make a GO/NO-GO decision.
+Examples that I have seen:
 
-#### Conference's break even
+* Black Hat covers all venue costs, flights (up to a limit) and hotel stay (but only for training days, not the full conference). Trainer then receives a percentage of course revenue.
+* OWASP covers all venue costs but not hotel and flight. Trainer then receives a percentage of course revenue.
+* Other conferences equally split costs and then equally split the profit as well.
 
-The conference themselves may also have a financial minimum so make sure you are clear about that. You should also check with them when they are likely to make that decision. 
+All conferences I have seen also give trainers a free conference ticket which could also be worth a lot, especially for Black Hat.
 
-Also, factor in that flight costs might increase if you are waiting for that decision before you book.
+![alt text](/assets/img/bhseries/expenses.png){: .blog-image}
+
+Beyond travel and accommodation, factor in additional costs such as:
+
+- Airport transfers
+- Meals and per diems
+- Printed materials or giveaways for participants, (I have a bunch of print-outs I prepare and hand-out over the duration of the course and I often buy and bring snacks as well)
+
+##### The Hidden Cost: Your Time
+
+If you're self-employed or consulting, or you are doing this separate to your employer, your time has an opportunity cost. Time spent training is time you could have spent on client work or other revenue-generating activities. Don't forget to include travel days as well.
+
+##### Revenue Per Course Day
+
+Different conferences handle pricing and revenue shares in various ways:
+
+- **OWASP** charges attendees a flat daily rate for training, meaning a three-day course costs three times as much as a one-day course, with no discounts. Trainers receive 40% of net revenue up to $10,000 USD, and 50% of net revenues above $10,000 USD (this is public information).
+- **Black Hat** training ticket costs vary between courses and there are also  various early-bird stages. The revenue share figures are contractually confidential. Interestingly, a four-day Black Hat course doesn't necessarily cost attendees twice as much as a two-day course but I don't know how this translates to revenue share. Black Hat does seem to have the highest ticket process though, and as we saw above, Black Hat is generous with expenses.
+- **Some conferences** pay a fixed rate per course, contingent on meeting a minimum number of registrants.
+
+Note that at **Black Hat USA**, trainers can deliver the same two-day course twice (Sat-Sun and Mon-Tues), potentially doubling their earnings if they can get good numbers for both sessions.
+
+##### Set Your minimum up-front
+
+Most conferences will ask what your financial minimum is upfront and you should be able to use the information above, plus the conference's specific terms, to figure that out.  You'll need to maintain close communication with them to determine when to make a GO/NO-GO decision. 
+
+![alt text](/assets/img/bhseries/fork.png){: .blog-image}
+
+#### The conference's minimum
+
+Conferences themselves will generally have financial break-even points, and they won't run training that doesn't meet minimum registration numbers. Be clear on these thresholds and when there conference team will make their final decision.
+
+Also, keep in mind that waiting on a conference decision could mean higher flight costs if you delay booking.
 
 #### Next Post: Figuring out your selling point
 
-You can make these decisions and plans but you still need to figure out how your course is going to fit into a crowded market. I'll talk about this in the next blog in the series.
+The financial aspects are only a small part of the equation. To truly succeed, you need a compelling reason for people to choose your course over others in a crowded market. In the next post, I'll discuss how to carve out your unique value proposition and attract the right audience.
+
