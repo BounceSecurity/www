@@ -30,7 +30,7 @@ Developing a course requires significant upfront investment, and even after laun
 - Adapting exercises to maintain relevance
 - Applying feedback from previous course sessions
 
-If you can identify a subject that is broad enough to appeal to a large audience, different enough from existing options to generate demand, and low-maintenance in terms of updates, then you might have a high-profit opportunity.
+If you can identify a subject that is broad enough to appeal to a large audience, different enough from existing options to generate demand, and also low-maintenance in terms of updates, then you might have a high-profit opportunity.
 
 But let me know if you do manage that as it is pretty tough...
 
