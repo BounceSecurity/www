@@ -68,7 +68,7 @@ If you are able to afford to pay expenses to deliver training "for the exposure"
 
 Virtual training is simpler financially: as long as you cover your time cost, you're in the clear. In-person training, however, introduces a host of additional expenses and complications and I will try and cover some of these here. 
 
-For in-person training, you need to figure out what your break even point is. Specifically, how many people need to register to get the revenue required to break even. Obviously the first thing you need to know is what share of the course income you will receive from the venue which is hosting the training. You may be able to negotiate this in certain cases.
+For in-person training, you need to figure out what your break even point is. Specifically, how many people need to register to get the revenue required to break even. Obviously the first thing you need to know is what share of the course income you will receive from the venue which is hosting the training. This might be fixed or flexible depending on the conference.
 
 ![alt text](/assets/img/bhseries/model.png){: .blog-image}
 
@@ -84,8 +84,8 @@ Different conferences handle costs in different ways. Expenses that conferences 
 
 Examples that I have seen:
 
-* Black Hat covers all venue costs, flights (up to a limit) and hotel stay (but only for training days, not the full conference). Trainer then receives a percentage of course revenue.
-* OWASP covers all venue costs but not hotel and flight. Trainer then receives a percentage of course revenue.
+* Black Hat publishes information here: https://www.blackhat.com/call-for-training.html
+* OWASP covers all venue costs but not hotel and flight.
 * Other conferences equally split costs and then equally split the profit as well.
 
 All conferences I have seen also give trainers a free conference ticket which could also be worth a lot, especially for Black Hat.
@@ -107,10 +107,10 @@ If you're self-employed or consulting, or you are doing this separate to your em
 Different conferences handle pricing and revenue shares in various ways:
 
 - **OWASP** charges attendees a flat daily rate for training, meaning a three-day course costs three times as much as a one-day course, with no discounts. Trainers receive 40% of net revenue up to $10,000 USD, and 50% of net revenues above $10,000 USD (this is public information).
-- **Black Hat** training ticket costs vary between courses and there are also  various early-bird stages. The revenue share figures are contractually confidential. Interestingly, a four-day Black Hat course doesn't necessarily cost attendees twice as much as a two-day course but I don't know how this translates to revenue share. Black Hat does seem to have the highest ticket process though, and as we saw above, Black Hat is generous with expenses.
+- As can be seen on [the public training page](https://www.blackhat.com/us-25/training/schedule/index.html), **Black Hat** training ticket costs vary between courses and there are also various early-bird stages. Interestingly, a four-day Black Hat course doesn't necessarily cost attendees twice as much as a two-day course.
 - **Some conferences** pay a fixed rate per course, contingent on meeting a minimum number of registrants.
 
-Note that at **Black Hat USA**, trainers can deliver the same two-day course twice (Sat-Sun and Mon-Tues), potentially doubling their earnings if they can get good numbers for both sessions.
+Note that at **Black Hat USA**, trainers can deliver the same two-day course twice (Sat-Sun and Mon-Tues).
 
 ##### Set Your minimum up-front
 

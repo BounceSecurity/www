@@ -27,9 +27,9 @@ Three big factors in how easy it will be to sell your course will be:
 
 For OWASP Global conferences, there are usually up to 10 courses being run at the same time with maybe 100 or so people typically attending the training.
 
-For Black Hat USA, there will typically be ~140 courses and ~2,500 attendees.
+For Black Hat USA, there will typically be ~140 courses. When I was there in person, there must have been at least a thousand people in the lunch room, if not more, on training days.
 
-Whilst the ratio seems more favourable for Black Hat, it seems like the distribution is not at all even with popular courses getting 60-70 attendees and many less popular courses getting less than 10.
+Whilst the ratio seems more favourable for Black Hat, it seems like the distribution is not necessarily even. When I walked around I could see that some courses were in giant rooms with many 10s of attendees and others were in smaller conference rooms.
 
 You may therefore wish to think about ways to make your course stand out more. Things I tried including ensuring the course appeared relatively high up in the course list through an "optimised" title and also adding a video to the course description wherever possible (but more on videos further down).
 
