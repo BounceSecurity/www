@@ -2,7 +2,7 @@
 layout: post
 title: "Working out your financials"
 subtitle: "Part 3, providing some points to consider on the financial aspects of training."
-date:   2025-04-01 15:30:00 +0300
+date:   2025-04-01 07:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
