@@ -84,11 +84,11 @@ Different conferences handle costs in different ways. Expenses that conferences 
 
 Examples that I have seen:
 
-* Black Hat publishes information here: https://www.blackhat.com/call-for-training.html
+* Black Hat publishes information on the [public CFT page](https://www.blackhat.com/call-for-training.html).
 * OWASP covers all venue costs but not hotel and flight.
 * Other conferences equally split costs and then equally split the profit as well.
 
-All conferences I have seen also give trainers a free conference ticket which could also be worth a lot, especially for Black Hat.
+All conferences I have seen also give trainers a free conference ticket which could also be worth a lot.
 
 ![alt text](/assets/img/bhseries/expenses.png){: .blog-image}
 
