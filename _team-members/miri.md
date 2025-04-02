@@ -10,7 +10,6 @@ contacts:
     - label: LinkedIn
       url: https://www.linkedin.com/in/miri-b-9582031a5/
       icon: fab fa-linkedin-in
-
 ---
 
 Miri is a Product Security Consultant with a background in secure coding, web penetration testing, and developer training.
