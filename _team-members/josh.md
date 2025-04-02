@@ -3,7 +3,7 @@ title: Josh Grossman
 subtitle: CTO
 layout: team-member
 hero_height: is-small
-img: /assets/img/Josh1.png
+img: /assets/img/josh1.jpg
 sort_order: 4
 status: active
 contacts:
