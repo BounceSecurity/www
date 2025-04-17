@@ -7,7 +7,7 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I want to talk through my thought process for practical exercises for the participants to do rather than just listening to me.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/practical.png
 series: training_series
 ---
 
