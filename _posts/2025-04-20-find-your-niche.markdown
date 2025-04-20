@@ -25,7 +25,7 @@ In a previous post, I mentioned that I already had a good grasp of the applicati
 
 Conferences will often maintain historical websites where you can see the courses they have previously offered.
 
-Black Hat maintains an archive of past training courses with predictable URL patterns, making it easy to explore previous years' offerings. Keep in mind that not all Black Hat events are created equal, Black Hat USA is significantly larger than its counterparts in Asia and Europe.
+Black Hat maintains an archive of past training courses with [predictable](https://www.blackhat.com/us-25/training/schedule/) [URL](https://www.blackhat.com/asia-24/training/schedule/) [patterns](https://www.blackhat.com/eu-23/training/schedule/), making it easy to explore previous years' offerings. Keep in mind that not all Black Hat events are created equal, Black Hat USA is significantly larger than its counterparts in Asia and Europe.
 
 As for satellite events like Black Hat Spring Trainings, I have never seen a formal Call for Training. It's possible these are invite-only affairs, favoring trainers with a strong sales history, but that's just a theory.
 
