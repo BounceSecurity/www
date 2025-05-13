@@ -19,6 +19,9 @@ group :jekyll_plugins do
 end
 
 gem "kramdown-parser-gfm"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
