@@ -2,7 +2,7 @@
 layout: post
 title: "Selling and Marketing your course"
 subtitle: "Part 7, how to get people to sign up for the course?"
-date:   2025-06-10 15:30:00 +0300
+date:   2025-06-24 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
