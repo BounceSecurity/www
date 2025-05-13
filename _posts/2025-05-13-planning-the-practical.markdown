@@ -2,7 +2,7 @@
 layout: post
 title: "Planning the Practical"
 subtitle: "Part 5, how will the participants get their hands dirty?"
-date:   2025-05-05 15:30:00 +0300
+date:   2025-05-13 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
@@ -13,100 +13,136 @@ series: training_series
 
 #### Introduction
 
-I can almost guarantee that no one wants to go to a course where they listen to you talk for 7-8 hours each day. They want to get their hands dirty trying to apply what they've learnt.
+Let's be honest: nobody's signing up for a training course just to sit and listen to someone talk for 7–8 hours a day.
 
-This is one of the big things that will differentiate your course, so in this section, I will talk about this in more detail.
+People come to *do the things*, to get their hands dirty, apply what they've learned, and leave with new skills they can actually use. And that's your edge.
 
-#### Split between labs
+In this post, I talk about how to make the hands-on elements of your course not just functional, but an integral part of the course.
 
-In the Black Hat Call for Training (CFT) documentation, it suggests that at least 40% of your training course should be hands-on/practical. The good news is that this means you only need to talk for at most 4-5 hours of each day. The bad news is that you need to figure out how to entertain your attendees for the rest of that time.
+![alt text](/assets/img/bhseries/practicalintro.png)
 
-I can tell you from experience that the practical aspects will define the attendee experience and can make or break your course. You also need to be able to make the practical parts sound compelling enough for the review board and the potential attendees.
+#### Splitting the Day: Labs vs. Lectures
 
-#### Traditional, practical labs
+The Black Hat Call for Training (CFT) recommends at least **40% of your course be practical**. That's great news as it means you only need to talk for 4–5 hours a day.
 
-If you are planning on teaching a very practical skill then you will probably want practical, technical exercises to for your attendees to do.
+But here's the catch: you now need to figure out how to entertain your attendees the remaining time.
 
-##### Initial considerations
+I can tell you that the practical segments are *the* part attendees remember most and will define their takeaway experience. You therefore need to make these segments sound compelling enough for the review board and the potential attendees.
 
-Now, this might soundeasy but consider the following points:
+#### Traditional, Practical Labs
 
-* How do you make the tasks challenging enough but also solvable?
-* How do you make the exercises accessable and achievable by people at a variety of skill levels?
-* Will you want to centrally track attendee process and if so, how?
-* Is this a competition or every person for themselves at their own pace?
-* Can you prepare enough content for the most advanced students to feel stretched?
-* Are you going to need to test your labs before each course run to make sure everything works? Is that manual or automated?
-* How are you going to keep your labs up to date? Are you training on something where new versions are released frequently?
-* How will you be troubleshooting students accessing the labs?
-* Do you have a way of resetting your labs or returning them to a known good state.
-* How many students can you simultaneously troubleshoot for?
+If you're teaching a very hands-on skill such as offensive security, reverse engineering, cloud config hardening, practical labs are likely your core.
 
-##### Providing lab access
+But just saying "we have labs" isn't enough, how are these labs going to work.
 
-The million dollar question is, how will students access the labs?
+##### Initial Considerations
 
-* Do they need to install software on their laptops? 
-* Do you require a specific hardware or software specification?
-* Will students need to have a virtualisation tool?
-* Will students need to have local admin access.
+Here's what you need to think through — trust me, these details matter:
 
-##### Hosted labs
+- How do you make tasks challenging **yet solvable**?
+- Are the exercises **accessible and achievable** by people at a variety of skill levels?
+* Will you want to **centrally track** attendee process and if so, how?
+- Is it a **competition** or self-paced?
+- Can you stretch your **most advanced students**?
+- How can you test that your **labs still work** before each run? Is that manual or automated?
+- How will you keep lab content **up to date** if your subject moves fast?
+- How many students can you **realistically support and troubleshoot** for at once?
+- Do you have an automated way to reset your labs to a **known good state**?
 
-In the past, trainers would bring their own hardware such as servers to training courses to try and reduce load on student laptops and avoid these issues but this seems a little obselete nowadays and is unlikely to impress the review board. Instead, maybe you could side-step this by having cloud-based labs. For Black Hat that it is pretty much assumed that you will do this but that raises it's own questions:
+![alt text](/assets/img/bhseries/labconsiderations.png)
 
-* How will you be able to scale your cloud-based labs for greater numbers of students?
-* Do you need to build automations to establish the labs for each student?
-* Do you need to provide an authentication mechanism for each student to access their lab?
-* Do you need to harden the cloud environment to protected against those "creative" students who think that security labs are fair game. (A few years back, a student decided it would be funny to deploy one of the nastier ransomware worms to some trainer's workshop labs.)
-* Will students only have access during the course or can you provide access afterwards as well? (Might be a nice extra).
+##### Providing Lab Access
 
-#### Other practical options
+One of the biggest questions: how will students access the labs?
 
-If you are not teaching strictly practical skills, you might need to be more creative in your practical exercises.
+- Do they need to **install software**?
+- Is specific **hardware/software** required?
+- Do they need a **virtualization tool**?
+- Will they need **admin access**?
 
-For my course I basically had to come up with exercise concepts from scratch. After some iteration, I came up with two primary exercise types.
+If the answer to any of these is yes, expect friction and maybe a few frustrated emails.
 
-(I go into quite a lot of detail here but I hope it helps other people with their thought process.)
+#### Hosted Labs: The Modern Standard
+
+In the old days, trainers would lug laptops and servers into conference venues. Now? **Cloud-hosted labs** are the norm.
+
+Sensepost set the gold standard for this almost 10 years ago as they discuss in [their blogpost here](https://sensepost.com/blog/2015/into-the-cloud/). Nowadays, this should probably just be the standard.
+
+But don't let the cloud fool you into thinking it's simpler. It comes with its own set of questions:
+
+- Can your labs **scale** to support dozens (or hundreds) of users?
+- How will you **automate provisioning** for each user?
+- Do students **authenticate individually**? How will you set this up
+- Have you secured your environment from... creative attendees?
+  - _Yes, someone once deployed ransomware in someone's training lab environment. Be ready!_
+- Will students have **post-course access**? (Bonus points if yes.)
+
+![alt text](/assets/img/bhseries/labcloud.png)
+
+#### When "Hacking" Isn't the Goal: Creative Practical Exercises
+
+What if your course isn't about hacking or coding? Then you'll need to get creative.
+
+In my case, I built two distinct types of exercises from scratch and they actually became the highlight of the course.
+
+(I go into quite a lot of detail here but I hope it helps other people with their thought process. Feel free to skip if you don't want the details)
 
 ##### Vulnerability Triage
 
-The first type of exercise was a vulnerabilty triage exercise and involved participants working as a group to review a set of findings from an application security scanning tool type such as SAST, DAST and SCA. They had a code repository/running application they could refer to if necessary and broadly speaking could use as few or as many resources as they wished to try and make decisions. 
+The first was a **vulnerability triage** challenge.
 
-I deliberately skipped the stage of them running the tool because the whole course concept was to focus on organisational process and methodology. This had also been the focus of the lectures which preceeded each exercise.
+Students worked in groups, reviewing fictional findings from tools like SAST, DAST, and SCA. They had a simulated codebase or running app as a reference, but running tools wasn't the goal or even part of the exercise.
 
-The aim at the end was to come up with a reasoned prioritisation for addressing the vulnerabilities. The exact order was less important to me than the logic behind it.
+Instead, they had to prioritize the vulnerabilities and more importantly, **explain their reasoning**.
 
-##### Organisational process
+Why? Because the course and therefore the exercises focused on *process* and *decision-making*, not tool mastery.
 
-The second type of exercise was a process/implementation plan exercise. This involved the team working again in groups to discuss how they would implement a particular scanning tool, using the working document I mentioned above as a basis.
+![alt text](/assets/img/bhseries/vulntriage.png)
 
-Now, the first problem I had here was that for public training each attendee would come from a different background/organization so how would they decide what organisation the was being implemented for. I solved this by coming up with a basic case study of an organization which develops an app and provide information about that organization for the teams to use when planning the implementation.
+This exercise built on the lectures and gave students a chance to the new ideas in a low-stakes setting.
 
-Originally I thought about creating multiple examples so that each team would have something different but honestly it works great with all teams working on the same organisation. I got to invent a tech stack and a bunch of managers and team leaders who hold the various roles in the system. 
+##### Organisational Process
 
-The app itself is also faintly sinister which amuses me and I deliberately designed the information provided to match the questions which the teams need to answer for the working document.
+The second type of exercise asked: *How do you roll out a security tool across an organisation?*
 
-The second problem I had for this exercise type was how to feedback the results. Whereas for the vulnerability triage exercise, it works quite well for all the teams to feedback together and we can quite easily compare and contrast the orders in which they prioritised the vulnerabilities, for the process exercises there would be too much information to do that effectively all together and it would be too slow and uninteresting to do this one by one.
+Students had to plan an implementation using a working document based on the content in the lectures. Sounds fun, right? Well I had to work a little on the fun part.
 
-This led to possibly my favourite part of the course, the simulated stakeholder! (I think this was probably inspired by exercises we did back when I worked at Deloitte as part of training for more senior roles.)
+Since attendees came from diverse backgrounds I created a **fictional company case study** for everyone to work from. I also prepared a tech stack, fake team leads, and a slightly sinister app to keep things fun. All teams worked from the same case study as I felt it would make it easier for teams to compare notes afterwards.
 
-For each process exercise, I would ask for a volunteer from each team who would become a simulated stakeholder. Instead of working with their own team, all the stakeholders would come and work as a group with me and we would go through a similar process to what the individual teams would be doing but I would be giving them a steer as to what I was expecting that they would answer for each part of the working document, based on the sample scenario.
+But how would they provide their feedback?
 
-After the teams had prepared their plan based on the working document, the stakeholder from one team would go and sit with another team and pretend to be senior management, specifically the CTO. The team would then have to explain and justify their plan to the simulated stakeholder with the stakeholder giving them guidance and feedback and asking them clarifying questions.
+Enter: **The Simulated Stakeholder**
 
-Aside from the simulated stakeholders getting much amusement from their sudden promotion to CTO (although I think on one occassion a stakeholder was actually a CTO in their day job), this was a great way to give the teams something to work towards and also stimulate discussion. I also feel like this is an important illustration of one of the key lessons from the course which is the importance of getting senior level buy-in.
+Rather than each team presenting their plan to the entire class (which might be a little repetitive), I introduced the simulated stakeholder, in most cases the CTO of the simulated company.
 
-#### Other ideas
+(I think this was probably inspired by exercises we did back when I worked at Deloitte as part of training for more senior roles.)
 
-I think that explaining about the time I created a multi-player game based on the ASVS entirely built in Google Sheets is beyond the scope of this article but buy me a beer and ask ask me about it 
+Each team nominated one person to roleplay the CTO. All the "CTOs" joined me in a breakout session, where I worked through the working document with them and guided them on the kinds of questions and expectations a real executive might have and how best to interact with the teams.
 
-#### What point was I trying to illustrate here?
+Then, each CTO joined a _different_ team, and that team had to **justify their plan to a skeptical senior stakeholder**.
 
-Aside from crowing a bit about what I think are some cool ideas I had, I think the point is that you can think creatively about practical exercises and come up with ideas other than traditional hacking or code writing exercises. Remember that the rarest and most valuable skill in security is the ability to communicate and convince effectively.
+Aside from the simulated stakeholders getting much amusement from their sudden promotion to CTO (although I think on one occassion a stakeholder was actually a CTO in their day job), this was a great way to give the teams something to work towards and also stimulate discussion.
+
+It was also an important illustration of one of the key lessons from the course which is the importance of getting senior level buy-in.
+
+![alt text](/assets/img/bhseries/stakeholder.png)
+
+#### Other Ideas
+
+I'll save the story about the time I built a multi-player game based on the ASVS entirely in Google Sheets for another post, or over a beer. 🍻
+
+Just know that even if it sounds weird, it might actually work.
+
+#### The Real Point
+
+Yes, I wanted to show off some my cool ideas but the real message is this: You can go beyond traditional "labs" and build creative, impactful exercises that magnify the impact of your course.
+
+Don't limit yourself to hacking and code. Remember that the rarest and most valuable skill in security is the ability to communicate and persuade. Think about courses which build that muscle as well.
 
 #### Next Post: Putting pen to paper
 
-So now, having figured out your financials, your niche, and your exercises, you now need to actually get accepted by a conference. In the next post, I will talk about writing a convincing Call for Training submission. 
+So now, having figured out your financials, your niche, and your exercises, you now need to actually get accepted by a conference.
+
+In the next post, I'll walk through how to write a compelling Call for Training (CFT) submission.
 
 
