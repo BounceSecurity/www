@@ -25,7 +25,7 @@ CfTs (Calls for Training) often open earlier than the main Call for Papers (CfP)
 
 Failing to plan here could mean missing your window altogether. This means you are going to want to put CfT dates in your calendar and prepare your materials well in advance.
 
-![Cybersecurity](/assets/img/bhseries/2.png)
+![Cybersecurity](/assets/img/bhseries/2.jpeg)
 
 #### Know Your Audiences
 
