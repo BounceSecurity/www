@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Writing your Submission"
-subtitle: "Part 6, how to write a submission to impress the reviewers?"
+subtitle: "Part 6, how to write a submission to impress the reviewers (and attendees)?"
 date:   2025-06-03 09:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I provide some ideas on how to write a convincing conference submission for your training course.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/1.png
 series: training_series
 ---
 
