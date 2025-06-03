@@ -28,7 +28,7 @@ jobs:
           node-version: '20'
 
       - name: Install cspell
-        run: npm install -g cspell@7.2.0
+        run: npm install -g cspell
 
       # cspell config is now in .github/workflows/cspell.json
 
@@ -45,10 +45,10 @@ jobs:
         if: github.event_name == 'pull_request' && steps.files.outputs.any_changed == 'true'
         run: |
           for file in ${{ steps.files.outputs.all_changed_files }}; do
-            cspell --config .github/workflows/cspell.json --fail-fast --verbose "$file"
+            cspell --config .github/workflows/cspell.json --verbose "$file"
           done
 
       - name: Run cspell on all markdown files (push to main or manual)
         if: github.event_name != 'pull_request'
         run: |
-          cspell --config .github/workflows/cspell.json --fail-fast --verbose "**/*.md" "**/*.markdown"
+          cspell --config .github/workflows/cspell.json --verbose "**/*.md" "**/*.markdown"
