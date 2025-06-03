@@ -11,62 +11,92 @@ image: /assets/img/bhseries/whoami.png
 series: training_series
 ---
 
-#### Introduction
+# Preparing for Your Confirmed Training Course
 
-Your course is confirmed and you are going ahead? Fantastic, that is a big achievement! In this section I will talk about some of the preparations you may want to make before your course.
+Your course is confirmed and you’re ready to go? Fantastic! That’s a major milestone worth celebrating. 🎉 Now that you’re past the proposal phase, it’s time to shift gears and think about the practical preparations that will ensure your course is not just delivered—but delivered smoothly and memorably.
 
-#### Visa considerations
+In this post, I’ll walk you through essential pre-course considerations, from visa planning to organizing handouts, so that nothing catches you off guard when it’s go time.
 
-This is not a financial consideration as such but it is certainly something you want to consider if you are not a citizen of the country where you want to deliver a training course.
+---
 
-##### Getting a visa to enter the country
+## Visa Considerations: More Than Just a Stamp
 
-How easy will it be for you to enter the country where the training is to be delivered?
+While not strictly a financial issue, visa planning is a *must-do* if you’re delivering a course abroad. Skipping this step could derail your training before it begins.
 
-Some countries (such as the US) have challenging visa processes if you don't have the privilege of holding a passport that has a streamlined process (such as the US ESTA process or the upcoming EU ETIAS process).
+### Getting a Visa to Enter the Country
 
-If your visa process is going to be tricky, you are going to want to plan well ahead (many months). There is no guarantee that even the time between your training submission to the conference and the conference happening will be enough time if there is a big backlog.
+Ask yourself: *How easy is it for me to enter the country where I’ll be training?*
 
-##### Getting a visa to get paid whilst you are in the country
+If you’re not blessed with a streamlined entry process (like the US ESTA or the upcoming EU ETIAS), start early. Some visa applications take weeks—or even months. And if there’s a backlog? Forget about it. Even the time between your course being accepted and the conference date might not be enough.
 
-I am not a lawyer. I am in fact technically an accountant but I have never actually practiced accountancy, let alone international tax/employment law or anything else. You should perform your own due diligence to ascertain whether there is any difficulty in getting paid by a conference to train in the country where you are doing so, especially if you personally are receiving the payment.
+![image](/assets/img/bhseries/31.jpeg)
 
-In my experience, conferences will not be able to provide you a detailed perspective or definite guidance on this.
+### Getting a Visa That Lets You Get Paid
 
-#### Supplementary materials for the course
+Here’s where things get murky. I’m not a lawyer (technically, I’m an accountant—but I’ve never practiced), so this isn’t legal advice. However, be aware: Getting paid to train abroad might require a different visa than just attending a conference.
 
-I usually prepare some other materials to provide to participants at the course.
+Check whether you'll legally be allowed to *work* (i.e. deliver training) and *get paid* while in that country. Conferences often won’t have definitive guidance on this either—so it’s your responsibility to do the homework.
 
-##### Goodies and extras
+---
 
-If you promised extra things to participants, you need to make sure you follow through on this now! The tricky part is that you may not know how many attendees will be at the course until a couple of days before. At Black Hat in 2023, my attendee numbers jumped by 50% in the last two weeks.
+## Supplementary Materials: Going the Extra Mile
 
-You are therefore going to have to make an estimate early enough to prepare what you need. I would always aim high as I'd rather have some stuff left over than leave attendees disappointed. If your materials are particularly expensive, you may need to define a cutoff in the course information, i.e. free laptop to anyone who signs up at least three weeks before the course.
+Beyond your core curriculum, it’s a great idea to prepare supplementary materials that enhance the learning experience. These can include physical goodies, printed handouts, or digital resources. Let's break them down.
 
-##### Course Materials
+### Goodies and Extras
 
-I personally like to have printed materials for my in-person courses. In the exercises for my course, there are few different documents which participants need to refer to so it is a lot easier to do this with hard copies rather than constantly alt-tabbing between different screens on a laptop.
+If you’ve promised participants anything extra—stickers, USB drives, branded gear—now's the time to deliver. But beware: You might not know your final headcount until right before the event.
 
-I always prepare these in advance and take them with me rather than trying to get them printed on site so that I know that it is in my control. The only exception is that Black Hat will print a course workbook as part of the service which I think is a nice addition.
+At Black Hat 2023, my attendee numbers jumped by 50% in just two weeks.
+
+So, plan generously. It’s better to have a few extras than run out and disappoint attendees. For expensive items, consider a cutoff: for example, *"Free hardware kit for signups received 3+ weeks in advance."*
+
+![image](/assets/img/bhseries/32.jpeg)
+
+---
+
+## Course Materials: Print Smart, Share Wisely
+
+### Hard Copies: Old School but Effective
+
+For in-person training, I’m a big fan of printed materials. When exercises require referring to multiple documents, printed copies save participants from the dreaded *Alt+Tab shuffle*.
+
+I always print and bring these materials myself to ensure quality and timing. The exception? At Black Hat, they print a course workbook for you—nice touch!
+
+> **Pro Tip:** Never pack your printed materials in checked luggage. Just don’t.
 
 ![image](/assets/img/bhseries/workbooks.jpg){: .blog-image}
 
-Take my advice and don't send your printed materials in checked luggage...
 
-Since participants receive a bunch of printed materials, something I did on one occassion was to get Amazon to deliver a bunch of plastic document folders to the training location. This meant that participants had a folder to put their handouts in plus I could give them a bunch of stickers and other bits of pieces such as sticky dividers which they could use to mark important pages in the training workbook.
+### Bonus Tip: Document Folders for the Win
+
+One hack I tried and loved: I ordered plastic document folders via Amazon to the venue. Each participant got one to organize their handouts, plus some extras—like sticky dividers and branded stickers.
+
+The feedback? Extremely positive. It’s a small gesture that makes a big difference.
 
 ![image](/assets/img/bhseries/attendee_pack.jpg){: .blog-image}
 
-##### Soft copies
+---
 
-I always make sure that attendees have soft copies of all materials as well so that they can refer to them afterwards. I will generally hand out PDFs unless I specifically want people to be able to edit the documents for themselves. I generally "drip feed" out the documents for the exercises as each exercise comes up which makes things a little more complicated for me but avoids any reading ahead. It isn't really practical do this for the slides.
+### Soft Copies: Backup and Beyond
 
-One important thing for the slides (whether softcopy or hardcopy) is that I always want the numbering on the handouts to match the numbering on screen to make it easier for participants to track where we are up to.
+Printed materials are great during the course, but soft copies are critical for long-term reference. I provide PDFs unless I want students to edit the files themselves.
 
-##### Don't overthink it
+I “drip feed” exercise materials throughout the course, which adds a bit of complexity but keeps students from jumping ahead. For slides, I always ensure the numbering on the handouts matches the numbering on screen—this keeps everyone on track.
 
-Plan in advance but don't go too overboard on these preparations. Ultimately the key to the course's success will be how well you deliver the content and the quality of the interactive experience. What you hand out to participants is just the icing on the cake!
+![image](/assets/img/bhseries/33.jpeg)
+---
 
-#### Looking for more?
+## Don’t Overthink It: Focus on Delivery
 
-This is what I have so far. I have some other thoughts so let me know if you found this useful and maybe I will see what else I can think of. Alternatively, let me know what topics you would like to hear about or what questions you would like answered!  
+While all this prep helps, don’t lose sight of what truly matters—the *content* and the *experience*. Your delivery, your energy, and the interactions you create with participants are what make your course memorable.
+
+Handouts and goodies? They’re just the icing on the cake.
+
+---
+
+## Looking for More?
+
+That’s a wrap for now—but I have more ideas in the pipeline. Did you find this helpful? Let me know what you'd like to hear more about or which questions you want answered next.
+
+Let’s make your next training the best one yet. 🚀
