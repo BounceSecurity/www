@@ -63,7 +63,7 @@ const users = await prisma.$queryRaw(templateString)
 console.log(users)
 ```
 
-Headscratcher or not, this works and in the example above leads to an SQL injection vulnerability, despite using the "safe" method.
+Head-scratcher or not, this works and in the example above leads to an SQL injection vulnerability, despite using the "safe" method.
 
 > **Note:** You can try the examples in this section in the [Prisma Playground](https://playground.prisma.io/examples/advanced/raw-queries/with-argument) although be aware that:
 >
@@ -170,7 +170,7 @@ Well at a meta-level, this is another great illustration of the day to day chall
 I think the key conclusions here are:
 
 - Raw queries will always be dangerous and require extra attention because they are so easy to get wrong.
-- This is one of the reasons why SQL injection is still so prevalant and we certainly haven't eradicated it yet.
+- This is one of the reasons why SQL injection is still so prevalent and we certainly haven't eradicated it yet.
 - Being able to detect these sort of edge cases or changes in the way things are done is super important. In a future post, we'll try and demonstrate how...
 
 

@@ -1,19 +1,17 @@
 {
   "version": "0.2",
-  "ignoreWords": [
-    "backlink",
-    "backname",
-    "bughunting",
-    "Semgrep",
-    "valuenotvulns",
-    "Hfhvhey",
-    "Zoyc"
-  ],
-  "language": "en-GB,en-US",
   "ignorePaths": [
-    "bheu23.md"
+    "**/bheu23.md"
   ],
-  "ignoreRegExpList": [
-    "[A-Z]{2,}"
+  "dictionaries": [
+    "en-gb",
+    "en_US",
+    "local-custom"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "local-custom",
+      "path": "local-custom.txt"
+    }
   ]
 }
