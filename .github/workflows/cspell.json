@@ -15,7 +15,7 @@
   "dictionaryDefinitions": [
     {
       "name": "local-custom",
-      "path": ".github/workflows/local-custom.txt"
+      "path": "local-custom.txt"
     }
   ]
 }
