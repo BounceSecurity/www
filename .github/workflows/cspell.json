@@ -3,9 +3,6 @@
   "ignorePaths": [
     "bheu23.md"
   ],
-  "ignoreRegExpList": [
-    "[A-Z]{2,}"
-  ],
   "dictionaries": [
     "en-gb",
     "en_US",

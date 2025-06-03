@@ -395,7 +395,7 @@ This system can be useful for our own work, allowing us to:
 
 ### Explanation 
 
-Most organizations are using cloud hosted infrastucture to host their applications. Some may be entirely cloud based or cloud native. There will generally be a management platform where all of this infrastructure is managed. Visibility of this platform will be even more important if the company is not using "Infrastucture as Code" to configure it.
+Most organizations are using cloud hosted infrastructure to host their applications. Some may be entirely cloud based or cloud native. There will generally be a management platform where all of this infrastructure is managed. Visibility of this platform will be even more important if the company is not using "Infrastructure as Code" to configure it.
 
 For our purposes, access to the API might be even better than the graphical console.
 

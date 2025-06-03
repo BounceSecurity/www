@@ -5,3 +5,7 @@ Semgrep
 valuenotvulns
 Hfhvhey
 Zoyc
+videoconf
+Logz
+prescheduled
+remediations
