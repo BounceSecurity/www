@@ -45,10 +45,10 @@ jobs:
         if: github.event_name == 'pull_request' && steps.files.outputs.any_changed == 'true'
         run: |
           for file in ${{ steps.files.outputs.all_changed_files }}; do
-            cspell --config .github/workflows/cspell.json "$file"
+            cspell --config .github/workflows/cspell.json --no-progress --no-summary --fail-fast "$file"
           done
 
       - name: Run cspell on all markdown files (push to main or manual)
         if: github.event_name != 'pull_request'
         run: |
-          cspell --config .github/workflows/cspell.json "**/*.md" "**/*.markdown"
+          cspell --config .github/workflows/cspell.json --no-progress --no-summary --fail-fast "**/*.md" "**/*.markdown"
