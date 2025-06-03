@@ -49,5 +49,5 @@ Miri
 asvs
 threatmodeling
 skillset
-skillset*
+skillsets
 Hackeriot
