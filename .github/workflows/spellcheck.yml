@@ -1,18 +1,18 @@
 name: Spell Check Markdown
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '**/*.md'
-      - '**/*.markdown'
-  pull_request:
-    branches:
-      - main
-    paths:
-      - '**/*.md'
-      - '**/*.markdown'
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - '**/*.md'
+  #     - '**/*.markdown'
+  # pull_request:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - '**/*.md'
+  #     - '**/*.markdown'
   workflow_dispatch:
 
 jobs:
