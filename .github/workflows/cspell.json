@@ -1,7 +1,7 @@
 {
   "version": "0.2",
   "ignorePaths": [
-    "bheu23.md"
+    "*/bheu23.md"
   ],
   "dictionaries": [
     "en-gb",
