@@ -117,11 +117,11 @@ Rather than each team presenting their plan to the entire class (which might be 
 
 (I think this was probably inspired by exercises we did back when I worked at Deloitte as part of training for more senior roles.)
 
-Each team nominated one person to roleplay the CTO. All the "CTOs" joined me in a breakout session, where I worked through the working document with them and guided them on the kinds of questions and expectations a real executive might have and how best to interact with the teams.
+Each team nominated one person to role-play the CTO. All the "CTOs" joined me in a breakout session, where I worked through the working document with them and guided them on the kinds of questions and expectations a real executive might have and how best to interact with the teams.
 
 Then, each CTO joined a _different_ team, and that team had to **justify their plan to a skeptical senior stakeholder**.
 
-Aside from the simulated stakeholders getting much amusement from their sudden promotion to CTO (although I think on one occassion a stakeholder was actually a CTO in their day job), this was a great way to give the teams something to work towards and also stimulate discussion.
+Aside from the simulated stakeholders getting much amusement from their sudden promotion to CTO (although I think on one occasion a stakeholder was actually a CTO in their day job), this was a great way to give the teams something to work towards and also stimulate discussion.
 
 It was also an important illustration of one of the key lessons from the course which is the importance of getting senior level buy-in.
 

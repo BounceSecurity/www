@@ -61,7 +61,7 @@ Whilst I delivered my course at a few OWASP conferences, my largest target was B
 
 * October 2022 - Training and Speaking at OWASP Global AppSec San Francisco. 
 * January 2023 - Speaking at NDC Security in Oslo (including a talk at OWASP Oslo the night before)
-* Feburary 2023 - Training at OWASP Global AppSec Dublin
+* February 2023 - Training at OWASP Global AppSec Dublin
 * April 2023 - Speaking at QCon London
 * June 2023 - Speaking at DevTalks Bucharest
 
@@ -89,11 +89,11 @@ For recent courses, I have stuck to a few social media posts without too much pu
 
 I mentioned in a previous post that at some point there will be a GO/NO-GO decision based on whether the course sells enough seats to meet your own financial breakeven and the conference's financial breakeven.
 
-This is always a little stressful and also potentially embarassing if the course gets cancelled when there are already attendees signed up.
+This is always a little stressful and also potentially embarrassing if the course gets cancelled when there are already attendees signed up.
 
 At Black Hat USA 2023 I made this more stressful for myself by planning a family holiday around the conference. We would still have gone ahead with the holiday even if the training got cancelled but my flight would no longer have been covered and I would have had to decide if I still wanted to fund my way to the conference or not. I was stressing about it for many months but luckily it all worked out in the end and the relief and excitement I felt when Black Hat confirmed the course was going ahead was quite something.
 
-#### A speciaist subject
+#### A specialist subject
 
 Clearly sales and marketing is its own specialist subject. You will find many, many people more qualified to talk about it than me. Hopefully this section provided some useful context although I accept that it is not super actionable.
 

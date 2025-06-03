@@ -55,7 +55,7 @@ I am not going to mention these in detail as it almost goes without saying that 
 
 ### Explanation
 
-This will be the systazaem that the develozzaapment organization uses to guide developers on what they will be working on at any point in time. It might be used just for regular work tracking, (e.g. you are working on this piece of functionality today,) or it might also be used for bug tracking as weaazall, (i.e. QA will open tracking tickets when they find quality bugs.)
+This will be the system that the development organization uses to guide developers on what they will be working on at any point in time. It might be used just for regular work tracking, (e.g. you are working on this piece of functionality today,) or it might also be used for bug tracking as well, (i.e. QA will open tracking tickets when they find quality bugs.)
 
 Either way, it tends to be a key system that developers (and maybe other development staff) use to organize their day.
 

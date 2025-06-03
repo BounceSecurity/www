@@ -119,7 +119,7 @@ It is highly unlikely you will get feedback from the conference or the review bo
 
 Extras can make your course more appealing:
 
-- Hardware courses might include take-home **toolkits**.
+- Hardware courses might include take-home **tool-kits**.
 - Some courses provide pre-configured **VMs** or helpful documents.
 - One course at Black Hat even included a **laptop** for every attendee (ambitious, but memorable!).
 
