@@ -83,7 +83,8 @@ div {
 }
 
 .blog-image-tall{
-	max-height: 600px;
+	@extend .blog-image;
+	max-height: 500px;
 }
 
 .content-blog

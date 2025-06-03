@@ -17,7 +17,7 @@ You've figured out your finances, carved out your niche, and built exercises tha
 
 In this post, we'll dive into how to write a compelling Call for Training (CfT) submission that catches the eye of both review boards and potential attendees.
 
-![Cybersecurity](/assets/img/bhseries/1.png)
+![Cybersecurity](/assets/img/bhseries/1.png){: .blog-image-tall}
 
 #### Plan Ahead: Timing is Everything
 
@@ -25,7 +25,7 @@ CfTs (Calls for Training) often open earlier than the main Call for Papers (CfP)
 
 Failing to plan here could mean missing your window altogether. This means you are going to want to put CfT dates in your calendar and prepare your materials well in advance.
 
-![Cybersecurity](/assets/img/bhseries/2.jpeg)
+![Cybersecurity](/assets/img/bhseries/2.jpeg){: .blog-image-tall}
 
 #### Know Your Audiences
 
@@ -56,7 +56,7 @@ Potential attendees are going to want to know:
 
 Arguably the third audience is your potential attendee's manager who they are going to have to justify the course to but I think the considerations are similar to those of the potential attendee. To be absolutely clear, you are writing a sales pitch and you need to be thinking and writing accordingly.
 
-![Cybersecurity](/assets/img/bhseries/3.jpeg)
+![Cybersecurity](/assets/img/bhseries/3.jpeg){: .blog-image-tall}
 
 ##### Writing for Both: Key Tips
 
@@ -68,7 +68,7 @@ Here's my approach to balancing both needs:
 - Make it **sound like fun** to take part in the course!
 - Highlight clear, **actionable takeaways**.
 
-![Cybersecurity](/assets/img/bhseries/4.jpeg)
+![Cybersecurity](/assets/img/bhseries/4.jpeg){: .blog-image-tall}
 
 #### Align with Conference Guidance
 
@@ -76,7 +76,7 @@ Each conference will have its own specific perspective and content that it is lo
 
 Read the CfT guidelines carefully and align your submission accordingly. If the guidance includes sample abstracts or criteria, read through them and ask yourself how well your submission compares to them.
 
-![Cybersecurity](/assets/img/bhseries/5.jpeg)
+![Cybersecurity](/assets/img/bhseries/5.jpeg){: .blog-image-tall}
 
 #### For First-Time Trainers
 
@@ -96,7 +96,7 @@ This shows you've done more than brainstormed ideas, you've **planned** and **st
 - Timings for hands-on to show the lecture-to-exercise ratio
 - How learning outcomes map to course segments
 
-![Cybersecurity](/assets/img/bhseries/6.jpeg)
+![Cybersecurity](/assets/img/bhseries/6.jpeg){: .blog-image-tall}
 
 As a some-time CfT reviewer, I can tell you: if your submission lacks this level of clarity, it's unlikely to make the cut.
 
@@ -113,7 +113,7 @@ At Bounce Security, our internal review process made a huge difference — right
 
 It is highly unlikely you will get feedback from the conference or the review board during the CfT process, regardless of how early you submit. It is possible you might be able to get some feedback if the submission gets rejected but that is already a little too late...
 
-![Cybersecurity](/assets/img/bhseries/7.jpeg)
+![Cybersecurity](/assets/img/bhseries/7.jpeg){: .blog-image-tall}
 
 #### Add Goodies (If You Can)
 
@@ -137,7 +137,7 @@ I have been rejected multiple times, even after I have been accepted at previous
 
 Always ask for feedback (if available) and **iterate** on your submission.
 
-![Cybersecurity](/assets/img/bhseries/8.jpeg)
+![Cybersecurity](/assets/img/bhseries/8.jpeg){: .blog-image-tall}
 
 #### Coming Up: Selling Your Course
 
