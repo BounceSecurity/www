@@ -1,108 +1,148 @@
 ---
 layout: post
 title: "Writing your Submission"
-subtitle: "Part 6, how to write a submission to impress the reviewers?"
-date:   2025-06-03 15:30:00 +0300
+subtitle: "Part 6, how to write a submission to impress the reviewers (and attendees)?"
+date:   2025-06-03 09:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I provide some ideas on how to write a convincing conference submission for your training course.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/1.png
 series: training_series
 ---
 
 #### Introduction
 
-So, you figured out your financials, what you want your niche to be, and the exercises that will make your course unforgettable. Now you need to actually get accepted by a conference. In this post, I will talk about writing a convincing Call for Training (CfT)submission.
+You've figured out your finances, carved out your niche, and built exercises that pack a punch. Now comes a critical step: getting your course accepted by a conference.
 
-#### Plan ahead
+In this post, we'll dive into how to write a compelling Call for Training (CfT) submission that catches the eye of both review boards and potential attendees.
 
-You will want to keep an eye out for when CfTs open and closed. CfTs for Black Hat and OWASP tend to open and close before the main Call for Papers (CfP). This makes perfect sense as it is important to maximise the amount of time you have to sell tickets for the training course.
+![Cybersecurity](/assets/img/bhseries/1.png){: .blog-image-tall}
 
-The CFT for Black Hat in particular usually opens more than 6 months before the conference and is only open for about a month. As such, you want to make sure you are ready in time.
+#### Plan Ahead: Timing is Everything
 
-This obviously makes advance planning and calendar awareness very important. 
+CfTs (Calls for Training) often open earlier than the main Call for Papers (CfP). For example, Black Hat and OWASP usually open their CfTs more than **six months** before the event, and they might only stay open for a month.
 
-#### Your two audiences
+Failing to plan here could mean missing your window altogether. This means you are going to want to put CfT dates in your calendar and prepare your materials well in advance.
 
-Before you start writing, it is critical to remember that you are writing for two audiences.
+![Cybersecurity](/assets/img/bhseries/2.jpeg){: .blog-image-tall}
 
-##### The conference review board
+#### Know Your Audiences
 
-Firstly you are writing for the conference review board. Luckily you generally have lots of space to provide them with information about the course to try and differentiate it from the many other submissions they are reviewing. They will generally be quite experienced in the industry and may be hard to impress.
+Crafting a strong CfT submission requires you to speak to **two distinct audiences**:
 
-You are going to have to convince them that it is a worthwhile and sophisticated addition to the conference which is different to what is already on offer and topical.
+##### 1. The Conference Review Board
 
-I generally provide some background here on why I think this topic is super important, why I am an ideal person to train about it and how the course has performed at previous venues including testimonials.
+This group is experienced, discerning, and reviewing dozens (if not hundreds) of submissions. You generally have lots of space to provide them with information about the course and you want to try and differentiate it from the many other submissions they are reviewing.
 
-##### Your potential attendees
+The key things they care about will be:
 
-Secondly, you are writing for your potential attendees. They will usually only see a sub-set of the information you provide so you need to ensure that you include the write information to help them make a decision. You may also have character/word limits to comply with here (although I invite you to compare the Black Hat abstract word limit to the abstracts on the training pages.)
+- How your course **stands out** from the rest.
+- Its **technical depth** and relevance.
+- Your **credibility** as a trainer.
+- How interactive your course is.
 
-They obviously have similar but different concerns to the review board. They care less about how the course fits in the overall picture of the conference schedule and more about how this course is going to be interesting or useful to them. You want to be able to clearly articulate the value they are taking away from the course. 
+💡 **Pro Tip**: Include testimonials, past success stories, and why you're uniquely positioned to teach this subject.
+
+##### 2. Your Potential Attendees
+
+Potential attendees will often only see a small portion of your submission — usually the **abstract** or **summary**. You need to ensure that you include the right information to help them make a decision. You may also have character/word limits to comply with here. (However, I invite you to compare the Black Hat abstract word limit to the length of the abstracts on the training pages 🙃)
+
+Potential attendees are going to want to know:
+
+- "Is this course **useful** to me?"
+- "Will it help me solve **real problems**?"
+- "Will I walk away with **tangible skills**?"
 
 Arguably the third audience is your potential attendee's manager who they are going to have to justify the course to but I think the considerations are similar to those of the potential attendee. To be absolutely clear, you are writing a sales pitch and you need to be thinking and writing accordingly.
 
-My general approach to this has been a few key points:
+![Cybersecurity](/assets/img/bhseries/3.jpeg){: .blog-image-tall}
 
-* Keep the text short, punchy and easy to read
-* Try and talk about a relatable pain point - you want your attendee thinking "yes that's me, I have that challenge, I'd like to learn how to solve it".
-* Help the attendee understand what they will be doing during the course.
-* Make it sound fun!
-* Make the take-aways clear.
+##### Writing for Both: Key Tips
 
-#### Conference guidance
+Here's my approach to balancing both needs:
 
-Most conferences will provide guidance on what they are looking for. Make sure you have carefully read that and written your submission accordingly.
+- Keep it short, **punchy**, and **scannable**.
+- Address a **relatable pain point**. You want to make your reader think, "That's me! I need help solving that problem!"
+- Be clear on **what participants will do** during the course.
+- Make it **sound like fun** to take part in the course!
+- Highlight clear, **actionable takeaways**.
+
+![Cybersecurity](/assets/img/bhseries/4.jpeg){: .blog-image-tall}
+
+#### Align with Conference Guidance
 
 Each conference will have its own specific perspective and content that it is looking for. If you are clearly not aligned with that, your submission may be doomed from the start.
 
-This can also be useful as it may provide examples of what they are looking for in a submission or even examples of previous good quality submissions.
+Read the CfT guidelines carefully and align your submission accordingly. If the guidance includes sample abstracts or criteria, read through them and ask yourself how well your submission compares to them.
 
-#### Pre-requisites for new trainers
+![Cybersecurity](/assets/img/bhseries/5.jpeg){: .blog-image-tall}
 
-Be prepared that if you are a new trainer you may need to be able to demonstrate that you are able to train effectively.
+#### For First-Time Trainers
 
+New to delivering public training courses? You'll likely need to prove you can **teach effectively**.
 For example, Black Hat requests new trainers to provide ~60 slides of training material plus other information as well so make sure you have that ready in time for the CfT as well.
 
 Any prior experience or videos or whatever else you can provide at this stage will help if you are not a well known trainer. I have also provided ratings and testimonials I have received when training and speaking at other venues.
 
 #### Mission Essential Task List (METL)
 
-Full credit for this point has to go to Daniel Cuthbert from the Black Hat Training Review board who has made it clear on a number of occasions that this is something he expects to see from submissions. Also to Avi my boss at Bounce Security who has made this standard procedure within Bounce for training course preparation.
+Full credit for this point has to go to [Daniel Cuthbert](https://www.linkedin.com/in/daniel-cuthbert0x/) from the Black Hat Training Review board who has made it clear on a number of occasions that this is something he expects to see from submissions. Also to [AviD](https://www.linkedin.com/in/avidouglen/), my boss at Bounce Security who has made this standard procedure within Bounce for training course preparation.
 
-To paraphrase, the idea of the METL is to basically provide a detailed outline of the topics to be covered during the course and the time to be spent on each topic, down to a pretty detailed level.
+A METL is a detailed course breakdown, how long you'll spend on each topic and what will be covered.
 
-This shows that your course submission is not just a collection of ideas but rather it is already structured and planned with a sensible amount of time planned for each topic. It also gives an opportunity to demonstrate the split of lectures to practical exercises.
+This shows you've done more than brainstormed ideas, you've **planned** and **structured** the course in a logical way. It should include:
+- Topic breakdowns with time estimates
+- Timings for hands-on to show the lecture-to-exercise ratio
+- How learning outcomes map to course segments
 
-As a former CfT reviewer, I can also confirm that if I cannot feel confident that the submitter understands what is involved in delivering a training course of a day or longer, then I am going to have a hard time recommending it for acceptance.  
+![Cybersecurity](/assets/img/bhseries/6.jpeg){: .blog-image-tall}
 
-#### Get pre-submission feedback
+As a some-time CfT reviewer, I can tell you: if your submission lacks this level of clarity, it's unlikely to make the cut.
 
-Try and get feedback from someone else before you submit. If it is someone who has reviewed CFTs in the past and can give practical feedback then that is even better. However, anyone who is familiar with the material can provide highly valuable feedback. If the language you are submitting in isn't your first language then maybe get someone who has it as "mother tongue" to review for you as well. 
+#### Get Feedback Before You Submit
 
-Certainly, my submissions have primarilly been successful due to the extensive internal feedback cycles we had here at Bounce to craft the message. Even down to discussing different course title options for catchiness and effectiveness.
+Even seasoned trainers benefit from a second pair of eyes.
+
+Tips:
+- Ask a **former CfT reviewer** if possible.
+- At the very least, someone familiar with the material.
+- If English isn't your first language, get a **native speaker** to review.
+
+At Bounce Security, our internal review process made a huge difference — right down to workshop titles and tagline polish.
 
 It is highly unlikely you will get feedback from the conference or the review board during the CfT process, regardless of how early you submit. It is possible you might be able to get some feedback if the submission gets rejected but that is already a little too late...
 
-#### Goodies and extras
+![Cybersecurity](/assets/img/bhseries/7.jpeg){: .blog-image-tall}
 
-Maybe also consider at this stage what extras you can bring to the course to sweeten the deal.
+#### Add Goodies (If You Can)
 
-At least one Black Hat course provides participants with a laptop (to take home) rather than have to stress about setting up an environment for them but that is potentially a little extreme!
+Extras can make your course more appealing:
 
-Other courses that are more physical or hardware based have given participants toolkits or electronics kits to take home.
+- Hardware courses might include take-home **toolkits**.
+- Some courses provide pre-configured **VMs** or helpful documents.
+- One course at Black Hat even included a **laptop** for every attendee (ambitious, but memorable!).
 
-For my course, aside from the materials from the exercises and the slides of course, participants also receive some special working documents that we prepared to help them work with the specific tools. I also considered offering some consulting time although that is not something we have tried yet.
+I don't think these bonuses necessarily replace a compelling course proposition but they might sweeten the deal..
 
-#### Playing the waiting game
+I include special working documents in my course. We've also considered offering **follow-up consulting hours** though we haven't gone forward with that for now. I did notice however that this year Sensepost is [offering an extended Q&A session](https://x.com/sensepost_train/status/1924472706931528093) after their courses.
 
-Once you have submitted, it's time to play the waiting game and hope you get accepted.
+#### The Waiting Game
 
-I have been rejected multiple times, even after I have been accepted at previous events from the same organization. E.g. I have never been accepted by Black Hat Asia and was accepted by Black Hat EU a couple of years but then rejected the following year.
+Once you've submitted... now you wait.
 
-As such, even if you didn't get accepted, make sure you ask for feedback and try again next time.
+Don't be discouraged by rejections, they happen to all of us.
 
-#### Next Post: Selling your course
+I have been rejected multiple times, even after I have been accepted at previous events from the same organisation. E.g. I have never been accepted by Black Hat Asia and was accepted by Black Hat EU for a couple of years but then rejected the following year.
 
-If you did get accepted, congratulations! That is already a massive achievement and demonstrates that your course sounds good to the review board. However, the next stage will be to get people to attend. I will talk about this more in the next post.
+Always ask for feedback (if available) and **iterate** on your submission.
+
+![Cybersecurity](/assets/img/bhseries/8.jpeg){: .blog-image-tall}
+
+#### Coming Up: Selling Your Course
+
+If you got accepted, congrats! That's a huge achievement. 🎉 🎉 
+
+But now comes the next big challenge: **getting people to sign up**.
+
+In the next post, I'll talk about marketing your course in an attempt to turn your hard work into a full classroom.
