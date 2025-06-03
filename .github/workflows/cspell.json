@@ -15,5 +15,9 @@
   ],
   "ignoreRegExpList": [
     "[A-Z]{2,}"
+  ],
+  "dictionaries": [
+    "en-gb",
+    "en-us"
   ]
 }

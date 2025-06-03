@@ -28,7 +28,7 @@ jobs:
           node-version: '20'
 
       - name: Install cspell
-        run: npm install -g cspell
+        run: npm install -g cspell@7.2.0
 
       # cspell config is now in .github/workflows/cspell.json
 
