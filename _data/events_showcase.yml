@@ -76,7 +76,7 @@ items:
     title: Introducing the OWASP ASVS 5.0 release
     youtube: v13FwJKRC_w
     embed: https://www.youtube-nocookie.com/embed/v13FwJKRC_w
-    url: 
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7333865869892067333
     by: Josh Grossman
     type: interview
     info:
@@ -101,14 +101,14 @@ items:
     title: "Building, Breaking, Defending: Inside a Global AppSec Movement"
     youtube: 3j3MM7cxkss
     embed: https://www.youtube-nocookie.com/embed/3j3MM7cxkss
-    url: 
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7328879623184801793/
     by: Avi Douglen
     type: interview
   
   - event:  DevSecNext by Jit
     dateval: 2025-01-14
     title: "Get Ready for the OWASP ASVS 5.0"
-    img: assets/img/events/devsecnext.png
+    # img: assets/img/events/devsecnext.png
     url: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
     youtube: 2NIEHvGYcH4
     embed: https://www.youtube-nocookie.com/embed/2NIEHvGYcH4
