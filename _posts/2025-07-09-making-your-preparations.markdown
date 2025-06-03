@@ -53,7 +53,7 @@ I always prepare these in advance and take them with me rather than trying to ge
 
 Take my advice and don't send your printed materials in checked luggage...
 
-Since participants receive a bunch of printed materials, something I did on one occasion was to get Amazon to deliver a bunch of plastic document folders to the training location. This meant that participants had a folder to put their handouts in plus I could give them a bunch of stickers and other bits of pieces such as sticky dividers which they could use to mark important pages in the training workbook.
+Since participants receive a bunch of printed materials, something I did on one occassion was to get Amazon to deliver a bunch of plastic document folders to the training location. This meant that participants had a folder to put their handouts in plus I could give them a bunch of stickers and other bits of pieces such as sticky dividers which they could use to mark important pages in the training workbook.
 
 ![image](/assets/img/bhseries/attendee_pack.jpg){: .blog-image}
 
@@ -61,7 +61,7 @@ Since participants receive a bunch of printed materials, something I did on one 
 
 I always make sure that attendees have soft copies of all materials as well so that they can refer to them afterwards. I will generally hand out PDFs unless I specifically want people to be able to edit the documents for themselves. I generally "drip feed" out the documents for the exercises as each exercise comes up which makes things a little more complicated for me but avoids any reading ahead. It isn't really practical do this for the slides.
 
-One important thing for the slides (whether soft-copy or hard-copy) is that I always want the numbering on the handouts to match the numbering on screen to make it easier for participants to track where we are up to.
+One important thing for the slides (whether softcopy or hardcopy) is that I always want the numbering on the handouts to match the numbering on screen to make it easier for participants to track where we are up to.
 
 ##### Don't overthink it
 
