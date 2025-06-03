@@ -25,7 +25,7 @@ items:
     type: training
     info: 
 
-  - event: Training at BlackHat USA 2025 - Session 2
+  - event: Training at BlackHat USA 2025
     year: 2025
     date: August 4th-5th
     dateval: 2025-08-04
@@ -38,17 +38,47 @@ items:
     type: training
     info:
 
-  - event: Training at BlackHat USA 2025 - Session 1
+  - event: SecAppDev Workshop
     year: 2025
-    date: August 2nd-3rd
-    dateval: 2025-08-02
-    title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2025.png
-    url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-44505
-    by: tbc
-    course_name: bughunting
-    delivery_type: In-person
+    date: June 5th
+    dateval: 2025-06-05
+    title: "No Size Fits All: Customized Application Security Tests"
+    img: assets/img/secappdev logo.png
+    url: https://secappdev.org/2025/sessions/no-size-fits-all-customized-application-security-tests/
+    by: Avi Douglen
     type: training
+    info:
+
+  - event: SecAppDev Lectures
+    year: 2025
+    date: June 4th
+    dateval: 2025-06-04
+    title: Value Driven Security - A Roadmap to Business Alignment
+    img: assets/img/secappdev logo.png
+    url: https://secappdev.org/2025/sessions/value-driven-security-a-roadmap-to-business-alignment/
+    by: Avi Douglen
+    info:
+
+  - event: SecAppDev Lectures
+    year: 2025
+    date: June 3rd
+    dateval: 2025-06-03
+    title: "Get out of your Bubble: Collaborative Threat Modeling"
+    img: assets/img/secappdev logo.png
+    url: https://secappdev.org/2025/sessions/get-out-of-your-bubble-collaborative-threat-modeling/
+    by: Avi Douglen
+    info:
+
+  - event: Video Interview with ITSPmagazine 
+    year: 2025
+    date: 29th May
+    dateval: 2025-05-29
+    title: Introducing the OWASP ASVS 5.0 release
+    youtube: v13FwJKRC_w
+    embed: https://www.youtube-nocookie.com/embed/v13FwJKRC_w
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7333865869892067333
+    by: Josh Grossman
+    type: interview
     info:
 
   - event: Training at OWASP Global AppSec Barcelona 2025
@@ -64,23 +94,24 @@ items:
     type: training
     info: 
   
-  - event: Training at OWASP Global AppSec Barcelona 2025
+  - event: Video Interview with ITSPmagazine 
     year: 2025
-    date: May 27th-28th
-    dateval: 2025-05-27
-    title: Practical Privacy by Design - Going Beyond Security in your SDLC
-    img: assets/img/events/barcelona.png
-    url: https://owasp.glueup.com/event/123983/register/
-    by: Avi Douglen with Dr. Kim Wuyts
-    delivery_type: In-Person
-    type: training
-    info: 
-
+    date: 15h May
+    dateval: 2025-05-15
+    title: "Building, Breaking, Defending: Inside a Global AppSec Movement"
+    youtube: 3j3MM7cxkss
+    embed: https://www.youtube-nocookie.com/embed/3j3MM7cxkss
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7328879623184801793/
+    by: Avi Douglen
+    type: interview
+  
   - event:  DevSecNext by Jit
     dateval: 2025-01-14
     title: "Get Ready for the OWASP ASVS 5.0"
-    img: assets/img/events/devsecnext.png
+    # img: assets/img/events/devsecnext.png
     url: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
+    youtube: 2NIEHvGYcH4
+    embed: https://www.youtube-nocookie.com/embed/2NIEHvGYcH4
     by: Josh Grossman
     info: 
 
