@@ -1,35 +1,3 @@
 {
-  "version": "0.2",
-  "ignoreWords": [
-    "backlink",
-    "backname",
-    "bughunting",
-    "Semgrep",
-    "valuenotvulns",
-    "Hfhvhey",
-    "Zoyc"
-  ],
-  "language": "en-GB,en-US",
-  "ignorePaths": [
-    "bheu23.md"
-  ],
-  "ignoreRegExpList": [
-    "[A-Z]{2,}"
-  ],
-  "dictionaries": [
-    "en-gb",
-    "en-us"
-  ],
-  "dictionaryDefinitions": [
-    {
-      "name": "en-gb",
-      "path": "en-gb",
-      "addWords": []
-    },
-    {
-      "name": "en-us",
-      "path": "en-us",
-      "addWords": []
-    }
-  ]
+  "version": "0.2"
 }
