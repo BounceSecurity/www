@@ -19,5 +19,17 @@
   "dictionaries": [
     "en-gb",
     "en-us"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "en-gb",
+      "path": "en-gb",
+      "addWords": []
+    },
+    {
+      "name": "en-us",
+      "path": "en-us",
+      "addWords": []
+    }
   ]
 }
