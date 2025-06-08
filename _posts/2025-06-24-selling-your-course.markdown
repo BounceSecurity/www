@@ -53,8 +53,6 @@ You can sometimes ask organizers to amplify your own posts — but their support
 
 ![Cybersecurity](/assets/img/bhseries/12.jpeg)
 
-
-
 #### Building Your Social Media Presence
 
 If you have a strong social media presence then you are clearly already good at self-promotion so that will help a lot in this context. You can probably skip this section (although I'd love to hear your tips 😀).
@@ -119,9 +117,10 @@ All this meant I wasn't as consistent or aggressive in promoting as I could have
 For me, the bottom line was that every time I asked course attendees how they found out about the course, they almost exclusively said it was from browsing the conference website and not from social media posts or any other channel.
 
 So lately, I've toned it down. Just a few social posts and that's it.
+
 #### The Stress of GO/NO-GO
 
-As I mentioned in a previous post, there's often GO/NO-GO decision looming.
+As I mentioned in a previous post, there's often a GO/NO-GO decision looming.
 
 - Will enough seats sell to justify running the course?
 - Will it hit both your **and** the conference's break-even point?
@@ -131,25 +130,6 @@ That decision can be stressful. And a little embarrassing if the course gets pul
 In 2023 I made this more difficult for myself as I planned a family vacation around Black Hat USA. If the training had been cancelled, I'd have had to pay all my own expenses to get to the conference or skip the conference but still travel to the US for holiday.
 
 Luckily, it worked out. But I stressed about it for months. The feeling of relief and excitement I felt when Black Hat confirmed my course was running was unreal.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![Cybersecurity](/assets/img/bhseries/15.jpeg)
 
