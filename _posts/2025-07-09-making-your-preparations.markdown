@@ -49,7 +49,7 @@ If you’ve promised participants anything extra—stickers, USB drives, branded
 
 At Black Hat 2023, my attendee numbers jumped by 50% in just two weeks.
 
-So, plan generously. It’s better to have a few extras than run out and disappoint attendees. For expensive items, consider a cutoff: for example, *"Free hardware kit for signups received 3+ weeks in advance."*
+So, plan generously. It’s better to have a few extras than run out and disappoint attendees. For expensive items, consider a cutoff: for example, *"Free hardware kit for sign-ups received 3+ weeks in advance."*
 
 ![image](/assets/img/bhseries/32.jpeg)
 

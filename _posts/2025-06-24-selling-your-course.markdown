@@ -31,7 +31,7 @@ Three big factors influence how easy or hard it will be to sell your course:
 
 For example:
 
-- **OWASP Global AppSec** events often run up to 10 courses in parallel, with around 100-200 total attendees at the traiing and around 800 attendees at the conference.
+- **OWASP Global AppSec** events often run up to 10 courses in parallel, with around 100-200 total attendees at the training and around 800 attendees at the conference.
 - **Black Hat USA**, on the other hand, may feature **~140** courses. I remember seeing a lunch room packed with **1,000+ people** during training days.
 
 Whilst the numbers at Black Hat may sound particularly promising, note that **distribution isn't equal**. Some courses are held in huge rooms with dozens of students, while others are tucked away with small groups.
