@@ -7,8 +7,9 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I talk through the preparations you will want to make before delivering the course.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/32.jpeg
 series: training_series
+---
 
 #### Introduction
 
@@ -60,7 +61,7 @@ I always print and bring these materials myself to ensure quality and timing. Th
 
 ![image](/assets/img/bhseries/workbooks.jpg){: .blog-image}
 
-On one occassion where I wanted to go a little above and beyond, I ordered plastic document folders via Amazon to the venue. Each participant got one to organize their handouts, plus some extras like sticky dividers and branded stickers.
+On one occasion where I wanted to go a little above and beyond, I ordered plastic document folders via Amazon to the venue. Each participant got one to organize their handouts, plus some extras like sticky dividers and branded stickers.
 
 ![image](/assets/img/bhseries/attendee_pack.jpg){: .blog-image}
 

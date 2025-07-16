@@ -7,7 +7,7 @@ categories: blog
 hero_height: is-small
 author: josh
 summary: In this post, I talk through my experience of marketing the course and try and provide some pointers.
-image: /assets/img/bhseries/whoami.png
+image: /assets/img/bhseries/12.jpeg
 series: training_series
 ---
 
