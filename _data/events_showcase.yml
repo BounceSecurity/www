@@ -10,16 +10,6 @@ items:
     by: Josh Grossman
     info:
 
-  - event: DEF CON AppSec Village 2025
-    year: 2025
-    date: 
-    dateval: 2025-06-08
-    title: Privacy Workshop
-    img: assets/img/events/appsecvillage.webp
-    url: 
-    by: Avi Douglen with Dr. Kim Wuyts
-    info:
-  
   - event: DEF CON 2025 - OWASP Community
     year: 2025
     date: 8th Aug - 10:30-11:00 - Room W4/C206, LVCC
