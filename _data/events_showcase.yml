@@ -1,4 +1,25 @@
 items:
+
+  - event: DEF CON 2025 - OWASP Community
+    year: 2025
+    date: 10th Aug
+    dateval: 2025-08-10
+    title: "Vibe Coding: Security Crisis or Opportunity"
+    img: assets/img/events/dc33.png
+    url: https://hackertracker.app/event/?conf=DEFCON33&event=62241
+    by: Josh Grossman - 11:00-12:00 - Room W4/C206, LVCC
+    info:
+
+  - event: DEF CON 2025 - OWASP Community
+    year: 2025
+    date: 8th Aug
+    dateval: 2025-08-08
+    title: "Whitehats Secret Weapon: OWASP"
+    img: assets/img/events/dc33.png
+    url: https://hackertracker.app/event/?conf=DEFCON33&event=62242
+    by: Josh Grossman - 10:30-11:00 - Room W4/C206, LVCC
+    info:
+
   - event: Training at BlackHat USA 2025
     year: 2025
     date: August 4th-5th
@@ -24,19 +45,6 @@ items:
     delivery_type: In-person
     type: training
     info: 
-
-  - event: Training at BlackHat USA 2025
-    year: 2025
-    date: August 4th-5th
-    dateval: 2025-08-04
-    title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2025.png
-    url: https://www.blackhat.com/us-25/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-445051736891000
-    by: tbc
-    course_name: bughunting
-    delivery_type: In-person
-    type: training
-    info:
 
   - event: SecAppDev Workshop
     year: 2025
