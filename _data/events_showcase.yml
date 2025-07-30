@@ -5,7 +5,7 @@ items:
     date: 10th Aug
     dateval: 2025-08-10
     title: "Vibe Coding: Security Crisis or Opportunity"
-    img: assets/img/events/vibecoding.png
+    img: assets/img/events/dc33.png
     url: https://hackertracker.app/event/?conf=DEFCON33&event=62241
     by: Josh Grossman - 11:00-12:00 - Room W4/C206, LVCC
     info:
@@ -15,7 +15,7 @@ items:
     date: 8th Aug
     dateval: 2025-08-08
     title: "Whitehats Secret Weapon: OWASP"
-    img: 
+    img: assets/img/events/dc33.png
     url: https://hackertracker.app/event/?conf=DEFCON33&event=62242
     by: Josh Grossman - 10:30-11:00 - Room W4/C206, LVCC
     info:
