@@ -1,5 +1,16 @@
 items:
 
+  - event: Postcast with ICodeWith.ai
+    year: 2025
+    date: 29th Oct
+    dateval: 2025-10-29
+    title: "Pre-Launch Security Essentials for Vibe Coded Apps"
+    youtube: XMgk89mj8jg
+    embed: https://www.youtube-nocookie.com/embed/XMgk89mj8jg
+    url: https://www.icodewith.ai/podcast/pre-launch-security-essentials-for-vibe-coded-apps/
+    by: Josh Grossman
+    type: interview
+
   - event: DEF CON 2025 - OWASP Community
     year: 2025
     date: 10th Aug
