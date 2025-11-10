@@ -1,5 +1,16 @@
 items:
 
+  - event: Interview with CyberRisk TV
+    year: 2025
+    date: 7th Nov
+    dateval: 2025-11-07 
+    title: "OWASP Global AppSec DC 2025 Wrap-Up: Community, AI Security, and the Future of AppSec"
+    youtube: IG9axJkP5WQ
+    embed: https://www.youtube-nocookie.com/embed/IG9axJkP5WQ
+    url: https://www.scworld.com/podcast-segment/14610-owasp-2025-wrap-up-community-ai-security-and-the-future-of-appsec-avi-douglen-owsp25-2
+    by: Avi Douglen
+    type: interview
+
   - event: Podcast with ICodeWith.ai
     year: 2025
     date: 29th Oct
