@@ -40,3 +40,10 @@ items:
       I want to learn how to automate my research while keeping it customized
     call_to_action_name: Read More
     call_to_action_link: /training/bughunting/
+
+  - title: "Achieving Scalable Code Security Scanning through AI Acceleration"
+    icon: fa-robot
+    description: >
+      I want an end to end master class on securing my codebases
+    call_to_action_name: Read More
+    call_to_action_link: /training/aisast/
