@@ -1,0 +1,9 @@
+- label: Course Overview
+  items:
+    - name: High level course explanation
+      link: /training/aisast.html
+    - name: Course Content
+      link: /training/aisast/topics.html
+    - name: Where you can attend the course
+      link: /training/aisast/attend.html
+    
