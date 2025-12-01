@@ -1,5 +1,18 @@
 items:
 
+  - event: Training at OWASP London Training 2026
+    year: 2026
+    date: 23rd-24th Feb
+    dateval: 2026-02-23
+    title: Building a High-Value AppSec Scanning Programme
+    img: assets/img/owasp.png
+    url: https://owasp.glueup.com/event/162538/register/
+    by: Josh Grossman
+    course_name: valuenotvulns
+    delivery_type: In-Person
+    type: training
+    info: 
+
   - event: Podcast with ICodeWith.ai
     year: 2025
     date: 29th Oct
