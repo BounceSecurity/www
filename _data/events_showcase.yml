@@ -2,8 +2,8 @@ items:
 
   - event: Training at OWASP London Training 2026
     year: 2026
-    date: 23rd-24th Feb
-    dateval: 2026-02-23
+    date: 25th-26th Feb
+    dateval: 2026-02-25
     title: Building a High-Value AppSec Scanning Programme
     img: assets/img/owasp.png
     url: https://owasp.glueup.com/event/162538/register/
