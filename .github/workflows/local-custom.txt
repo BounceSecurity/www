@@ -51,3 +51,5 @@ threatmodeling
 skillset
 skillsets
 Hackeriot
+ISACA
+Manicode
