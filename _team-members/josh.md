@@ -15,8 +15,8 @@ contacts:
       url: https://twitter.com/joshcgrossman
 ---
 
-Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA.
+Josh Grossman has worked as a consultant in IT and Application Security and Risk for 15 years now, as well as a Software Developer. This has given him an in-depth understanding of how to manage the balance between business needs, developer needs and security needs which goes into a successful software security programme.
 
-He previously spent time acting as a consultant and team leader for various security consultancies including AppSec Labs, Comsec Global and KPMG Somekh Chaikin where his speciality has been helping organisations improve and get better value from their Secure Development processes and providing specialist Application Security advice. He also has experience with application penetration testing, cloud security and evaluation and implementation of software security tools. 
+Josh is currently CTO for Bounce Security where he helps clients improve and get better value from their application security processes and provides specialist application security advice. His consultancy work has led him to work, speak and deliver training both locally and worldwide including privately for ISACA and Manicode and publicly for OWASP's Global AppSec conferences, NDC Security and Black Hat.
 
-In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
+In his spare time, he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board and the OWASP Events Committee. In 2025, OWASP recognised his contributions with a Distinguished Lifetime Membership award.
