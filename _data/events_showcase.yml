@@ -1,908 +1,909 @@
-items:
+items		:
 
-  - event: Training at OWASP London Training 2026
-    year: 2026
-    date: 25th-26th Feb
-    dateval: 2026-02-25
-    title: Building a High-Value AppSec Scanning Programme
-    img: assets/img/events/londontraining.jpeg
-    url: https://owasp.glueup.com/event/162538/register/
-    by: Josh Grossman
-    course_name: valuenotvulns
-    delivery_type: In-Person
-    type: training
-    info: 
+  - event		: Training at OWASP London Training 2026
+    year		: 2026
+    date		: 25th-26th Feb
+    dateval	: 2026-02-25
+    title		: Building a High-Value AppSec Scanning Programme
+    img			: assets/img/events/londontraining.jpeg
+    url			: https://owasp.glueup.com/event/162538/register/
+    by			: Josh Grossman
+    course	: valuenotvulns
+    delivery: In-Person
+    type		: training
+    info		: 
 
-  - event: Podcast with ICodeWith.ai
-    year: 2025
-    date: 29th Oct
-    dateval: 2025-10-29
-    title: "Pre-Launch Security Essentials for Vibe Coded Apps"
-    youtube: XMgk89mj8jg
-    embed: https://www.youtube-nocookie.com/embed/XMgk89mj8jg
-    url: https://www.icodewith.ai/podcast/pre-launch-security-essentials-for-vibe-coded-apps/
-    by: Josh Grossman
-    type: interview
+  - event		: Podcast with ICodeWith.ai
+    year		: 2025
+    date		: 29th Oct
+    dateval	: 2025-10-29
+    title		: "Pre-Launch Security Essentials for Vibe Coded Apps"
+    youtube	: XMgk89mj8jg
+    embed		: https://www.youtube-nocookie.com/embed/XMgk89mj8jg
+    url			: https://www.icodewith.ai/podcast/pre-launch-security-essentials-for-vibe-coded-apps/
+    by			: Josh Grossman
+    type		: interview
 
-  - event: DEF CON 2025 - OWASP Community
-    year: 2025
-    date: 10th Aug
-    dateval: 2025-08-10
-    title: "Vibe Coding: Security Crisis or Opportunity"
-    img: assets/img/events/dc33.png
-    url: https://hackertracker.app/event/?conf=DEFCON33&event=62241
-    by: Josh Grossman - 11:00-12:00 - Room W4/C206, LVCC
-    info:
+  - event		: DEF CON 2025 - OWASP Community
+    year		: 2025
+    date		: 10th Aug
+    dateval	: 2025-08-10
+    title		: "Vibe Coding		: Security Crisis or Opportunity"
+    img			: assets/img/events/dc33.png
+    url			: https://hackertracker.app/event/?conf=DEFCON33&event=62241
+    by			: Josh Grossman - 11		:00-12		:00 - Room W4/C206, LVCC
+    info		:
 
-  - event: DEF CON 2025 - OWASP Community
-    year: 2025
-    date: 8th Aug
-    dateval: 2025-08-08
-    title: "Whitehats Secret Weapon: OWASP"
-    img: assets/img/events/dc33.png
-    url: https://hackertracker.app/event/?conf=DEFCON33&event=62242
-    by: Josh Grossman - 10:30-11:00 - Room W4/C206, LVCC
-    info:
+  - event		: DEF CON 2025 - OWASP Community
+    year		: 2025
+    date		: 8th Aug
+    dateval	: 2025-08-08
+    title		: "Whitehats Secret Weapon		: OWASP"
+    img			: assets/img/events/dc33.png
+    url			: https://hackertracker.app/event/?conf=DEFCON33&event=62242
+    by			: Josh Grossman - 10		:30-11		:00 - Room W4/C206, LVCC
+    info		:
 
-  - event: Training at BlackHat USA 2025
-    year: 2025
-    date: August 4th-5th
-    dateval: 2025-08-04
-    title: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value
-    img: assets/img/events/blackhatlogo2025.png
-    url: https://www.blackhat.com/us-25/training/schedule/index.html#accelerated-appsec---hacking-your-product-security-programme-for-velocity-and-value-43988
-    by: Josh Grossman
-    course_name: accelerated
-    delivery_type: In-person
-    type: training
-    info: 
+  - event		: Training at BlackHat USA 2025
+    year		: 2025
+    date		: August 4th-5th
+    dateval	: 2025-08-04
+    title		: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value
+    img			: assets/img/events/blackhatlogo2025.png
+    url			: https://www.blackhat.com/us-25/training/schedule/index.html#accelerated-appsec---hacking-your-product-security-programme-for-velocity-and-value-43988
+    by			: Josh Grossman
+    course	: accelerated
+    delivery: In-person
+    type		: training
+    info		: 
 
-  - event: Training at BlackHat USA 2025
-    year: 2025
-    date: August 4th-5th
-    dateval: 2025-08-04
-    title: "Breaking Bad Privacy: Practical Skills for the Security Team"
-    img: assets/img/events/blackhatlogo2025.png
-    url: https://www.blackhat.com/us-25/training/schedule/index.html#breaking-bad-privacy-practical-skills-for-the-security-team-444441736876492
-    by: Avi Douglen with Dr. Kim Wuyts
-    #course_name: privacy
-    delivery_type: In-person
-    type: training
-    info: 
+  - event		: Training at BlackHat USA 2025
+    year		: 2025
+    date		: August 4th-5th
+    dateval	: 2025-08-04
+    title		: "Breaking Bad Privacy		: Practical Skills for the Security Team"
+    img			: assets/img/events/blackhatlogo2025.png
+    url			: https://www.blackhat.com/us-25/training/schedule/index.html#breaking-bad-privacy-practical-skills-for-the-security-team-444441736876492
+    by			: Avi Douglen with Dr. Kim Wuyts
+    #course	: privacy
+    delivery: In-person
+    type		: training
+    info		: 
 
-  - event: SecAppDev Workshop
-    year: 2025
-    date: June 5th
-    dateval: 2025-06-05
-    title: "No Size Fits All: Customized Application Security Tests"
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2025/sessions/no-size-fits-all-customized-application-security-tests/
-    by: Avi Douglen
-    type: training
-    info:
+  - event		: SecAppDev Workshop
+    year		: 2025
+    date		: June 5th
+    dateval	: 2025-06-05
+    title		: "No Size Fits All		: Customized Application Security Tests"
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2025/sessions/no-size-fits-all-customized-application-security-tests/
+    by			: Avi Douglen
+    type		: training
+    info		:
 
-  - event: SecAppDev Lectures
-    year: 2025
-    date: June 4th
-    dateval: 2025-06-04
-    title: Value Driven Security - A Roadmap to Business Alignment
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2025/sessions/value-driven-security-a-roadmap-to-business-alignment/
-    by: Avi Douglen
-    info:
+  - event		: SecAppDev Lectures
+    year		: 2025
+    date		: June 4th
+    dateval	: 2025-06-04
+    title		: Value Driven Security - A Roadmap to Business Alignment
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2025/sessions/value-driven-security-a-roadmap-to-business-alignment/
+    by			: Avi Douglen
+    info		:
 
-  - event: SecAppDev Lectures
-    year: 2025
-    date: June 3rd
-    dateval: 2025-06-03
-    title: "Get out of your Bubble: Collaborative Threat Modeling"
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2025/sessions/get-out-of-your-bubble-collaborative-threat-modeling/
-    by: Avi Douglen
-    info:
+  - event		: SecAppDev Lectures
+    year		: 2025
+    date		: June 3rd
+    dateval	: 2025-06-03
+    title		: "Get out of your Bubble		: Collaborative Threat Modeling"
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2025/sessions/get-out-of-your-bubble-collaborative-threat-modeling/
+    by			: Avi Douglen
+    info		:
 
-  - event: Video Interview with ITSPmagazine 
-    year: 2025
-    date: 29th May
-    dateval: 2025-05-29
-    title: Introducing the OWASP ASVS 5.0 release
-    youtube: v13FwJKRC_w
-    embed: https://www.youtube-nocookie.com/embed/v13FwJKRC_w
-    url: https://www.linkedin.com/feed/update/urn:li:activity:7333865869892067333
-    by: Josh Grossman
-    type: interview
-    info:
+  - event		: Video Interview with ITSPmagazine 
+    year		: 2025
+    date		: 29th May
+    dateval	: 2025-05-29
+    title		: Introducing the OWASP ASVS 5.0 release
+    youtube	: v13FwJKRC_w
+    embed		: https://www.youtube-nocookie.com/embed/v13FwJKRC_w
+    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7333865869892067333
+    by			: Josh Grossman
+    type		: interview
+    info		:
 
-  - event: Training at OWASP Global AppSec Barcelona 2025
-    year: 2025
-    date: May 27th-28th
-    dateval: 2025-05-27
-    title: Building a High-Value AppSec Scanning Programme
-    img: assets/img/events/barcelona.png
-    url: https://owasp.glueup.com/event/123983/register/
-    by: Josh Grossman
-    course_name: valuenotvulns
-    delivery_type: In-Person
-    type: training
-    info: 
+  - event		: Training at OWASP Global AppSec Barcelona 2025
+    year		: 2025
+    date		: May 27th-28th
+    dateval	: 2025-05-27
+    title		: Building a High-Value AppSec Scanning Programme
+    img			: assets/img/events/barcelona.png
+    url			: https://owasp.glueup.com/event/123983/register/
+    by			: Josh Grossman
+    course	: valuenotvulns
+    delivery: In-Person
+    type		: training
+    info		: 
   
-  - event: Video Interview with ITSPmagazine 
-    year: 2025
-    date: 15h May
-    dateval: 2025-05-15
-    title: "Building, Breaking, Defending: Inside a Global AppSec Movement"
-    youtube: 3j3MM7cxkss
-    embed: https://www.youtube-nocookie.com/embed/3j3MM7cxkss
-    url: https://www.linkedin.com/feed/update/urn:li:activity:7328879623184801793/
-    by: Avi Douglen
-    type: interview
+  - event		: Video Interview with ITSPmagazine 
+    year		: 2025
+    date		: 15th May
+    dateval	: 2025-05-15
+    title		: "Building, Breaking, Defending		: Inside a Global AppSec Movement"
+    youtube	: 3j3MM7cxkss
+    embed		: https://www.youtube-nocookie.com/embed/3j3MM7cxkss
+    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7328879623184801793/
+    by			: Avi Douglen
+    type		: interview
   
-  - event:  DevSecNext by Jit
-    dateval: 2025-01-14
-    title: "Get Ready for the OWASP ASVS 5.0"
-    # img: assets/img/events/devsecnext.png
-    url: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
-    youtube: 2NIEHvGYcH4
-    embed: https://www.youtube-nocookie.com/embed/2NIEHvGYcH4
-    by: Josh Grossman
-    info: 
+  - event		:  DevSecNext by Jit
+    dateval	: 2025-01-14
+    title		: "Get Ready for the OWASP ASVS 5.0"
+    # img			: assets/img/events/devsecnext.png
+    url			: https://www.jit.io/devsecnext#w-node-c32eb290-d319-9190-0507-079e2c64d4c8-8534a2ca
+    youtube	: 2NIEHvGYcH4
+    embed		: https://www.youtube-nocookie.com/embed/2NIEHvGYcH4
+    by			: Josh Grossman
+    info		: 
 
-  - event: OWASP Projects Spotlight Series
-    year: 2024
-    date: 8th April
-    dateval: 2024-04-08
-    title: Threat Modeling Manifesto
-    youtube: vzcCw_1hmwo
-    embed: https://www.youtube-nocookie.com/embed/vzcCw_1hmwo
-    by: Avi Douglen
-    type: podcast
-    info:
+  - event		: OWASP Projects Spotlight Series
+    year		: 2024
+    date		: 8th April
+    dateval	: 2024-04-08
+    title		: Threat Modeling Manifesto
+    youtube	: vzcCw_1hmwo
+    embed		: https://www.youtube-nocookie.com/embed/vzcCw_1hmwo
+    by			: Avi Douglen
+    type		: podcast
+    info		:
 
-  - event: BrakeSec Education Podcast
-    year: 2024
-    date: 15th April
-    dateval: 2024-04-15
-    title: Building AppSec programs and bridging security and developer gaps
-    youtube: G3PxZFmDyj4
-    embed: https://www.youtube-nocookie.com/embed/G3PxZFmDyj4
-    url: https://brakeingsecurity.com/josh-grossman-building-appsec-programs-bridging-security-and-developer-gaps
-    by: Josh Grossman
-    type: podcast
-    info:
+  - event		: BrakeSec Education Podcast
+    year		: 2024
+    date		: 15th April
+    dateval	: 2024-04-15
+    title		: Building AppSec programs and bridging security and developer gaps
+    youtube	: G3PxZFmDyj4
+    embed		: https://www.youtube-nocookie.com/embed/G3PxZFmDyj4
+    url			: https://brakeingsecurity.com/josh-grossman-building-appsec-programs-bridging-security-and-developer-gaps
+    by			: Josh Grossman
+    type		: podcast
+    info		:
 
-  - event: RSA Conference 2024
-    year: 2024
-    date: May 8th
-    dateval: 2024-05-08
-    title: "Not another Top 10: Getting Business Value from SBoMs"
-    img: assets/img/events/RSAC2024.png
-    url: https://www.rsaconference.com/usa/agenda/session/SBOM%20The%20good%20the%20bad%20and%20the%20ugly  
-    by: Avi Douglen 
-    delivery_type: In-Person
-    info: OWASP Seminar 
+  - event		: RSA Conference 2024
+    year		: 2024
+    date		: May 8th
+    dateval	: 2024-05-08
+    title		: "Not another Top 10		: Getting Business Value from SBoMs"
+    img			: assets/img/events/RSAC2024.png
+    url			: https://www.rsaconference.com/usa/agenda/session/SBOM%20The%20good%20the%20bad%20and%20the%20ugly  
+    by			: Avi Douglen 
+    delivery: In-Person
+    info		: OWASP Seminar 
     
-  - event: Training at OWASP Global AppSec Lisbon 2024
-    year: 2024
-    date: June 25th-26th
-    dateval: 2024-06-25
-    title: Building a High-Value AppSec Scanning Programme
-    img: assets/img/events/lisbon.jpg
-    url: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237
-    by: Josh Grossman
-    course_name: valuenotvulns
-    delivery_type: In-Person
-    type: training
-    info: 
-  - event: Training at OWASP Global AppSec Lisbon 2024
-    year: 2024
-    date: June 25th-26th
-    dateval: 2024-06-25
-    title: Practical Privacy by Design - Building secure applications that respect privacy
-    img: assets/img/events/lisbon.jpg
-    url: https://lisbon.globalappsec.org/trainings/#sku_PPBD 
-    by: Avi Douglen with Dr. Kim Wuyts
-    delivery_type: In-Person
-    type: training
-    info: 
+  - event		: Training at OWASP Global AppSec Lisbon 2024
+    year		: 2024
+    date		: June 25th-26th
+    dateval	: 2024-06-25
+    title		: Building a High-Value AppSec Scanning Programme
+    img			: assets/img/events/lisbon.jpg
+    url			: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237
+    by			: Josh Grossman
+    course	: valuenotvulns
+    delivery: In-Person
+    type		: training
+    info		: 
 
-  - event: "Cyber Security Virtual Meetups"
-    dateval: 2024-03-06
-    title: "Talk title: The Real AppSec Issues"
-    youtube: kF_g-1YgfSg
-    embed: https://www.youtube-nocookie.com/embed/kF_g-1YgfSg
-    url: https://www.meetup.com/cyber-security-virtual-meetups/events/299404911/
-    by: Josh Grossman
-    info: 
+  - event		: Training at OWASP Global AppSec Lisbon 2024
+    year		: 2024
+    date		: June 25th-26th
+    dateval	: 2024-06-25
+    title		: Practical Privacy by Design - Building secure applications that respect privacy
+    img			: assets/img/events/lisbon.jpg
+    url			: https://lisbon.globalappsec.org/trainings/#sku_PPBD 
+    by			: Avi Douglen with Dr. Kim Wuyts
+    delivery: In-Person
+    type		: training
+    info		: 
 
-  - event: Training at BlackHat USA 2024
-    year: 2024
-    date: August 5th-6th
-    dateval: 2024-08-05
-    title: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value (Virtual)
-    img: assets/img/events/blackhatlogo2024.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accelerated-appsec--hacking-your-product-security-programme-for-velocity-and-value-virtual-37218
-    by: Josh Grossman
-    course_name: accelerated
-    delivery_type: Virtual
-    type: training
-    info: 
+  - event		: "Cyber Security Virtual Meetups"
+    dateval	: 2024-03-06
+    title		: "Talk title		: The Real AppSec Issues"
+    youtube	: kF_g-1YgfSg
+    embed		: https://www.youtube-nocookie.com/embed/kF_g-1YgfSg
+    url			: https://www.meetup.com/cyber-security-virtual-meetups/events/299404911/
+    by			: Josh Grossman
+    info		: 
 
-  - event: Training at BlackHat USA 2024 - Session 2
-    year: 2024
-    date: August 5th-6th
-    dateval: 2024-08-05
-    title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2024.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-372101705524544
-    by: Michal Kamensky
-    course_name: bughunting
-    delivery_type: In-person
-    type: training
-    info:
+  - event		: Training at BlackHat USA 2024
+    year		: 2024
+    date		: August 5th-6th
+    dateval	: 2024-08-05
+    title		: Accelerated AppSec – Hacking your Product Security Programme for Velocity and Value (Virtual)
+    img			: assets/img/events/blackhatlogo2024.png
+    url			: https://www.blackhat.com/us-24/training/schedule/index.html#accelerated-appsec--hacking-your-product-security-programme-for-velocity-and-value-virtual-37218
+    by			: Josh Grossman
+    course	: accelerated
+    delivery: Virtual
+    type		: training
+    info		: 
 
-  - event: Training at BlackHat USA 2024 - Session 1
-    year: 2024
-    date: August 3rd-4th
-    dateval: 2024-08-03
-    title: "Accurate and Scalable: Web Application Bug Hunting"
-    img: assets/img/events/blackhatlogo2024.png
-    url: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-37210
-    by: Michal Kamensky
-    course_name: bughunting
-    delivery_type: In-person
-    type: training
-    info:
+  - event		: Training at BlackHat USA 2024 - Session 2
+    year		: 2024
+    date		: August 5th-6th
+    dateval	: 2024-08-05
+    title		: "Accurate and Scalable		: Web Application Bug Hunting"
+    img			: assets/img/events/blackhatlogo2024.png
+    url			: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-372101705524544
+    by			: Michal Kamensky
+    course	: bughunting
+    delivery: In-person
+    type		: training
+    info		:
 
-  - event:  (ISC)2 Meetup February 2023
-    dateval: 2023-02-02
-    title: "Talk title: The Real AppSec Issues"
-    img: assets/img/isc2meetup.jpg
-    url: https://www.eventbrite.com/e/isc2-application-security-event-with-checkmarx-and-bounce-security-tickets-473968050197
-    by: Josh Grossman
-    info:
+  - event		: Training at BlackHat USA 2024 - Session 1
+    year		: 2024
+    date		: August 3rd-4th
+    dateval	: 2024-08-03
+    title		: "Accurate and Scalable		: Web Application Bug Hunting"
+    img			: assets/img/events/blackhatlogo2024.png
+    url			: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-37210
+    by			: Michal Kamensky
+    course	: bughunting
+    delivery: In-person
+    type		: training
+    info		:
+
+  - event		:  (ISC)2 Meetup February 2023
+    dateval	: 2023-02-02
+    title		: "Talk title		: The Real AppSec Issues"
+    img			: assets/img/isc2meetup.jpg
+    url			: https://www.eventbrite.com/e/isc2-application-security-event-with-checkmarx-and-bounce-security-tickets-473968050197
+    by			: Josh Grossman
+    info		:
     
-  - event:  NDC Security 2024 (Conference)
-    dateval: 2024-01-11
-    title: Discover your inner security engineer with this one weird trick (hackers hate it!)
-    youtube: VwBGnn9ckXg
-    embed: https://www.youtube-nocookie.com/embed/VwBGnn9ckXg
-    url: https://ndc-security.com/agenda/lightning-talks-0loe/0id6hrfotuj
-    by: Josh Grossman
-    info:
+  - event		:  NDC Security 2024 (Conference)
+    dateval	: 2024-01-11
+    title		: Discover your inner security engineer with this one weird trick (hackers hate it!)
+    youtube	: VwBGnn9ckXg
+    embed		: https://www.youtube-nocookie.com/embed/VwBGnn9ckXg
+    url			: https://ndc-security.com/agenda/lightning-talks-0loe/0id6hrfotuj
+    by			: Josh Grossman
+    info		:
     
-  - event:  NDC Security 2024 (Conference)
-    dateval: 2024-01-11
-    title: "No Size Fits All: Empowering Engineers with Custom Application Security tests"
-    youtube: ZdqFDiaaeNc
-    embed: https://www.youtube-nocookie.com/embed/ZdqFDiaaeNc
-    url: https://ndc-security.com/agenda/no-size-fits-all-empowering-engineers-with-custom-application-security-tests-0mgr/09szzp7feis
-    by: Michal Kamensky
-    info:
+  - event		:  NDC Security 2024 (Conference)
+    dateval	: 2024-01-11
+    title		: "No Size Fits All		: Empowering Engineers with Custom Application Security tests"
+    youtube	: ZdqFDiaaeNc
+    embed		: https://www.youtube-nocookie.com/embed/ZdqFDiaaeNc
+    url			: https://ndc-security.com/agenda/no-size-fits-all-empowering-engineers-with-custom-application-security-tests-0mgr/09szzp7feis
+    by			: Michal Kamensky
+    info		:
 
-  - event:  NDC Security 2024 (Conference)
-    dateval: 2024-01-11
-    title: Tune your Toolbox for Velocity and Value
-    youtube: RWoOGC68Bg0
-    embed: https://www.youtube-nocookie.com/embed/RWoOGC68Bg0
-    url: https://ndc-security.com/agenda/tune-your-toolbox-for-velocity-and-value-0703/0ndwga6o99b
-    by: Josh Grossman
-    info:
+  - event		:  NDC Security 2024 (Conference)
+    dateval	: 2024-01-11
+    title		: Tune your Toolbox for Velocity and Value
+    youtube	: RWoOGC68Bg0
+    embed		: https://www.youtube-nocookie.com/embed/RWoOGC68Bg0
+    url			: https://ndc-security.com/agenda/tune-your-toolbox-for-velocity-and-value-0703/0ndwga6o99b
+    by			: Josh Grossman
+    info		:
 
-  - event:  NDC Security 2024 (Workshops)
-    year: 2024
-    date: January 8-9th
-    dateval: 2024-01-08
-    title: Building a High-Value AppSec Scanning Programme
-    img: assets/img/ndcsecurity2024.png
-    url: https://ndc-security.com/workshops/building-a-high-value-appsec-scanning-programme/a4506c89b1f9
-    by: Josh Grossman
-    course_name: valuenotvulns
-    delivery_type: In-person
-    type: training
-    info:
+  - event		:  NDC Security 2024 (Workshops)
+    year		: 2024
+    date		: January 8-9th
+    dateval	: 2024-01-08
+    title		: Building a High-Value AppSec Scanning Programme
+    img			: assets/img/ndcsecurity2024.png
+    url			: https://ndc-security.com/workshops/building-a-high-value-appsec-scanning-programme/a4506c89b1f9
+    by			: Josh Grossman
+    course	: valuenotvulns
+    delivery: In-person
+    type		: training
+    info		:
 
-  - event:  DeveloperWeek Enterprise 2023
-    dateval: 2023-11-16
-    title: Discover Your Inner Security Engineer with This One Weird Trick (Hackers Hate It!)
-    img: assets/img/DWE_preview.jpg
-    url: https://sched.co/1T2gz
-    by: Josh Grossman
-    info:
+  - event		:  DeveloperWeek Enterprise 2023
+    dateval	: 2023-11-16
+    title		: Discover Your Inner Security Engineer with This One Weird Trick (Hackers Hate It!)
+    img			: assets/img/DWE_preview.jpg
+    url			: https://sched.co/1T2gz
+    by			: Josh Grossman
+    info		:
   
-  - event:  ThreatModCon 2023
-    dateval: 2023-10-29
-    title: The Threats to Our Community
-    img: assets/img/ThreatModCon2023.png
-    url: https://www.threatmodelingconnect.com/events/threatmodcon-2023-38
-    by: Avi Douglen
-    info:
+  - event		:  ThreatModCon 2023
+    dateval	: 2023-10-29
+    title		: The Threats to Our Community
+    img			: assets/img/ThreatModCon2023.png
+    url			: https://www.threatmodelingconnect.com/events/threatmodcon-2023-38
+    by			: Avi Douglen
+    info		:
 
-  - event: Training at BlackHat USA 2023
-    year: 2023
-    date: August 7-8th
-    dateval: 2023-08-07
-    title: Building a High-Value AppSec Scanning Programme (SCA, SAST, DAST and More)
-    img: assets/img/BHUSA23.jpg
-    url: https://www.blackhat.com/us-23/training/schedule/index.html#building--a-high-value-appsec-scanning-programme-sca-sast-dast-and-more-30622 
-    by: Josh Grossman
-    type: training
-    info:
+  - event		: Training at BlackHat USA 2023
+    year		: 2023
+    date		: August 7-8th
+    dateval	: 2023-08-07
+    title		: Building a High-Value AppSec Scanning Programme (SCA, SAST, DAST and More)
+    img			: assets/img/BHUSA23.jpg
+    url			: https://www.blackhat.com/us-23/training/schedule/index.html#building--a-high-value-appsec-scanning-programme-sca-sast-dast-and-more-30622 
+    by			: Josh Grossman
+    type		: training
+    info		:
 
-  - event: Livestream at BlackHat USA 2023
-    dateval: 2023-08-06
-    title: Dark Reading News Desk
-    youtube: 7pGS8Ge2Tbs
-    embed: https://www.youtube-nocookie.com/embed/live/tqW--YelyPA?feature=share&t=5333
-    url: https://www.linkedin.com/feed/update/urn:li:activity:7095780902043082752/
-    by: Josh Grossman
-    type: podcast    
-    info:
+  - event		: Livestream at BlackHat USA 2023
+    dateval	: 2023-08-06
+    title		: Dark Reading News Desk
+    youtube	: 7pGS8Ge2Tbs
+    embed		: https://www.youtube-nocookie.com/embed/live/tqW--YelyPA?feature=share&t=5333
+    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7095780902043082752/
+    by			: Josh Grossman
+    type		: podcast    
+    info		:
 
-  - event: PyCon Israel 2023
-    year: 2023
-    date: July 4th
-    dateval: 2023-07-04
-    title: Omniscient AppSec- Custom, Continuous Security Verification of Python Code
-    youtube: KuNZzDjvMlg
-    embed: https://www.youtube-nocookie.com/embed/KuNZzDjvMlg
-    url: https://cfp.pycon.org.il/conference2023/schedule/
-    by: Michal Kamensky and Josh Grossman
-    info:
+  - event		: PyCon Israel 2023
+    year		: 2023
+    date		: July 4th
+    dateval	: 2023-07-04
+    title		: Omniscient AppSec- Custom, Continuous Security Verification of Python Code
+    youtube	: KuNZzDjvMlg
+    embed		: https://www.youtube-nocookie.com/embed/KuNZzDjvMlg
+    url			: https://cfp.pycon.org.il/conference2023/schedule/
+    by			: Michal Kamensky and Josh Grossman
+    info		:
 
-  - event: Wherefore Ergonautic Podcast
-    year: 2023
-    date: July 3
-    dateval: 2023-07-03
-    title: Value Driven Security - with Sasha Rosenbaum
-    youtube: q1aFYoWEf1M
-    embed: https://www.youtube-nocookie.com/embed/q1aFYoWEf1M
-    url: https://www.ergonautic.ly/
-    by: Avi Douglen
-    type: podcast
-    info:
+  - event		: Wherefore Ergonautic Podcast
+    year		: 2023
+    date		: July 3
+    dateval	: 2023-07-03
+    title		: Value Driven Security - with Sasha Rosenbaum
+    youtube	: q1aFYoWEf1M
+    embed		: https://www.youtube-nocookie.com/embed/q1aFYoWEf1M
+    url			: https://www.ergonautic.ly/
+    by			: Avi Douglen
+    type		: podcast
+    info		:
 
-  - event: DataDog Application Security Report Livestream
-    year: 2023
-    date: June 22
-    dateval: 2023-06-22
-    title: State of Application Security
-    youtube: 6quqIAq9QfQ
-    embed: https://www.youtube-nocookie.com/embed/6quqIAq9QfQ
-    url: https://www.datadoghq.com/
-    by: Avi Douglen
-    type: podcast
-    info: 
+  - event		: DataDog Application Security Report Livestream
+    year		: 2023
+    date		: June 22
+    dateval	: 2023-06-22
+    title		: State of Application Security
+    youtube	: 6quqIAq9QfQ
+    embed		: https://www.youtube-nocookie.com/embed/6quqIAq9QfQ
+    url			: https://www.datadoghq.com/
+    by			: Avi Douglen
+    type		: podcast
+    info		: 
 
-  - event: OWASP 2023 Virtual June Training
-    year: 2023
-    date: June 6-7th
-    dateval: 2023-06-06
-    title: Application Security Awareness and Security Requirements with the OWASP ASVS
-    img: assets/img/June OWASP virtual training.jpg
-    url: https://www.eventbrite.com/e/owasp-2023-virtual-june-training-tickets-600868583107?utm_campaign=none&utm_medium=event-page&utm_source=owasp-web
-    by: Josh Grossman
-    delivery-type: Virtual
-    type: training
-    info:
+  - event		: OWASP 2023 Virtual June Training
+    year		: 2023
+    date		: June 6-7th
+    dateval	: 2023-06-06
+    title		: Application Security Awareness and Security Requirements with the OWASP ASVS
+    img			: assets/img/June OWASP virtual training.jpg
+    url			: https://www.eventbrite.com/e/owasp-2023-virtual-june-training-tickets-600868583107?utm_campaign=none&utm_medium=event-page&utm_source=owasp-web
+    by			: Josh Grossman
+    delivery: Virtual
+    type		: training
+    info		:
 
-  - event: SecAppDev Workshop
-    year: 2023
-    date: June 15th
-    dateval: 2023-06-15
-    title: Building Secure Systems With Threat Modeling
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2023/sessions/building-secure-systems-with-threat-modeling/
-    by: Avi Douglen
-    type: training
-    info:
+  - event		: SecAppDev Workshop
+    year		: 2023
+    date		: June 15th
+    dateval	: 2023-06-15
+    title		: Building Secure Systems With Threat Modeling
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2023/sessions/building-secure-systems-with-threat-modeling/
+    by			: Avi Douglen
+    type		: training
+    info		:
 
-  - event: SecAppDev Lectures
-    year: 2023
-    date: June 13th
-    dateval: 2023-06-13
-    title: Analysis of Authentication- Deciding on "Good Enough"
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2023/speakers/avidouglen/
-    by: Avi Douglen
-    info:
+  - event		: SecAppDev Lectures
+    year		: 2023
+    date		: June 13th
+    dateval	: 2023-06-13
+    title		: Analysis of Authentication- Deciding on "Good Enough"
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2023/speakers/avidouglen/
+    by			: Avi Douglen
+    info		:
 
-  - event: SecAppDev Lectures
-    year: 2023
-    date: June 12th
-    dateval: 2023-06-12
-    title: Building a Secure Software Development Lifecycle 
-    img: assets/img/secappdev logo.png
-    url: https://secappdev.org/2023/speakers/avidouglen/
-    by: Avi Douglen
-    info:
+  - event		: SecAppDev Lectures
+    year		: 2023
+    date		: June 12th
+    dateval	: 2023-06-12
+    title		: Building a Secure Software Development Lifecycle 
+    img			: assets/img/secappdev logo.png
+    url			: https://secappdev.org/2023/speakers/avidouglen/
+    by			: Avi Douglen
+    info		:
 
-  - event: DevTalks Romania
-    year: 2023
-    date: June 22nd
-    dateval: 2023-06-22
-    title: Building a Sustainable Security Requirements Process With the ASVS
-    img: assets/img/DevTalks.png
-    url: https://www.devtalks.ro/agenda/5-day-2?tags%5B0%5D=16
-    by: Josh Grossman
-    info:
+  - event		: DevTalks Romania
+    year		: 2023
+    date		: June 22nd
+    dateval	: 2023-06-22
+    title		: Building a Sustainable Security Requirements Process With the ASVS
+    img			: assets/img/DevTalks.png
+    url			: https://www.devtalks.ro/agenda/5-day-2?tags%5B0%5D=16
+    by			: Josh Grossman
+    info		:
 
-  - event: Troopers
-    year: 2023
-    date: June 26-30th
-    dateval: 2023-06-26
-    title: Security Heroes Versus the Power of Privacy!
-    img: assets/img/events/Troopers23-SecHeroes-PowerPrivacy.png
-    youtube: rBdcupIhkDc
-    embed: https://www.youtube-nocookie.com/embed/watch?v=rBdcupIhkDc
-    url: https://troopers.de/troopers23/talks/rwjsfv/
-    by: Avi Douglen with Dr. Kim Wuyts
-    info:
+  - event		: Troopers
+    year		: 2023
+    date		: June 26-30th
+    dateval	: 2023-06-26
+    title		: Security Heroes Versus the Power of Privacy!
+    img			: assets/img/events/Troopers23-SecHeroes-PowerPrivacy.png
+    youtube	: rBdcupIhkDc
+    embed		: https://www.youtube-nocookie.com/embed/watch?v=rBdcupIhkDc
+    url			: https://troopers.de/troopers23/talks/rwjsfv/
+    by			: Avi Douglen with Dr. Kim Wuyts
+    info		:
 
-  - event: AppSec Israel 2023
-    year: 2023
-    date: May 17th
-    dateval: 2023-05-17
-    title: Omniscient AppSec- Custom, Continuous Security Verification
-    img: assets/img/AppSecIL2023_logo.png
-    url: https://appsecil.org/Agenda
-    by: Michal Kamensky
-    info:
+  - event		: AppSec Israel 2023
+    year		: 2023
+    date		: May 17th
+    dateval	: 2023-05-17
+    title		: Omniscient AppSec- Custom, Continuous Security Verification
+    img			: assets/img/AppSecIL2023_logo.png
+    url			: https://appsecil.org/Agenda
+    by			: Michal Kamensky
+    info		:
 
-  - event: AppSec Israel 2023
-    year: 2023
-    date: May 16-17th
-    dateval: 2023-05-16
-    title: Organizers
-    img: assets/img/AppSecIL2023_logo.png
-    url: https://appsecil.org/
-    by: OWASP
+  - event		: AppSec Israel 2023
+    year		: 2023
+    date		: May 16-17th
+    dateval	: 2023-05-16
+    title		: Organizers
+    img			: assets/img/AppSecIL2023_logo.png
+    url			: https://appsecil.org/
+    by			: OWASP
 
-  - event: Training at BlackHat Asia
-    year: 2023
-    date: May 9-10th
-    dateval: 2023-05-09
-    title: Sustainable Secure Design - Building a Continuous Threat Modeling Process
-    img: assets/img/blackHat.png
-    url: https://www.blackhat.com/asia-23/training/schedule/#sustainable-secure-design---building-a-continuous-threat-modeling-process-virtual-29852
-    by: Avi Douglen
-    info:
+  - event		: Training at BlackHat Asia
+    year		: 2023
+    date		: May 9-10th
+    dateval	: 2023-05-09
+    title		: Sustainable Secure Design - Building a Continuous Threat Modeling Process
+    img			: assets/img/blackHat.png
+    url			: https://www.blackhat.com/asia-23/training/schedule/#sustainable-secure-design---building-a-continuous-threat-modeling-process-virtual-29852
+    by			: Avi Douglen
+    info		:
 
-  - event: OWASP Netherlands
-    dateval: 2023-04-20
-    title: The Rise of the Security Verification Standard
-    youtube: dlAY2lEnSlg
-    url: https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208/
-    by: Josh Grossman
-    info:
+  - event		: OWASP Netherlands
+    dateval	: 2023-04-20
+    title		: The Rise of the Security Verification Standard
+    youtube	: dlAY2lEnSlg
+    url			: https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208/
+    by			: Josh Grossman
+    info		:
 
-  - event: PBC's Linkedin Live Event
-    year: 2023
-    date: April 18th
-    dateval: 2023-04-18
-    title: Journey to AppSec Maturity- Dialogue at RSA
-    img: assets/img/Journey to Appsec Maturity.jpg
-    url: https://www.linkedin.com/events/journeytoappsecmaturity-dialogu7042220687696023552/comments/
-    by: Avi Douglen
-    info:
+  - event		: PBC's Linkedin Live Event
+    year		: 2023
+    date		: April 18th
+    dateval	: 2023-04-18
+    title		: Journey to AppSec Maturity- Dialogue at RSA
+    img			: assets/img/Journey to Appsec Maturity.jpg
+    url			: https://www.linkedin.com/events/journeytoappsecmaturity-dialogu7042220687696023552/comments/
+    by			: Avi Douglen
+    info		:
 
-  - event:  QCon London 2023
-    dateval: 2023-03-27
-    title: Sustainable Security Requirements with the ASVS
-    by: Josh Grossman
-    img: assets/img/qconlondon.png
-    url: https://qconlondon.com/presentation/mar2023/sustainable-security-requirements-asvs
-    info:
+  - event		:  QCon London 2023
+    dateval	: 2023-03-27
+    title		: Sustainable Security Requirements with the ASVS
+    by			: Josh Grossman
+    img			: assets/img/qconlondon.png
+    url			: https://qconlondon.com/presentation/mar2023/sustainable-security-requirements-asvs
+    info		:
 
-  - event: Security Weekly
-    year: 2023
-    date: March 13th
-    dateval: 2023-03-13
-    title: The OWASP ASVS and Sustainable Software Security Practices
-    youtube: yWVsnAliI6Q
-    embed: https://www.youtube-nocookie.com/embed/yWVsnAliI6Q
-    url: https://www.scmagazine.com/podcast-segment/the-owasp-asvs-and-sustainable-software-security-practices-josh-grossman-asw-232
-    by: Josh Grossman
-    info:
+  - event		: Security Weekly
+    year		: 2023
+    date		: March 13th
+    dateval	: 2023-03-13
+    title		: The OWASP ASVS and Sustainable Software Security Practices
+    youtube	: yWVsnAliI6Q
+    embed		: https://www.youtube-nocookie.com/embed/yWVsnAliI6Q
+    url			: https://www.scmagazine.com/podcast-segment/the-owasp-asvs-and-sustainable-software-security-practices-josh-grossman-asw-232
+    by			: Josh Grossman
+    info		:
 
-  - event: OWASP Global AppSec Dublin 2023
-    year: 2023
-    date: February 13-14th
-    dateval: 2023-02-13
-    title: Building a High-Value AppSec Scanning Programme - (Training)
-    img: assets/img/OWASP.png
-    url: https://dublin.globalappsec.org/trainers/#trainer006
-    by: Josh Grossman
-    info:
+  - event		: OWASP Global AppSec Dublin 2023
+    year		: 2023
+    date		: February 13-14th
+    dateval	: 2023-02-13
+    title		: Building a High-Value AppSec Scanning Programme - (Training)
+    img			: assets/img/OWASP.png
+    url			: https://dublin.globalappsec.org/trainers/#trainer006
+    by			: Josh Grossman
+    info		:
 
-  - event: Down the Security Rabbithole Podcast (DtSR)
-    year: 2023
-    date: January 17th
-    dateval: 2023-01-17
-    title: Episode 534 - The AppSec is Still a Mess
-    img: assets/img/DTSR podcast.jpg
-    url: https://dtsr.buzzsprout.com/2153215/12448659-dtsr-episode-534-the-appsec-is-still-a-mess
-    by: Josh Grossman
-    info:
+  - event		: Down the Security Rabbithole Podcast (DtSR)
+    year		: 2023
+    date		: January 17th
+    dateval	: 2023-01-17
+    title		: Episode 534 - The AppSec is Still a Mess
+    img			: assets/img/DTSR podcast.jpg
+    url			: https://dtsr.buzzsprout.com/2153215/12448659-dtsr-episode-534-the-appsec-is-still-a-mess
+    by			: Josh Grossman
+    info		:
 
-  - event: OWASP Israel Meetup
-    year: 2023
-    date: January 10th
-    dateval: 2023-01-10
-    title: Homemade SAST – Using Semgrep Rules for Security Code Scanning
-    youtube: r8NS67sn8Ho
-    embed: https://www.youtube-nocookie.com/embed/r8NS67sn8Ho
-    url: https://www.meetup.com/owasp-israel/events/290271835/
-    by: Michal Kamensky
-    info:
+  - event		: OWASP Israel Meetup
+    year		: 2023
+    date		: January 10th
+    dateval	: 2023-01-10
+    title		: Homemade SAST – Using Semgrep Rules for Security Code Scanning
+    youtube	: r8NS67sn8Ho
+    embed		: https://www.youtube-nocookie.com/embed/r8NS67sn8Ho
+    url			: https://www.meetup.com/owasp-israel/events/290271835/
+    by			: Michal Kamensky
+    info		:
 
-  - event:  NDC Security 2023 (Conference)
-    dateval: 2023-01-19
-    title: Building a sustainable security requirements process with the ASVS
-    youtube: AOt_y6iZ2kI
-    by: Josh Grossman
-    url: https://ndc-security.com
-    info:
+  - event		:  NDC Security 2023 (Conference)
+    dateval	: 2023-01-19
+    title		: Building a sustainable security requirements process with the ASVS
+    youtube	: AOt_y6iZ2kI
+    by			: Josh Grossman
+    url			: https://ndc-security.com
+    info		:
 
-  - event:  OWASP Oslo
-    dateval: 2023-01-17
-    title: Tune your Toolbox for Velocity and Value
-    by: Josh Grossman
-    img: assets/img/OWASP.png
-    url: https://www.meetup.com/owasp-oslo/events/290761822/
-    info:
+  - event		:  OWASP Oslo
+    dateval	: 2023-01-17
+    title		: Tune your Toolbox for Velocity and Value
+    by			: Josh Grossman
+    img			: assets/img/OWASP.png
+    url			: https://www.meetup.com/owasp-oslo/events/290761822/
+    info		:
 
-  - event: OWASP Global AppSec San Francisco 2022
-    year: 2022
-    date: November 18th
-    dateval: 2022-11-18
-    title: The Rise of the Security Verification Standard
-    img: assets/img/OWASP global 2022 San Francisco.jpg
-    url: https://owasp2022globalappsecsf.sched.com/event/1BS2H
-    by: Josh Grossman
-    info:
+  - event		: OWASP Global AppSec San Francisco 2022
+    year		: 2022
+    date		: November 18th
+    dateval	: 2022-11-18
+    title		: The Rise of the Security Verification Standard
+    img			: assets/img/OWASP global 2022 San Francisco.jpg
+    url			: https://owasp2022globalappsecsf.sched.com/event/1BS2H
+    by			: Josh Grossman
+    info		:
 
-  - event: OWASP Global AppSec San Francisco 2022
-    year: 2022
-    date: November 15-16th
-    dateval: 2022-11-15
-    title: Building a High-Value AppSec Scanning Programme (Training)
-    img: assets/img/OWASP global 2022 San Francisco.jpg
-    url: https://owasp2022globalappsecsf.sched.com/event/1BRnr/2-day-training-building-a-high-value-appsec-scanning-programme
-    by: Josh Grossman
-    info:
+  - event		: OWASP Global AppSec San Francisco 2022
+    year		: 2022
+    date		: November 15-16th
+    dateval	: 2022-11-15
+    title		: Building a High-Value AppSec Scanning Programme (Training)
+    img			: assets/img/OWASP global 2022 San Francisco.jpg
+    url			: https://owasp2022globalappsecsf.sched.com/event/1BRnr/2-day-training-building-a-high-value-appsec-scanning-programme
+    by			: Josh Grossman
+    info		:
 
-  - event: Keynote at BSides Tel Aviv 2022
-    year: 2022
-    date: June 30th
-    dateval: 2022-06-30
-    title: KEYNOTE&#58; The Threats to Our Community
-    youtube: CnGt-oJXogA
-    embed: https://www.youtube-nocookie.com/embed/CnGt-oJXogA
-    url: https://bsidestlv.com/
-    by: Avi Douglen
-    type: keynote    
-    info:
+  - event		: Keynote at BSides Tel Aviv 2022
+    year		: 2022
+    date		: June 30th
+    dateval	: 2022-06-30
+    title		: KEYNOTE&#58; The Threats to Our Community
+    youtube	: CnGt-oJXogA
+    embed		: https://www.youtube-nocookie.com/embed/CnGt-oJXogA
+    url			: https://bsidestlv.com/
+    by			: Avi Douglen
+    type		: keynote    
+    info		:
 
-  - event: BSides Tel Aviv 2022
-    year: 2022
-    date: June 30th
-    dateval: 2022-06-30
-    title: Analyzing Open Buckets- a Beginner’s Journey Through Misplaced Secrets
-    youtube: s-ColeJZ9ZY
-    embed: https://www.youtube-nocookie.com/embed/s-ColeJZ9ZY
-    url: https://bsidestlv.com/
-    by: Michal Kamensky
-    info:
+  - event		: BSides Tel Aviv 2022
+    year		: 2022
+    date		: June 30th
+    dateval	: 2022-06-30
+    title		: Analyzing Open Buckets- a Beginner’s Journey Through Misplaced Secrets
+    youtube	: s-ColeJZ9ZY
+    embed		: https://www.youtube-nocookie.com/embed/s-ColeJZ9ZY
+    url			: https://bsidestlv.com/
+    by			: Michal Kamensky
+    info		:
 
-  - event: AppSecEU 2022
-    year: 2022
-    date: June 8th
-    dateval: 2022-06-08
-    title: OWASP ASVS Project
-    youtube: zqj4YuoAlcA
-    embed: https://www.youtube-nocookie.com/embed/zqj4YuoAlcA
-    url: https://owasp.org/
-    by: Josh Grossman
-    info:
+  - event		: AppSecEU 2022
+    year		: 2022
+    date		: June 8th
+    dateval	: 2022-06-08
+    title		: OWASP ASVS Project
+    youtube	: zqj4YuoAlcA
+    embed		: https://www.youtube-nocookie.com/embed/zqj4YuoAlcA
+    url			: https://owasp.org/
+    by			: Josh Grossman
+    info		:
 
-  - event: Israeli Bar Association
-    year: 2022
-    date: May 12th
-    dateval: 2022-05-12
-    title: Bar Association, Technology and Cyber
-    img: assets/img/israelBarAssociation.png
-    url: https://www.facebook.com/Mehoz.Merkaz.Law/videos/3221324774780188
-    by: Avi Douglen
-    info:
+  - event		: Israeli Bar Association
+    year		: 2022
+    date		: May 12th
+    dateval	: 2022-05-12
+    title		: Bar Association, Technology and Cyber
+    img			: assets/img/israelBarAssociation.png
+    url			: https://www.facebook.com/Mehoz.Merkaz.Law/videos/3221324774780188
+    by			: Avi Douglen
+    info		:
 
-  - event: Application Security podcast
-    year: 2022
-    date: April 20th
-    dateval: 2022-04-20
-    title: Building a High-Value AppSec Scanning Program
-    youtube: LAcH1kFP4-M
-    embed: https://www.youtube-nocookie.com/embed/LAcH1kFP4-M
-    url: https://www.securityjourney.com/podcast-episode/josh-grossman-building-a-high-value-appsec-scanning-program
-    by: Josh Grossman
-    info:
+  - event		: Application Security podcast
+    year		: 2022
+    date		: April 20th
+    dateval	: 2022-04-20
+    title		: Building a High-Value AppSec Scanning Program
+    youtube	: LAcH1kFP4-M
+    embed		: https://www.youtube-nocookie.com/embed/LAcH1kFP4-M
+    url			: https://www.securityjourney.com/podcast-episode/josh-grossman-building-a-high-value-appsec-scanning-program
+    by			: Josh Grossman
+    info		:
     
 
-  - event: OWASP Morocco
-    year: 2022
-    date: April 12th
-    dateval: 2022-04-12
-    title: Introduction to the ASVS
-    img: assets/img/owaspmorocco.png
-    url: https://www.meetup.com/Morocco-OWASP-Meetup-Group/events/284512526/
-    by: Josh Grossman
-    info:
+  - event		: OWASP Morocco
+    year		: 2022
+    date		: April 12th
+    dateval	: 2022-04-12
+    title		: Introduction to the ASVS
+    img			: assets/img/owaspmorocco.png
+    url			: https://www.meetup.com/Morocco-OWASP-Meetup-Group/events/284512526/
+    by			: Josh Grossman
+    info		:
 
-  - event: DevSec For Scale Podcast
-    year: 2022
-    date: April 12th
-    dateval: 2022-04-12
-    title: Proactively Building Secure Software
-    youtube: ctgH7umEtxg
-    embed: https://www.youtube-nocookie.com/embed/ctgH7umEtxg
-    url: akeyless.io
-    by: Josh Grossman
-    info:
+  - event		: DevSec For Scale Podcast
+    year		: 2022
+    date		: April 12th
+    dateval	: 2022-04-12
+    title		: Proactively Building Secure Software
+    youtube	: ctgH7umEtxg
+    embed		: https://www.youtube-nocookie.com/embed/ctgH7umEtxg
+    url			: akeyless.io
+    by			: Josh Grossman
+    info		:
 
-  - event: Open Security Summit
-    year: 2022
-    date: March 15th
-    dateval: 2022-03-15
-    title: Tune Your Toolbox for Velocity and Value (SCA)
-    youtube: 2SxHfhvhey8
-    embed: https://www.youtube-nocookie.com/embed/2SxHfhvhey8
-    url: https://open-security-summit.org/sessions/2022/mini-summits/mar/devsecops/tune-up-your-toolbox-for-better-appsec-value-sca-edition/
-    by: Josh Grossman
-    info:
+  - event		: Open Security Summit
+    year		: 2022
+    date		: March 15th
+    dateval	: 2022-03-15
+    title		: Tune Your Toolbox for Velocity and Value (SCA)
+    youtube	: 2SxHfhvhey8
+    embed		: https://www.youtube-nocookie.com/embed/2SxHfhvhey8
+    url			: https://open-security-summit.org/sessions/2022/mini-summits/mar/devsecops/tune-up-your-toolbox-for-better-appsec-value-sca-edition/
+    by			: Josh Grossman
+    info		:
 
-  - event: OWASP Luxembourg
-    year: 2022
-    date: March 8th
-    dateval: 2022-03-08
-    title: What's New in the ASVS 4.0?
-    img: assets/img/owasp_lux20220308.png
-    url: https://www.meetup.com/owasp-luxembourg-group/events/284178991/
-    by: Josh Grossman
-    info:
+  - event		: OWASP Luxembourg
+    year		: 2022
+    date		: March 8th
+    dateval	: 2022-03-08
+    title		: What's New in the ASVS 4.0?
+    img			: assets/img/owasp_lux20220308.png
+    url			: https://www.meetup.com/owasp-luxembourg-group/events/284178991/
+    by			: Josh Grossman
+    info		:
 
-  - event: OWASP OC
-    year: 2021
-    date: September 23rd
-    dateval: 2021-09-23
-    title: Lightweight Threat Modeling - The Value Driven Approach
-    img: assets/img/owaspOC2021.png
-    url: https://www.twitch.tv/videos/1157208663
-    by: Avi Douglen
-    info:
+  - event		: OWASP OC
+    year		: 2021
+    date		: September 23rd
+    dateval	: 2021-09-23
+    title		: Lightweight Threat Modeling - The Value Driven Approach
+    img			: assets/img/owaspOC2021.png
+    url			: https://www.twitch.tv/videos/1157208663
+    by			: Avi Douglen
+    info		:
 
-  - event: DevSecCon Lightning
-    year: 2020
-    date: November 18th
-    dateval: 2020-11-18
-    title: Count Up From Zero Day - when a critical vulnerability takes you by surprise
-    youtube: 4I6QJthjxes
-    embed: https://www.youtube-nocookie.com/embed/4I6QJthjxes
-    url: https://www.devseccon.com/events/lightning
-    by: Josh Grossman
-    info:
+  - event		: DevSecCon Lightning
+    year		: 2020
+    date		: November 18th
+    dateval	: 2020-11-18
+    title		: Count Up From Zero Day - when a critical vulnerability takes you by surprise
+    youtube	: 4I6QJthjxes
+    embed		: https://www.youtube-nocookie.com/embed/4I6QJthjxes
+    url			: https://www.devseccon.com/events/lightning
+    by			: Josh Grossman
+    info		:
     
-  - event: Beyond The Perimeter Podcast
-    year: 2020
-    date: September 17th
-    dateval: 2020-09-17
-    title: Why AppSec is Key for Your Dev Toolbox
-    img: assets/img/beyond-the-perimeter-podcast-sep2020.PNG
-    url: https://soundcloud.com/marketing-group-80894541/episode-05-why-appsec-is-key-for-your-dev-toolbox
-    by: Avi Douglen
-    info: https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-05-why-appsec-is-key-for-your-dev-toolbox/
+  - event		: Beyond The Perimeter Podcast
+    year		: 2020
+    date		: September 17th
+    dateval	: 2020-09-17
+    title		: Why AppSec is Key for Your Dev Toolbox
+    img			: assets/img/beyond-the-perimeter-podcast-sep2020.PNG
+    url			: https://soundcloud.com/marketing-group-80894541/episode-05-why-appsec-is-key-for-your-dev-toolbox
+    by			: Avi Douglen
+    info		: https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-05-why-appsec-is-key-for-your-dev-toolbox/
 
-  - event: Open Security Summit
-    year: 2020
-    date: June 11th
-    dateval: 2020-06-11
-    title: Introduction to Threat Modeling
-    youtube: yjvSI755auM
-    embed: https://www.youtube-nocookie.com/embed/yjvSI755auM
-    url: https://open-security-summit.org/sessions/2020/mini-summits/dec/threat-modeling/threat-modeling-manifesto/
-    by: Avi Douglen
-    info: Virtual Summit due to COVID19.
+  - event		: Open Security Summit
+    year		: 2020
+    date		: June 11th
+    dateval	: 2020-06-11
+    title		: Introduction to Threat Modeling
+    youtube	: yjvSI755auM
+    embed		: https://www.youtube-nocookie.com/embed/yjvSI755auM
+    url			: https://open-security-summit.org/sessions/2020/mini-summits/dec/threat-modeling/threat-modeling-manifesto/
+    by			: Avi Douglen
+    info		: Virtual Summit due to COVID19.
   
-  - event: SafetyDetectives
-    year: 2020
-    date: May 25th
-    dateval: 2020-05-25
-    title: Interview With Avi Douglen
-    img: assets/img/safety-detectives-may2020.PNG
-    url: https://www.safetydetectives.com/blog/interview-avi-douglen-bounce-security/
-    by: Avi Douglen
-    info:
+  - event		: SafetyDetectives
+    year		: 2020
+    date		: May 25th
+    dateval	: 2020-05-25
+    title		: Interview With Avi Douglen
+    img			: assets/img/safety-detectives-may2020.PNG
+    url			: https://www.safetydetectives.com/blog/interview-avi-douglen-bounce-security/
+    by			: Avi Douglen
+    info		:
     
-  - event: Security Weekly
-    year: 2020
-    date: April 27th
-    dateval: 2020-04-27
-    title: Threat Modeling in AppSec
-    youtube: _rjCMsQYRro
-    embed: https://www.youtube-nocookie.com/embed/_rjCMsQYRro
-    url: https://securityweekly.com/shows/threat-modeling-in-appsec-avi-douglen-asw-105/
-    by: Avi Douglen
-    info:
+  - event		: Security Weekly
+    year		: 2020
+    date		: April 27th
+    dateval	: 2020-04-27
+    title		: Threat Modeling in AppSec
+    youtube	: _rjCMsQYRro
+    embed		: https://www.youtube-nocookie.com/embed/_rjCMsQYRro
+    url			: https://securityweekly.com/shows/threat-modeling-in-appsec-avi-douglen-asw-105/
+    by			: Avi Douglen
+    info		:
     
-  - event: Infosec In the City
-    year: 2020
-    date: March 30th
-    dateval: 2020-03-30
-    title: Designing Secure Systems, Value-Driven Threat Modeling
-    youtube: _MXio3EqoDI
-    embed: https://www.youtube-nocookie.com/embed/_MXio3EqoDI
-    url: https://www.infosec-city.com/sin19-con
-    by: Avi Douglen
-    info:
+  - event		: Infosec In the City
+    year		: 2020
+    date		: March 30th
+    dateval	: 2020-03-30
+    title		: Designing Secure Systems, Value-Driven Threat Modeling
+    youtube	: _MXio3EqoDI
+    embed		: https://www.youtube-nocookie.com/embed/_MXio3EqoDI
+    url			: https://www.infosec-city.com/sin19-con
+    by			: Avi Douglen
+    info		:
     
-  - event: MyDevSecOps Livestream
-    year: 2020
-    date: January 30th
-    dateval: 2020-01-30
-    title: What's new in the ASVS 4.0?
-    youtube: O5MHzJaLGEQ
-    embed: https://www.youtube-nocookie.com/embed/O5MHzJaLGEQ
-    url: https://www.devseccon.com/videos/whats-new-and-exciting-about-the-asvs-4-0-owasp/
-    by: Josh Grossman
-    info:
+  - event		: MyDevSecOps Livestream
+    year		: 2020
+    date		: January 30th
+    dateval	: 2020-01-30
+    title		: What's new in the ASVS 4.0?
+    youtube	: O5MHzJaLGEQ
+    embed		: https://www.youtube-nocookie.com/embed/O5MHzJaLGEQ
+    url			: https://www.devseccon.com/videos/whats-new-and-exciting-about-the-asvs-4-0-owasp/
+    by			: Josh Grossman
+    info		:
 
-  - event: O'Reilly Software Architecture Conference 2019
-    year: 2019
-    date: November 6th
-    dateval: 2019-11-06
-    title: Secure by design&#58; Value-Driven Threat Modeling
-    img: assets/img/oreily2019.png
-    url: https://www.oreilly.com/library/view/oreilly-software-architecture/9781492050728/video328564.html
-    by: Avi Douglen
-    info:
+  - event		: O'Reilly Software Architecture Conference 2019
+    year		: 2019
+    date		: November 6th
+    dateval	: 2019-11-06
+    title		: Secure by design&#58; Value-Driven Threat Modeling
+    img			: assets/img/oreily2019.png
+    url			: https://www.oreilly.com/library/view/oreilly-software-architecture/9781492050728/video328564.html
+    by			: Avi Douglen
+    info		:
 
-  - event: OWASP Helsinki
-    year: 2019
-    date: September 3rd
-    dateval: 2019-09-03
-    title: What's new in the ASVS 4.0?
-    vimeo: 365718271
-    embed: https://player.vimeo.com/video/365718271?h=3661963f3c&title=0&byline=0&portrait=0
-    url: https://www.meetup.com/OWASP-Helsinki-Chapter/events/264058334/
-    by: Josh Grossman
-    info:
+  - event		: OWASP Helsinki
+    year		: 2019
+    date		: September 3rd
+    dateval	: 2019-09-03
+    title		: What's new in the ASVS 4.0?
+    vimeo		: 365718271
+    embed		: https://player.vimeo.com/video/365718271?h=3661963f3c&title=0&byline=0&portrait=0
+    url			: https://www.meetup.com/OWASP-Helsinki-Chapter/events/264058334/
+    by			: Josh Grossman
+    info		:
     
-  - event: MyDevSecOps Livestream
-    year: 2019
-    date: March 14th
-    dateval: 2019-03-14
-    title: Panel - The State of Open-Source Security
-    youtube: rGpmVVTrCLc
-    embed: https://www.youtube-nocookie.com/embed/rGpmVVTrCLc
-    url: https://www.devseccon.com/videos/state-of-open-source-security-panel/
-    by: Josh Grossman
-    info:
+  - event		: MyDevSecOps Livestream
+    year		: 2019
+    date		: March 14th
+    dateval	: 2019-03-14
+    title		: Panel - The State of Open-Source Security
+    youtube	: rGpmVVTrCLc
+    embed		: https://www.youtube-nocookie.com/embed/rGpmVVTrCLc
+    url			: https://www.devseccon.com/videos/state-of-open-source-security-panel/
+    by			: Josh Grossman
+    info		:
     
-  - event: DevOpsDays Tel Aviv
-    year: 2019
-    date: January 3rd
-    dateval: 2019-01-03
-    title: Value driven threat modelling, security by design
-    youtube: Ym1-7DJlevA
-    embed: https://www.youtube-nocookie.com/embed/Ym1-7DJlevA
-    url: https://devopsdays.org/events/2018-tel-aviv/program/avi-douglen
-    by: Avi Douglen
-    info:
+  - event		: DevOpsDays Tel Aviv
+    year		: 2019
+    date		: January 3rd
+    dateval	: 2019-01-03
+    title		: Value driven threat modelling, security by design
+    youtube	: Ym1-7DJlevA
+    embed		: https://www.youtube-nocookie.com/embed/Ym1-7DJlevA
+    url			: https://devopsdays.org/events/2018-tel-aviv/program/avi-douglen
+    by			: Avi Douglen
+    info		:
 
-  - event: OWASP AppSec Israel 2018
-    year: 2018
-    date: November 29th
-    dateval: 2018-11-29
-    title: Value Driven Threat Modeling
-    youtube: gskTQkwsdzw
-    embed: https://www.youtube-nocookie.com/embed/gskTQkwsdzw
-    url: https://owasp.org/www-chapter-israel/
-    by: Avi Douglen
-    info:
+  - event		: OWASP AppSec Israel 2018
+    year		: 2018
+    date		: November 29th
+    dateval	: 2018-11-29
+    title		: Value Driven Threat Modeling
+    youtube	: gskTQkwsdzw
+    embed		: https://www.youtube-nocookie.com/embed/gskTQkwsdzw
+    url			: https://owasp.org/www-chapter-israel/
+    by			: Avi Douglen
+    info		:
         
-  - event: OWASP AppSec USA 2018
-    year: 2018
-    date: October 11th
-    dateval: 2018-10-11
-    title: How to get the best AppSec test of your life
-    youtube: Lw1M6uWsTZA
-    embed: https://www.youtube-nocookie.com/embed/Lw1M6uWsTZA
-    url: https://owasp.org/
-    by: Josh Grossman
-    info:
+  - event		: OWASP AppSec USA 2018
+    year		: 2018
+    date		: October 11th
+    dateval	: 2018-10-11
+    title		: How to get the best AppSec test of your life
+    youtube	: Lw1M6uWsTZA
+    embed		: https://www.youtube-nocookie.com/embed/Lw1M6uWsTZA
+    url			: https://owasp.org/
+    by			: Josh Grossman
+    info		:
     
-  - event: OWASP AppSec USA 2018
-    year: 2018
-    date: October 11th
-    dateval: 2018-10-11
-    title: Value Driven Threat Modeling
-    youtube: 3Fl_7FrM_gI
-    embed: https://www.youtube-nocookie.com/embed/3Fl_7FrM_gI
-    url: https://owasp.org/
-    by: Avi Douglen
-    info:
+  - event		: OWASP AppSec USA 2018
+    year		: 2018
+    date		: October 11th
+    dateval	: 2018-10-11
+    title		: Value Driven Threat Modeling
+    youtube	: 3Fl_7FrM_gI
+    embed		: https://www.youtube-nocookie.com/embed/3Fl_7FrM_gI
+    url			: https://owasp.org/
+    by			: Avi Douglen
+    info		:
     
-  - event: PyCon Israel
-    year: 2018
-    date: July 10th
-    dateval: 2018-07-10
-    title: Value Driven Threat Modeling, Security by Design
-    youtube: Ml3HJqFJMOY
-    embed: https://www.youtube-nocookie.com/embed/Ml3HJqFJMOY
-    url: https://pyvideo.org/pycon-israel-2018/value-driven-threat-modeling-security-by-design.html
-    by: Avi Douglen
-    info:
+  - event		: PyCon Israel
+    year		: 2018
+    date		: July 10th
+    dateval	: 2018-07-10
+    title		: Value Driven Threat Modeling, Security by Design
+    youtube	: Ml3HJqFJMOY
+    embed		: https://www.youtube-nocookie.com/embed/Ml3HJqFJMOY
+    url			: https://pyvideo.org/pycon-israel-2018/value-driven-threat-modeling-security-by-design.html
+    by			: Avi Douglen
+    info		:
     
-  - event: OWASP AppSec Israel 2017
-    year: 2017
-    date: October 28th
-    dateval: 2017-10-28
-    title: How to get the best AppSec test of your life
-    youtube: yRFIwJnJe8I
-    embed: https://www.youtube-nocookie.com/embed/yRFIwJnJe8I
-    url: https://sched.co/CSDQ
-    by: Josh Grossman
-    info: 
+  - event		: OWASP AppSec Israel 2017
+    year		: 2017
+    date		: October 28th
+    dateval	: 2017-10-28
+    title		: How to get the best AppSec test of your life
+    youtube	: yRFIwJnJe8I
+    embed		: https://www.youtube-nocookie.com/embed/yRFIwJnJe8I
+    url			: https://sched.co/CSDQ
+    by			: Josh Grossman
+    info		: 
     
-  - event: OWASP AppSec Israel 2017
-    year: 2017
-    date: October 28th
-    dateval: 2017-10-28
-    title: Conference Opening Address
-    youtube: Moqawdvrnig
-    embed: https://www.youtube-nocookie.com/embed/Moqawdvrnig
-    url: https://owasp.org/www-chapter-israel/
-    by: Avi Douglen
-    info:
+  - event		: OWASP AppSec Israel 2017
+    year		: 2017
+    date		: October 28th
+    dateval	: 2017-10-28
+    title		: Conference Opening Address
+    youtube	: Moqawdvrnig
+    embed		: https://www.youtube-nocookie.com/embed/Moqawdvrnig
+    url			: https://owasp.org/www-chapter-israel/
+    by			: Avi Douglen
+    info		:
     
-  - event: OWASP Göteborg
-    year: 2016
-    date: November 24th
-    dateval: 2016-11-24
-    title: Passwords, Rehashed All Over Again
-    youtube: h80rIJOjdgA
-    embed: https://www.youtube-nocookie.com/embed/h80rIJOjdgA
-    url: https://owasp.org/www-chapter-gothenburg/
-    by: Avi Douglen
-    info:
+  - event		: OWASP Göteborg
+    year		: 2016
+    date		: November 24th
+    dateval	: 2016-11-24
+    title		: Passwords, Rehashed All Over Again
+    youtube	: h80rIJOjdgA
+    embed		: https://www.youtube-nocookie.com/embed/h80rIJOjdgA
+    url			: https://owasp.org/www-chapter-gothenburg/
+    by			: Avi Douglen
+    info		:
     
-  - event: OWASP AppSec Israel 2016
-    year: 2016
-    date: November 4th
-    dateval: 2016-11-04
-    title: Opening Words
-    youtube: HN5KSl2cSaI
-    embed: https://www.youtube-nocookie.com/embed/HN5KSl2cSaI
-    url: https://owasp.org/www-chapter-israel/
-    by: Avi Douglen
-    info:
+  - event		: OWASP AppSec Israel 2016
+    year		: 2016
+    date		: November 4th
+    dateval	: 2016-11-04
+    title		: Opening Words
+    youtube	: HN5KSl2cSaI
+    embed		: https://www.youtube-nocookie.com/embed/HN5KSl2cSaI
+    url			: https://owasp.org/www-chapter-israel/
+    by			: Avi Douglen
+    info		:
     
-  - event: OWASP AppSec Israel 2015
-    year: 2015
-    date: November 27th
-    dateval: 2015-11-27
-    title: Opening Words (Mostly Hebrew)
-    youtube: ghDGr5dcu0o
-    embed: https://www.youtube-nocookie.com/embed/ghDGr5dcu0o
-    url: https://owasp.org/www-chapter-israel/
-    by: Avi Douglen
-    info:
+  - event		: OWASP AppSec Israel 2015
+    year		: 2015
+    date		: November 27th
+    dateval	: 2015-11-27
+    title		: Opening Words (Mostly Hebrew)
+    youtube	: ghDGr5dcu0o
+    embed		: https://www.youtube-nocookie.com/embed/ghDGr5dcu0o
+    url			: https://owasp.org/www-chapter-israel/
+    by			: Avi Douglen
+    info		:
     
-  - event: OWASP Appsec Israel 2014
-    year: 2014
-    date: October 13th
-    dateval: 2014-10-13
-    title: Passwords, Rehashed All Over Again
-    youtube: HVyorPPvPE0
-    embed: https://www.youtube-nocookie.com/embed/HVyorPPvPE0
-    url: https://owasp.org/www-chapter-israel/
-    by: Avi Douglen
-    info:
+  - event		: OWASP Appsec Israel 2014
+    year		: 2014
+    date		: October 13th
+    dateval	: 2014-10-13
+    title		: Passwords, Rehashed All Over Again
+    youtube	: HVyorPPvPE0
+    embed		: https://www.youtube-nocookie.com/embed/HVyorPPvPE0
+    url			: https://owasp.org/www-chapter-israel/
+    by			: Avi Douglen
+    info		:
