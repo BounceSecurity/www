@@ -2,6 +2,19 @@ items		:
 
   - event		: Training at OWASP London Training 2026
     year		: 2026
+    date		: 25th Feb
+    dateval	: 2026-02-25
+    title		: Application Privacy in the Shadow of AI
+    img			: assets/img/events/londontraining.jpeg
+    url			: https://owasp.glueup.com/event/162538/register/
+    by			: Avi Douglen with Dr. Kim Wuyts
+    #course	: privacy
+    delivery: In-Person
+    type		: training
+    info		: 
+
+  - event		: Training at OWASP London Training 2026
+    year		: 2026
     date		: 25th-26th Feb
     dateval	: 2026-02-25
     title		: Building a High-Value AppSec Scanning Programme
@@ -13,6 +26,26 @@ items		:
     type		: training
     info		: 
 
+  - event   : Keynote at OWASP BeNeLux 2025 
+    year		: 2025
+    date		: December 2nd
+    dateval	: 2025/12/02
+    title		: "Get Out of your Bubble: Collaborative Threat Modeling" 
+    img			: assets/img/events/benelux25.png
+    url			: https://2025.owaspbenelux.eu/program/conference#Avi-Douglen
+    by			: Avi Douglen
+    info		:
+
+  - event		: Interview with CyberRisk TV
+    year		: 2025
+    date		: 7th Nov
+    dateval	: 2025-11-07 
+    title		: "OWASP Global AppSec DC 2025 Wrap-Up: Community, AI Security, and the Future of AppSec"
+    youtube	: IG9axJkP5WQ
+    url			: https://www.scworld.com/podcast-segment/14610-owasp-2025-wrap-up-community-ai-security-and-the-future-of-appsec-avi-douglen-owsp25-2
+    by			: Avi Douglen
+    type		: podcast
+
   - event		: Podcast with ICodeWith.ai
     year		: 2025
     date		: 29th Oct
@@ -22,26 +55,36 @@ items		:
     embed		: https://www.youtube-nocookie.com/embed/XMgk89mj8jg
     url			: https://www.icodewith.ai/podcast/pre-launch-security-essentials-for-vibe-coded-apps/
     by			: Josh Grossman
-    type		: interview
+    type		: podcast
+
+  - event		: DEF CON 2025 - AppSec Village
+    year		: 2025
+    date		: 8th Aug
+    dateval	: 2025-08-08
+    title		: "Context & Cringe: Bringing Privacy into Threat Modeling"
+    img			: assets/img/events/dc33-appsec.png
+    url			: https://www.appsecvillage.com/events/dc-2025/context-cringe-bringing-privacy-into-threat-modeling-945758
+    by			: Avi Douglen with Dr. Kim Wuyts
+    info		:
 
   - event		: DEF CON 2025 - OWASP Community
     year		: 2025
     date		: 10th Aug
     dateval	: 2025-08-10
-    title		: "Vibe Coding		: Security Crisis or Opportunity"
+    title		: "Vibe Coding: Security Crisis or Opportunity"
     img			: assets/img/events/dc33.png
     url			: https://hackertracker.app/event/?conf=DEFCON33&event=62241
-    by			: Josh Grossman - 11		:00-12		:00 - Room W4/C206, LVCC
+    by			: Josh Grossman
     info		:
 
   - event		: DEF CON 2025 - OWASP Community
     year		: 2025
     date		: 8th Aug
     dateval	: 2025-08-08
-    title		: "Whitehats Secret Weapon		: OWASP"
+    title		: "Whitehats Secret Weapon: OWASP"
     img			: assets/img/events/dc33.png
     url			: https://hackertracker.app/event/?conf=DEFCON33&event=62242
-    by			: Josh Grossman - 10		:30-11		:00 - Room W4/C206, LVCC
+    by			: Josh Grossman
     info		:
 
   - event		: Training at BlackHat USA 2025
@@ -61,9 +104,9 @@ items		:
     year		: 2025
     date		: August 4th-5th
     dateval	: 2025-08-04
-    title		: "Breaking Bad Privacy		: Practical Skills for the Security Team"
+    title		: "Breaking Bad Privacy: Practical Skills for the Security Team"
     img			: assets/img/events/blackhatlogo2025.png
-    url			: https://www.blackhat.com/us-25/training/schedule/index.html#breaking-bad-privacy-practical-skills-for-the-security-team-444441736876492
+    url			: https://blackhat.com/us-25/training/schedule/index.html#breaking-bad-privacy-practical-skills-for-the-security-team-online-44444
     by			: Avi Douglen with Dr. Kim Wuyts
     #course	: privacy
     delivery: In-person
@@ -74,7 +117,7 @@ items		:
     year		: 2025
     date		: June 5th
     dateval	: 2025-06-05
-    title		: "No Size Fits All		: Customized Application Security Tests"
+    title		: "No Size Fits All: Customized Application Security Tests"
     img			: assets/img/secappdev logo.png
     url			: https://secappdev.org/2025/sessions/no-size-fits-all-customized-application-security-tests/
     by			: Avi Douglen
@@ -95,7 +138,7 @@ items		:
     year		: 2025
     date		: June 3rd
     dateval	: 2025-06-03
-    title		: "Get out of your Bubble		: Collaborative Threat Modeling"
+    title		: "Get out of your Bubble: Collaborative Threat Modeling"
     img			: assets/img/secappdev logo.png
     url			: https://secappdev.org/2025/sessions/get-out-of-your-bubble-collaborative-threat-modeling/
     by			: Avi Douglen
@@ -108,9 +151,9 @@ items		:
     title		: Introducing the OWASP ASVS 5.0 release
     youtube	: v13FwJKRC_w
     embed		: https://www.youtube-nocookie.com/embed/v13FwJKRC_w
-    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7333865869892067333
+    url			: https://www.linkedin.com/feed/update/urn:li:activity:7333865869892067333
     by			: Josh Grossman
-    type		: interview
+    type		: podcast
     info		:
 
   - event		: Training at OWASP Global AppSec Barcelona 2025
@@ -130,13 +173,23 @@ items		:
     year		: 2025
     date		: 15th May
     dateval	: 2025-05-15
-    title		: "Building, Breaking, Defending		: Inside a Global AppSec Movement"
+    title		: "Building, Breaking, Defending: Inside a Global AppSec Movement"
     youtube	: 3j3MM7cxkss
     embed		: https://www.youtube-nocookie.com/embed/3j3MM7cxkss
-    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7328879623184801793/
+    url			: https://www.linkedin.com/feed/update/urn:li:activity:7328879623184801793/
     by			: Avi Douglen
-    type		: interview
+    type		: podcast
   
+  - event		: Keynote at Threat Modeling Hackathon
+    year		: 2025
+    date		: April 1st 
+    dateval	: 2025-04-01
+    title		: Only Fools Rush into Love and Secure Design
+    youtube	: bHDu-Zo7BKw
+    url     : https://www.threatmodelingconnect.com/hackathon
+    by			: Avi Douglen
+    type		: keynote 
+
   - event		:  DevSecNext by Jit
     dateval	: 2025-01-14
     title		: "Get Ready for the OWASP ASVS 5.0"
@@ -174,7 +227,7 @@ items		:
     year		: 2024
     date		: May 8th
     dateval	: 2024-05-08
-    title		: "Not another Top 10		: Getting Business Value from SBoMs"
+    title		: "Not another Top 10: Getting Business Value from SBoMs"
     img			: assets/img/events/RSAC2024.png
     url			: https://www.rsaconference.com/usa/agenda/session/SBOM%20The%20good%20the%20bad%20and%20the%20ugly  
     by			: Avi Douglen 
@@ -208,7 +261,7 @@ items		:
 
   - event		: "Cyber Security Virtual Meetups"
     dateval	: 2024-03-06
-    title		: "Talk title		: The Real AppSec Issues"
+    title		: "Talk title: The Real AppSec Issues"
     youtube	: kF_g-1YgfSg
     embed		: https://www.youtube-nocookie.com/embed/kF_g-1YgfSg
     url			: https://www.meetup.com/cyber-security-virtual-meetups/events/299404911/
@@ -232,7 +285,7 @@ items		:
     year		: 2024
     date		: August 5th-6th
     dateval	: 2024-08-05
-    title		: "Accurate and Scalable		: Web Application Bug Hunting"
+    title		: "Accurate and Scalable: Web Application Bug Hunting"
     img			: assets/img/events/blackhatlogo2024.png
     url			: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-372101705524544
     by			: Michal Kamensky
@@ -245,7 +298,7 @@ items		:
     year		: 2024
     date		: August 3rd-4th
     dateval	: 2024-08-03
-    title		: "Accurate and Scalable		: Web Application Bug Hunting"
+    title		: "Accurate and Scalable: Web Application Bug Hunting"
     img			: assets/img/events/blackhatlogo2024.png
     url			: https://www.blackhat.com/us-24/training/schedule/index.html#accurate-and-scalable-web-application-bug-hunting-37210
     by			: Michal Kamensky
@@ -256,7 +309,7 @@ items		:
 
   - event		:  (ISC)2 Meetup February 2023
     dateval	: 2023-02-02
-    title		: "Talk title		: The Real AppSec Issues"
+    title		: "Talk title: The Real AppSec Issues"
     img			: assets/img/isc2meetup.jpg
     url			: https://www.eventbrite.com/e/isc2-application-security-event-with-checkmarx-and-bounce-security-tickets-473968050197
     by			: Josh Grossman
@@ -273,7 +326,7 @@ items		:
     
   - event		:  NDC Security 2024 (Conference)
     dateval	: 2024-01-11
-    title		: "No Size Fits All		: Empowering Engineers with Custom Application Security tests"
+    title		: "No Size Fits All: Empowering Engineers with Custom Application Security tests"
     youtube	: ZdqFDiaaeNc
     embed		: https://www.youtube-nocookie.com/embed/ZdqFDiaaeNc
     url			: https://ndc-security.com/agenda/no-size-fits-all-empowering-engineers-with-custom-application-security-tests-0mgr/09szzp7feis
@@ -334,7 +387,7 @@ items		:
     title		: Dark Reading News Desk
     youtube	: 7pGS8Ge2Tbs
     embed		: https://www.youtube-nocookie.com/embed/live/tqW--YelyPA?feature=share&t=5333
-    url			: https://www.linkedin.com/feed/update/urn		:li		:activity		:7095780902043082752/
+    url			: https://www.linkedin.com/feed/update/urn:li:activity:7095780902043082752/
     by			: Josh Grossman
     type		: podcast    
     info		:
