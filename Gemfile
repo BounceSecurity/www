@@ -31,7 +31,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 # Performance-booster for watching directories on Windows
-# gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
@@ -41,5 +41,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "bulma-clean-theme"
 
 gem 'jekyll-redirect-from'
-
-gem 'logger' 
