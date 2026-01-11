@@ -149,7 +149,7 @@ items		:
     date		: 31st May
     dateval	: 2025-05-31
     title		: "Privacy by Design in Action: Campfire Tales, Fables, and Takeaways"
-    img			: assets/img/tmcon25.png
+    img			: assets/img/events/tmcon25.png
     url			: https://www.threatmodcon.com/agenda/privacy-by-design-in-action-campfire-tales-fables-and-takeaways
     by			: Avi Douglen
     type		: workshop
@@ -971,4 +971,5 @@ items		:
     url			: https://owasp.org/www-chapter-israel/
     by			: Avi Douglen
     info		:
+
 
