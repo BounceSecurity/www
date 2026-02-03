@@ -41,7 +41,7 @@ items:
     call_to_action_name: Read More
     call_to_action_link: /training/bughunting/
 
-  - title: "Achieving Scalable Code Security Scanning through AI Acceleration"
+  - title: "Repeatable, Scalable and Valuable Code Security Scanning"
     icon: fa-robot
     description: >
       I want an end to end master class on securing my codebases
