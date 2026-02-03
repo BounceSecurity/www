@@ -51,5 +51,6 @@ threatmodeling
 skillset
 skillsets
 Hackeriot
+aisast
 ISACA
 Manicode
