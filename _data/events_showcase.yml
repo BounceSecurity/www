@@ -1,5 +1,18 @@
 items		:
 
+  - event		: Training at OWASP Global AppSec Vienna 2026
+    year		: 2026
+    date		: 23rd-24th June
+    dateval	: 2026-06-24
+    title		: Repeatable, Scalable, and Valuable Code Security Scanning
+    img			: assets/img/events/AppSec_Vienna_Training_2_Days_Linkedin_Josh_Grossman.jpg
+    url			: https://owaspglobalappseceuvienna20.sched.com/event/2EB8l
+    by			: Josh Grossman
+    course	: aisast
+    delivery: In-Person
+    type		: training
+    info		: 
+
   - event		: Training at OWASP London Training 2026
     year		: 2026
     date		: 25th Feb
@@ -13,18 +26,6 @@ items		:
     type		: training
     info		: 
 
-  - event		: Training at OWASP London Training 2026
-    year		: 2026
-    date		: 25th-26th Feb
-    dateval	: 2026-02-25
-    title		: Building a High-Value AppSec Scanning Programme
-    img			: assets/img/events/londontraining.jpeg
-    url			: https://owasp.glueup.com/event/162538/register/
-    by			: Josh Grossman
-    course	: valuenotvulns
-    delivery: In-Person
-    type		: training
-    info		: 
 
   - event   : Keynote at OWASP BeNeLux 2025 
     year		: 2025
