@@ -40,7 +40,7 @@ The Black Hat version of this course "Achieving Scalable Code Security Scanning 
 
 - A deeper dive into custom static rules and combining static and AI rules
 - Using RAG/context based techniques for better AI-based scanning
-- A market overview comparing what is availabile to what we are discussing in the course
+- A market overview comparing what is available to what we are discussing in the course
 - More detail on integrating into CI/CD processes
 
 ### Course Background
