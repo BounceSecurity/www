@@ -54,4 +54,3 @@ Hackeriot
 aisast
 ISACA
 Manicode
-aisast
