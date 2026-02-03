@@ -43,18 +43,6 @@ The Black Hat version of this course "Achieving Scalable Code Security Scanning 
 - A market overview comparing what is available to what we are discussing in the course
 - More detail on integrating into CI/CD processes
 
-### Course Background
-
-**[Back to top ↑](#top)**
-
-The issues with generic SAST (Static Application Security Testing) have been understood for quite some time. These tools often miss important vulnerabilities while, at the same time, generating a large number of false positives or findings that aren’t particularly useful.
-
-For several years, (as part of my work providing application security consulting and “on the ground” assistance to various organisations) I’ve been working on ways to complement generic SAST with custom checks. The rise of AI-powered coding assistants has helped complete this picture, giving us the ability to create custom tests that aren’t limited to static rules. This included not only writing the actual roles but actually operationalizing this into an organizational process with the technical and cultural challenges this entails.
-
-I have seen high-impact issues at organizations such as missing authorization controls (especially where there is no single convention for this), misuse of internally developed libraries, unsafe use of dangerous functionality (where it was not possible to use a safer function instead), and inconsistent use of custom sanitization libraries. In each case, generic SAST was of no use whatsoever in detecting these issues and therefore a solution that would provide customized, ongoing, and repeatable coverage was the only way to prevent these. 
-
-At the same time, with the meteoric rise in AI coding assistants, I have seen developers submit an entire new microservice in one shot, often without referring to any internal security guidance that exists. There is work to be done to try and address this earlier in the process but a detection based safety net is going to be needed in the interim.
-
 ### Key Takeaways
 
 **[Back to top ↑](#top)**
