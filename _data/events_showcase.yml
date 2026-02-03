@@ -8,6 +8,7 @@ items		:
     img			: assets/img/events/AppSec_Vienna_Training_2_Days_Linkedin_Josh_Grossman.jpg
     url			: https://owaspglobalappseceuvienna20.sched.com/event/2EB8l
     by			: Josh Grossman
+    course	: aisast
     delivery: In-Person
     type		: training
     info		: 
