@@ -24,6 +24,33 @@ $body-family: 'Ubuntu', 'Nunito Sans', Calibri, Verdana, Segoe, Arial, sans-seri
 // Import Main CSS file from theme
 @import "main";
 
+// Override Bulma 1.x's WCAG-derived color adjustments to match the previous design:
+// - Force white text on primary-colored backgrounds (hero, navbar, buttons)
+// - Keep link/primary text at the original orange lightness instead of Bulma's
+//   darkened "on-scheme" variant which produces a muddy brown
+// - Reset navbar dropdown text to neutral (not orange-tinted) for readability
+:root {
+	--bulma-primary-invert-l: 100%;
+	--bulma-primary-invert: hsl(0, 0%, 100%);
+	--bulma-link-invert-l: 100%;
+	--bulma-link-invert: hsl(0, 0%, 100%);
+	--bulma-primary-on-scheme-l: 55%;
+	--bulma-link-on-scheme-l: 55%;
+}
+
+// Navbar dropdown items inherit the primary hue/saturation in Bulma 1.x,
+// producing brown text on the white dropdown background. Reset to neutral.
+.navbar-dropdown {
+	--bulma-navbar-dropdown-item-h: var(--bulma-scheme-h);
+	--bulma-navbar-dropdown-item-s: var(--bulma-scheme-s);
+}
+
+// The burger menu color defaults to --bulma-link which is orange,
+// making it invisible on the orange is-primary navbar. Force white.
+.navbar.is-primary .navbar-burger {
+	color: white;
+}
+
 
 .content {
 	text-align: justify
