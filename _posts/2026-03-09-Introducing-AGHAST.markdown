@@ -89,7 +89,7 @@ Today, we at Bounce Security are open sourcing this tool for you to use and buil
 
 #### What AGHAST Does
 
-AGHAST helps you generate three types of checks:
+AGHAST helps you run three types of checks:
 
 - **Pure AI scanning rules** - let the LLM do all the analysis
 - **A combination of a static rule and an AI scanning rule** - the sweet spot for most use cases
