@@ -28,13 +28,13 @@ Every security team has asked some version of this question: "Can our scanner ch
 
 #### The Gap in Generic Scanning
 
-A couple of years ago, I started thinking about a particular problem in application security. There were loads of generic code scanning tools that would tell you about basic technical vulnerabilities, things like SQLi, XSS, the usual suspects. But what if I wanted to find something that was code-specific or company-specific?
+A couple of years ago, we started thinking about a particular problem in application security. There were loads of generic code scanning tools that would tell you about basic technical vulnerabilities, things like SQLi, XSS, the usual suspects. But what if we wanted to find something that was code-specific or company-specific?
 
 Some of the scanning tools provide a custom rules mechanism, which is often very complicated. It was not until [Semgrep](https://semgrep.dev/docs/cli-reference) came about that a powerful but simple way of writing custom code scanning rules was available.
 
 #### The Questions Nobody Else Could Answer
 
-The sorts of questions I wanted to answer were:
+The sorts of questions we wanted to answer were:
 
 - Has this custom business verification been implemented correctly?
 - Has the company's custom authorization mechanism been used in the right way?
@@ -50,7 +50,7 @@ Working with [Michal Kamensky](https://www.linkedin.com/in/michal-kamensky-a6580
 
 The aim was simple: provide a straightforward way to get an answer to a codebase-specific or company-specific question.
 
-I also started using this mechanism with clients to secure their codebases. However, the simplicity was sometimes a drawback. Diagnosing certain problems could be very complex or even impossible for a static rule alone to establish.
+We also started using this mechanism with clients to secure their codebases. However, the simplicity was sometimes a drawback. Diagnosing certain problems could be very complex or even impossible for a static rule alone to establish.
 
 Something was missing. Static rules could get us part of the way but were not good enough for every circumstance.
 
@@ -58,7 +58,7 @@ Something was missing. Static rules could get us part of the way but were not go
 
 Thankfully at this point, LLMs came to the rescue. Suddenly we had LLMs and coding agents that were very good at understanding and interpreting code.
 
-I started by moving from static rules to LLM prompts and quickly discovered that once you reached a certain codebase size, the results became unreliable. Feeding an entire codebase to an LLM and asking "find the problems" is a bit like asking someone to proofread the internet: technically possible, practically useless.
+We started by moving from static rules to LLM prompts and quickly discovered that once you reached a certain codebase size, the results became unreliable. Feeding an entire codebase to an LLM and asking "find the problems" is a bit like asking someone to proofread the internet: technically possible, practically useless.
 
 That led to a key realization: why not combine these two techniques?
 
@@ -155,13 +155,13 @@ However, we did not release this for companies to package up and sell within the
 
 #### Prior and Parallel Work
 
-No tool exists in a vacuum. I want to acknowledge some prior and parallel work in this area that both inspired and validated the direction we took.
+No tool exists in a vacuum. We want to acknowledge some prior and parallel work in this area that both inspired and validated the direction we took.
 
 ##### Semgrep
 
 [![Semgrep](/assets/img/2026-03-aghast-intro/semgrep.svg){: .blog-image}](https://semgrep.dev/)
 
-Firstly, I want to give a shout out to the team at **[Semgrep, Inc](https://semgrep.dev/)** for building a fantastic tool for simple static scanning. They truly revolutionized this space and we stand on their shoulders as do many others.
+Firstly, we want to give a shout out to the team at **[Semgrep, Inc](https://semgrep.dev/)** for building a fantastic tool for simple static scanning. They truly revolutionized this space and we stand on their shoulders as do many others.
 
 [Semgrep Community Edition](https://semgrep.dev/docs/cli-reference) is a key part of AGHAST today, although the system is also extensible and could support OpenGrep or other static discovery mechanisms.
 
@@ -192,7 +192,7 @@ AGHAST looks for **specific issues you define** and returns a **specific, well-f
                                                  
 ```
 
-(I had to reproduce their [funky ASCII art](https://github.com/gadievron/raptor/blob/main/README.md))
+(We had to reproduce their [funky ASCII art](https://github.com/gadievron/raptor/blob/main/README.md))
 
 At the start of the year, our friends [Gadi Evron](https://www.linkedin.com/in/gadievron/), [Daniel Cuthbert](https://www.linkedin.com/in/daniel-cuthbert0x/) [and others](https://github.com/gadievron/raptor#raptor---autonomous-offensivedefensive-security-research-framework-based-on-claude-code) released RAPTOR, which performs agentic code scanning for various scenarios.
 
@@ -204,7 +204,7 @@ While we initially considered building on Raptor, the design philosophy differs 
 
 [![OpenAnt](/assets/img/2026-03-aghast-intro/open-ant-black.png){: .blog-image}](https://www.knostic.ai/openant)
 
-More recently, [Gadi Evron](https://www.linkedin.com/in/gadievron/) and [team](https://www.knostic.ai/) released [OpenAnt](https://www.knostic.ai/blog/oss-scan). I saw it about a week before release and thought their approach for focusing the LLM's attention on particular areas of code at a time was super interesting.
+More recently, [Gadi Evron](https://www.linkedin.com/in/gadievron/) and [team](https://www.knostic.ai/) released [OpenAnt](https://www.knostic.ai/blog/oss-scan). We saw it about a week before release and thought their approach for focusing the LLM's attention on particular areas of code at a time was super interesting.
 
 The key difference again is that AGHAST is oriented around specific checks and explicit criteria that determine which parts of the codebase are examined.
 
