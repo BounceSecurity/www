@@ -6,22 +6,33 @@ date:   2026-03-09 15:30:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
+image: /assets/img/2026-03-aghast-intro/aghastbouncecaption.png
 summary: Introducing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 ---
 
-## Introduction
+#### tl;dr
+
+Today, we are releasing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+
+![AGHAST logo](/assets/img/2026-03-aghast-intro/aghastbouncecaption.png){: .blog-image}
+
+If you want to try it out, you can find information here in the [Github repository](https://github.com/BounceSecurity/aghast).
+
+If you want to understand more about the background, read on!
+
+#### Introduction
 
 Every security team has asked some version of this question: "Can our scanner check for *that*?" Usually, the answer is no - or at best, "it's complicated." That frustration is exactly where this story begins.
 
 ![16:9. Digital art illustration of a security professional standing in front of a wall of code screens, looking frustrated at generic vulnerability alerts while unique, company-specific security issues float past undetected, shown as glowing red symbols slipping through a digital net. Cool blue and red color scheme, cybersecurity concept art style, modern and clean.](/assets/img/2026-03-aghast-intro/confused.png){: .blog-image}
 
-## The Gap in Generic Scanning
+#### The Gap in Generic Scanning
 
 A couple of years ago, I started thinking about a particular problem in application security. There were loads of generic code scanning tools that would tell you about basic technical vulnerabilities, things like SQLi, XSS, the usual suspects. But what if I wanted to find something that was code-specific or company-specific?
 
 Some of the scanning tools provide a custom rules mechanism, which is often very complicated. It was not until [Semgrep](https://semgrep.dev/docs/cli-reference) came about that a powerful but simple way of writing custom code scanning rules was available.
 
-## The Questions Nobody Else Could Answer
+#### The Questions Nobody Else Could Answer
 
 The sorts of questions I wanted to answer were:
 
@@ -33,54 +44,62 @@ These are questions that are specific to a codebase or organization, and basical
 
 ![16:9. Illustration of three interconnected puzzle pieces, each containing a different security question mark symbol, floating above a stylized codebase represented as a city grid. The puzzle pieces glow with warm orange light against a dark blue background. Digital art style, clean lines, concept art for software security.](/assets/img/2026-03-aghast-intro/puzzle-pieces.png){: .blog-image}
 
-## From Research to Real-World Use
+#### From Research to Real-World Use
 
-Working with Michal Kamensky, we prepared a talk and eventually a training course focused around this area of custom tests. The research initially focused on static testing, and for the training course also included dynamic testing.
+Working with [Michal Kamensky](https://www.linkedin.com/in/michal-kamensky-a65804247/), we prepared a [talk](https://www.youtube.com/watch?v=KuNZzDjvMlg) and eventually [a training course](https://www.bouncesecurity.com/training/bughunting) focused around this area of custom tests. The research initially focused on static testing, and for the training course also included dynamic testing.
 
-The aim was simple: provide a straightforward way to get an answer to a code-based or company-specific question.
+The aim was simple: provide a straightforward way to get an answer to a codebase-specific or company-specific question.
 
-I also started using this mechanism with clients to secure their codebases. However, the simplicity was sometimes a drawback. Diagnosing certain problems could be complex or even impossible for a static rule alone to establish.
+I also started using this mechanism with clients to secure their codebases. However, the simplicity was sometimes a drawback. Diagnosing certain problems could be very complex or even impossible for a static rule alone to establish.
 
-## Enter LLMs
+Something was missing. Static rules could get us part of the way but were not good enough for every circumstance.
+
+#### Enter LLMs
 
 Thankfully at this point, LLMs came to the rescue. Suddenly we had LLMs and coding agents that were very good at understanding and interpreting code.
 
-I started by moving from static rules to LLM prompts and quickly discovered that once you reached a certain codebase size, the results became unreliable.
+I started by moving from static rules to LLM prompts and quickly discovered that once you reached a certain codebase size, the results became unreliable. Feeding an entire codebase to an LLM and asking "find the problems" is a bit like asking someone to proofread the internet: technically possible, practically useless.
 
 That led to a key realization: why not combine these two techniques?
 
 - Use **static rules** to narrow down to particular areas of the codebase.
 - Use an **AI prompt** to investigate that specific area in depth.
 
-## The Orchestration Problem
+Think of it as a metal detector on a beach: the static rule tells you where to dig, and the AI carefully examines what you find.
+
+![16:9. Digital art illustration of a two-stage process shown as a funnel diagram. The top wide section shows scattered code files with a magnifying glass labeled 'Static Rules' filtering them down. The narrow bottom section shows a glowing AI brain analyzing a small focused set of code. Gradient from cool blue at top to vibrant purple at bottom. Clean, modern infographic style, technical illustration.](/assets/img/2026-03-aghast-intro/funnel.png){: .blog-image}
+
+#### The Orchestration Problem
 
 That approach works conceptually, but it introduces another challenge:
 
 How do you orchestrate this at scale, in a repeatable way, and in a way that integrates with existing processes?
 
-## The Answer: AGHAST
+Running a one-off combination of a Semgrep rule plus an LLM prompt is one thing. Doing it consistently across multiple codebases, in CI pipelines, with structured output requires slightly more plumbing.
+
+#### The Answer: AGHAST
 
 The answer is **AGHAST**.
 
 This is a tool that has been germinating for about six months.
 
-**AGHAST** stands for **AI-Guided High-Fidelity Application Static Testing**, and it is the tool that allows me to orchestrate tests based on this custom test philosophy.
+**AGHAST** stands for **AI-Guided High-Fidelity Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
 
-Today, we at **Arm Security** are open sourcing this tool for you to use and build on as well.
+Today, we at **Bounce Security** are open sourcing this tool for you to use and build on as well.
 
-## What AGHAST Does
+#### What AGHAST Does
 
-AGHAST helps you generate:
+AGHAST helps you generate three types of checks:
 
-- **Pure AI scanning rules**
-- **A combination of a static rule and an AI scanning rule**
-- **Purely static rules** (for completeness)
+- **Pure AI scanning rules** - let the LLM do all the analysis
+- **A combination of a static rule and an AI scanning rule** - the sweet spot for most use cases
+- **Purely static rules** - for completeness, when a traditional static rule is all you need
 
-You don't need to:
+The beauty of the approach is what you *don't* need:
 
-- Modify the code
-- Build something into the codebase
-- Write code in the language of the codebase
+- You don't need to modify the code
+- You don't need to build something into the codebase
+- You don't need to write code in the language of the codebase
 
 All you need is:
 
@@ -90,24 +109,29 @@ All you need is:
 
 There are almost certainly other ways of achieving this, but to our mind, this approach is both **straightforward** and **deterministic**.
 
-## Additional Features
+#### Built for the Real World
 
-Aside from the basic function, there are several features designed to make AGHAST easy to use and integrate.
+Aside from the basic function, there are several features designed to make AGHAST easy to use and integrate into your existing workflow.
 
-### 1. CI Pipeline Integration
+![16:9. Isometric digital art illustration showing AGHAST as a central hub connected to four satellite components: a CI/CD pipeline conveyor belt, interchangeable LLM provider blocks, output format documents (JSON, SARIF), and a configuration gear mechanism. Clean lines, modern tech illustration style, blue and teal color palette with white background.](/assets/img/2026-03-aghast-intro/architecture.png){: .blog-image}
 
-From the beginning, AGHAST was designed to work easily within automated **CI pipelines**. We anticipate that most teams will find it most useful in this context over the long run.
+##### 1. CI Pipeline Integration
 
-### 2. Pluggable LLM Providers
+From the beginning, AGHAST was designed to work easily within automated CI pipelines, utilizing a simple install process, text based configuration and a single CLI call to run.
 
-The current implementation is based around **Claudecode** and the **Anthropic Agentic API**.
+We anticipate that most teams will find it most useful in this context in the long run. Set it up once, and it runs with every build.
+
+##### 2. Pluggable LLM Providers
+
+The current implementation is based around Claude Code and the Anthropic Agentic API.
 
 However, the design intentionally allows for pluggability, so it can support:
 
 - Different API providers
 - Different LLM providers
 
-### 3. Pluggable Output Formats
+No vendor lock-in here - use whatever works best for your team.
+
 
 Output formats are also designed to be pluggable.
 

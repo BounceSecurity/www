@@ -54,3 +54,6 @@ Hackeriot
 aisast
 ISACA
 Manicode
+agentic
+SARIF
+pluggability
