@@ -84,6 +84,15 @@ collections:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - mixed-decls
+    - if-function
+
 exclude:
     - README.md
     - localrun.bat
