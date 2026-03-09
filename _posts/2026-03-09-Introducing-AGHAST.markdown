@@ -8,6 +8,8 @@ hero_height: is-small
 author: josh
 image: /assets/img/2026-03-aghast-intro/aghastbouncecaption.png
 summary: Introducing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+redirect_from:
+  - /aghast
 ---
 
 #### tl;dr
