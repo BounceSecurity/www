@@ -15,6 +15,7 @@ hero_height: is-small
 
 
         {% if page.call_link != "NONE" %}
+            <hr>
             <a href="{{ page.call_link | relative_url }}?subject=Information about {{page.title}}" class="button is-primary is-medium">{{ page.call_text }}</a>
         {% endif %}
 
