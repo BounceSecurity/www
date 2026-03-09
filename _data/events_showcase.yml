@@ -390,6 +390,7 @@ items		:
     title		: Building a High-Value AppSec Scanning Programme (SCA, SAST, DAST and More)
     img			: assets/img/BHUSA23.jpg
     url			: https://www.blackhat.com/us-23/training/schedule/index.html#building--a-high-value-appsec-scanning-programme-sca-sast-dast-and-more-30622 
+    course	: valuenotvulns
     by			: Josh Grossman
     type		: training
     info		:
@@ -577,6 +578,7 @@ items		:
     title		: Building a High-Value AppSec Scanning Programme - (Training)
     img			: assets/img/OWASP.png
     url			: https://dublin.globalappsec.org/trainers/#trainer006
+    course	: valuenotvulns
     by			: Josh Grossman
     info		:
 
@@ -634,6 +636,7 @@ items		:
     title		: Building a High-Value AppSec Scanning Programme (Training)
     img			: assets/img/OWASP global 2022 San Francisco.jpg
     url			: https://owasp2022globalappsecsf.sched.com/event/1BRnr/2-day-training-building-a-high-value-appsec-scanning-programme
+    course	: valuenotvulns
     by			: Josh Grossman
     info		:
 
