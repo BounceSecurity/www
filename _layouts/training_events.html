@@ -3,12 +3,18 @@ layout: service
 ---
 
 <!--
-    Note that if show_course is set to all, it will show all upcoming training courses
+    Note that if show_course is set to all, it will show all training courses
     from the events_showcase.yml file.
+    Set time_period to "past" in front matter to show past events,
+    otherwise upcoming events are shown.
 -->
 
+{% if page.time_period == "past" %}
+<h3>Previous public deliveries of the course</h3>
+{% else %}
 <h3>Public opportunities to take the course</h3>
+{% endif %}
 
-{% include upcoming_training_layout.html %}
+{% include training_events_layout.html time_period=page.time_period %}
 
 {{ content }}
