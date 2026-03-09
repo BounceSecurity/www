@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "AGHAST: AI-Guided High-Fidelity Application Static Testing"
-subtitle: "Introducing AGHAST, an open source tool for orchestrating custom code scanning with static rules and AI"
+title: "Introducing AGHAST: AI-Guided High-Fidelity Application Static Testing"
+subtitle: "An open source tool for orchestrating custom code scanning with static rules and AI"
 date:   2026-03-09 15:30:00 +0300
 categories: blog
 hero_height: is-small
@@ -9,13 +9,19 @@ author: josh
 summary: Introducing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 ---
 
-## Background
+## Introduction
 
-A couple of years ago, I started thinking about a particular problem in application security. There were loads of generic code scanning tools that would tell you about basic technical vulnerabilities, but what if I wanted to find something that was code-based specific or company specific?
+Every security team has asked some version of this question: "Can our scanner check for *that*?" Usually, the answer is no - or at best, "it's complicated." That frustration is exactly where this story begins.
 
-Some of the scanning tools provide a custom rules mechanism, which is often very complicated. It wasn't until Semgrep came about that a powerful but simple way of writing custom code scanning rules was available.
+![16:9. Digital art illustration of a security professional standing in front of a wall of code screens, looking frustrated at generic vulnerability alerts while unique, company-specific security issues float past undetected, shown as glowing red symbols slipping through a digital net. Cool blue and red color scheme, cybersecurity concept art style, modern and clean.](/assets/img/2026-03-aghast-intro/confused.png){: .blog-image}
 
-## The Problem Space
+## The Gap in Generic Scanning
+
+A couple of years ago, I started thinking about a particular problem in application security. There were loads of generic code scanning tools that would tell you about basic technical vulnerabilities, things like SQLi, XSS, the usual suspects. But what if I wanted to find something that was code-specific or company-specific?
+
+Some of the scanning tools provide a custom rules mechanism, which is often very complicated. It was not until [Semgrep](https://semgrep.dev/docs/cli-reference) came about that a powerful but simple way of writing custom code scanning rules was available.
+
+## The Questions Nobody Else Could Answer
 
 The sorts of questions I wanted to answer were:
 
@@ -23,9 +29,11 @@ The sorts of questions I wanted to answer were:
 - Has the company's custom authorization mechanism been used in the right way?
 - Has authorization been applied consistently, given that this company had lots of different ways of doing it?
 
-These are questions that are specific to a codebase or organization, and difficult for generic security scanners to answer.
+These are questions that are specific to a codebase or organization, and basically impossible for generic static security scanners to answer. They require *context* to understand how things *should* work, not just what is technically vulnerable.
 
-## Early Work
+![16:9. Illustration of three interconnected puzzle pieces, each containing a different security question mark symbol, floating above a stylized codebase represented as a city grid. The puzzle pieces glow with warm orange light against a dark blue background. Digital art style, clean lines, concept art for software security.](/assets/img/2026-03-aghast-intro/puzzle-pieces.png){: .blog-image}
+
+## From Research to Real-World Use
 
 Working with Michal Kamensky, we prepared a talk and eventually a training course focused around this area of custom tests. The research initially focused on static testing, and for the training course also included dynamic testing.
 
