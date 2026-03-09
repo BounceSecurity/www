@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing AGHAST: AI-Guided High-Fidelity Application Static Testing"
-subtitle: "An open source tool for orchestrating custom code scanning with static rules and AI"
+subtitle: "An open source custom code scanner blending static rules and AI"
 date:   2026-03-09 15:30:00 +0300
 categories: blog
 hero_height: is-small
@@ -85,7 +85,7 @@ This is a tool that has been germinating for about six months.
 
 **AGHAST** stands for **AI-Guided High-Fidelity Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
 
-Today, we at **Bounce Security** are open sourcing this tool for you to use and build on as well.
+Today, we at Bounce Security are open sourcing this tool for you to use and build on as well.
 
 #### What AGHAST Does
 
@@ -132,75 +132,88 @@ However, the design intentionally allows for pluggability, so it can support:
 
 No vendor lock-in here - use whatever works best for your team.
 
+##### 3. Pluggable Output Formats
 
-Output formats are also designed to be pluggable.
+Output formats are also designed to be pluggable. Currently supported formats include  JSON and SARIF but it will be straightforward to extend this to other formats as well.
 
-Currently supported formats include:
-
-- **JSON**
-- **SARIF**
-
-But it should be straightforward to extend this to other formats as well.
-
-### 4. Flexible Configuration Mechanism
+##### 4. Flexible Configuration Mechanism
 
 AGHAST includes a flexible configuration mechanism.
 
 This allows checks to be specified in multiple ways:
 
-- **Per-codebase configuration**
-- **Central configuration containing definitions for multiple codebases**
+- **Per-codebase configuration** - tailor checks to individual projects
+- **Central configuration containing definitions for multiple codebases** - manage everything from one place
 
-This makes it easy to define a CI job in one place using a **master configuration file**, which can then apply across multiple codebases that use the same CI job.
+This makes it easy to define a CI job in one place using a single configuration file, which can then apply across multiple codebases that use the same CI job.
 
-## Prior and Parallel Work
+#### Protection of our work
 
-I want to note some prior and parallel work in this area.
+We want this tool to be widely available to practitioners to use in their environments or to consultants to implement in client environments.
 
-### Semgrep
+However, we did not release this for companies to package up and sell within their own commercial product offerings. For this reason, we have licenced under AGPL. Regardless of the specifics of the license, do not build and sell a product around this tool or including this tool. 
 
-Firstly, I want to call out **Semgrep** for building a fantastic tool for simple static scanning. They truly revolutionized this space.
+#### Prior and Parallel Work
 
-The **community edition** is a key part of AGHAST today.
+No tool exists in a vacuum. I want to acknowledge some prior and parallel work in this area that both inspired and validated the direction we took.
 
-The system is also extensible and could support:
+##### Semgrep
 
-- **OpenGrep**
-- Other static discovery mechanisms
+[![Semgrep](/assets/img/2026-03-aghast-intro/semgrep.svg){: .blog-image}](https://semgrep.dev/)
 
-### Anthropic Code Security
+Firstly, I want to give a shout out to the team at **[Semgrep, Inc](https://semgrep.dev/)** for building a fantastic tool for simple static scanning. They truly revolutionized this space and we stand on their shoulders as do many others.
 
-A few weeks ago, **Anthropic released their code security product** to much fanfare — and some gnashing of shareholder teeth — followed by similar releases from other LLM providers.
+[Semgrep Community Edition](https://semgrep.dev/docs/cli-reference) is a key part of AGHAST today, although the system is also extensible and could support OpenGrep or other static discovery mechanisms.
+
+##### Anthropic Code Security (et al)
+
+A few weeks ago, Anthropic released their code security product to much fanfare (and gnashing of shareholder teeth) followed by similar releases from other LLM providers.
 
 That product appears to focus on giving an LLM a codebase and seeing what vulnerabilities emerge.
 
 AGHAST differs in a key way:
 
-- Those tools are **exploratory**
-- AGHAST is **goal-driven**
+- Those tools are exploratory - "tell me what you find"
+- AGHAST is goal-driven - "tell me about *this specific thing*"
 
 AGHAST looks for **specific issues you define** and returns a **specific, well-formed answer** about those issues.
 
-### Raptor
+##### RAPTOR
 
-At the start of the year, some friends released **Raptor**, which performs agentic code scanning across various scenarios.
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠿⠿⠟
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣤⣴⣶⣶⣶⣤⣿⡿⠁⠀⠀⠀
+⣀⠤⠴⠒⠒⠛⠛⠛⠛⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⣿⣿⣿⡟⠻⢿⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⢿⣿⠟⠀⠸⣊⡽⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⣿⡁⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⣿⣧⠀ Get them bugs.....⠀⠀⠀⠀⠀⠀⠀⠀
+                                                 
+```
 
-It is particularly strong for **offensive work** and moving from **vulnerability discovery to exploitation**.
+(I had to reproduce their [funky ASCII art](https://github.com/gadievron/raptor/blob/main/README.md))
 
-While I initially considered building on Raptor, the design philosophy differs enough that it ultimately made more sense to build separately.
+At the start of the year, our friends [Gadi Evron](https://www.linkedin.com/in/gadievron/), [Daniel Cuthbert](https://www.linkedin.com/in/daniel-cuthbert0x/) [and others](https://github.com/gadievron/raptor#raptor---autonomous-offensivedefensive-security-research-framework-based-on-claude-code) released RAPTOR, which performs agentic code scanning for various scenarios.
 
-### OpenAnt
+It is particularly strong for offensive work and moving from vulnerability discovery to exploitation.
 
-More recently, **Gadi Everyone and team released OpenAnt**. I saw it about a week before release and was fascinated by their approach for focusing the LLM's attention on particular areas of code at a time.
+While we initially considered building on Raptor, the design philosophy differs enough that it ultimately made more sense to build separately.
 
-The key difference again is that AGHAST is oriented around **specific checks** and **explicit criteria** that determine which parts of the codebase are examined.
+##### OpenAnt
+
+[![OpenAnt](/assets/img/2026-03-aghast-intro/open-ant-black.png){: .blog-image}](https://www.knostic.ai/openant)
+
+More recently, [Gadi Evron](https://www.linkedin.com/in/gadievron/) and [team](https://www.knostic.ai/) released [OpenAnt](https://www.knostic.ai/blog/oss-scan). I saw it about a week before release and thought their approach for focusing the LLM's attention on particular areas of code at a time was super interesting.
+
+The key difference again is that AGHAST is oriented around specific checks and explicit criteria that determine which parts of the codebase are examined.
 
 Nevertheless, it was encouraging to see them independently arrive at the same conclusion:
 
-> A key differentiator for LLM-based analysis is **guiding the model to the specific area of the codebase it should examine**.
+> A key differentiator for LLM-based analysis is guiding the model to the specific area of the codebase it should examine rather than trying to load a whole codebase into context.
 
-## Closing Thoughts
+#### What Comes Next
 
-We think tools like **AGHAST** are going to be an important step in taking static code analysis to the next level of **usability** and **accuracy**.
+We think tools like **AGHAST** are going to be an important step in taking static code analysis to the next level of usability and accuracy. The combination of deterministic static rules and intelligent AI analysis opens up possibilities that neither approach could achieve alone.
 
-We're looking forward to seeing your feedback.
+We are looking forward to seeing your feedback - and even more, to seeing what custom checks you build with it!
