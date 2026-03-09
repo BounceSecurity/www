@@ -45,6 +45,12 @@ $body-family: 'Ubuntu', 'Nunito Sans', Calibri, Verdana, Segoe, Arial, sans-seri
 	--bulma-navbar-dropdown-item-s: var(--bulma-scheme-s);
 }
 
+// The burger menu color defaults to --bulma-link which is orange,
+// making it invisible on the orange is-primary navbar. Force white.
+.navbar.is-primary .navbar-burger {
+	color: white;
+}
+
 
 .content {
 	text-align: justify
