@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing AGHAST: AI-Guided High-Fidelity Application Static Testing"
+title: "Introducing AGHAST: AI-Guided Hybrid Application Static Testing"
 subtitle: "An open source custom code scanner blending static rules and AI"
 date:   2026-03-09 15:30:00 +0300
 categories: blog
@@ -85,7 +85,7 @@ The answer is **AGHAST**.
 
 This is a tool that has been germinating for about six months.
 
-**AGHAST** stands for **AI-Guided High-Fidelity Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
+**AGHAST** stands for **AI-Guided Hybrid Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
 
 Today, we at Bounce Security are open sourcing this tool for you to use and build on as well.
 
