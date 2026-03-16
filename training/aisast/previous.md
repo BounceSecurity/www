@@ -1,5 +1,5 @@
 ---
-title: "Achieving Scalable Code Security Scanning through AI Acceleration"
+title: "Repeatable, Scalable and Valuable Code Security Scanning"
 subtitle: An end to end masterclass on securing your codebases
 layout: training_events
 time_period: past
