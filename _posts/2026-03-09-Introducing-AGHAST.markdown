@@ -7,14 +7,14 @@ categories: blog
 hero_height: is-small
 author: josh
 image: /assets/img/2026-03-aghast-intro/aghastbouncecaption.png
-summary: Introducing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+summary: Introducing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 redirect_from:
   - /aghast
 ---
 
 #### tl;dr
 
-Today, we are releasing AGHAST, an open source tool that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+Today, we are releasing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 
 ![AGHAST logo](/assets/img/2026-03-aghast-intro/aghastbouncecaption.png){: .blog-image}
 
@@ -39,8 +39,8 @@ Some of the scanning tools provide a custom rules mechanism, which is often very
 The sorts of questions we wanted to answer were:
 
 - Has this custom business verification been implemented correctly?
-- Has the company's custom authorization mechanism been used in the right way?
-- Has authorization been applied consistently, given that this company had lots of different ways of doing it?
+- Has the company's custom authorization mechanism been used correctly and consistently?
+- Are API endpoints returning too wide a data set?
 
 These are questions that are specific to a codebase or organization, and basically impossible for generic static security scanners to answer. They require *context* to understand how things *should* work, not just what is technically vulnerable.
 
@@ -48,7 +48,7 @@ These are questions that are specific to a codebase or organization, and basical
 
 #### From Research to Real-World Use
 
-Working with [Michal Kamensky](https://www.linkedin.com/in/michal-kamensky-a65804247/), we prepared a [talk](https://www.youtube.com/watch?v=KuNZzDjvMlg) and eventually [a training course](https://www.bouncesecurity.com/training/bughunting) focused around this area of custom tests. The research initially focused on static testing, and for the training course also included dynamic testing.
+Working with [Michal Kamensky](https://www.linkedin.com/in/michal-kamensky-a65804247/), we delivered a [talk](https://www.youtube.com/watch?v=KuNZzDjvMlg) and eventually [a training course](https://www.bouncesecurity.com/training/bughunting) focused around this area of custom tests. The research initially focused on static testing, and for the training course also included dynamic testing.
 
 The aim was simple: provide a straightforward way to get an answer to a codebase-specific or company-specific question.
 
@@ -83,7 +83,7 @@ Running a one-off combination of a Semgrep rule plus an LLM prompt is one thing.
 
 The answer is **AGHAST**.
 
-This is a tool that has been germinating for about six months.
+This is a platform that has been germinating for about six months.
 
 **AGHAST** stands for **AI-Guided Hybrid Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
 
@@ -109,7 +109,7 @@ All you need is:
 - An understanding of the problem you are trying to discover
 - The ability to write some simple rules
 
-There are almost certainly other ways of achieving this, but to our mind, this approach is both **straightforward** and **deterministic**.
+There are almost certainly other ways of achieving this, but to our mind, this approach is **straightforward**, **deterministic**, and very **powerful**.
 
 #### Built for the Real World
 
@@ -123,20 +123,23 @@ From the beginning, AGHAST was designed to work easily within automated CI pipel
 
 We anticipate that most teams will find it most useful in this context in the long run. Set it up once, and it runs with every build.
 
-##### 2. Pluggable LLM Providers
+##### 2. Pluggable Components
 
-The current implementation is based around Claude Code and the Anthropic Agentic API.
+The current implementation uses Claude Code and the Anthropic Agentic API for AI analysis, and Semgrep Community Edition for static scanning.
 
-However, the design intentionally allows for pluggability, so it can support:
+However, the design intentionally allows for pluggability across the stack:
 
-- Different API providers
-- Different LLM providers
+- Different LLM and API providers
+- Different SAST engines (e.g., OpenGrep or other static discovery mechanisms)
+- Language agnostic by design
 
 No vendor lock-in here - use whatever works best for your team.
 
-##### 3. Pluggable Output Formats
+##### 3. Pluggable Outputs and Actions
 
-Output formats are also designed to be pluggable. Currently supported formats include  JSON and SARIF but it will be straightforward to extend this to other formats as well.
+Output formats are designed to be pluggable - currently supporting JSON and SARIF, with other formats straightforward to add.
+
+Beyond output formats, the platform could also be extended to support pluggable actions, enabling integration with ticketing systems, notifications, or other downstream workflows.
 
 ##### 4. Flexible Configuration Mechanism
 
@@ -151,9 +154,9 @@ This makes it easy to define a CI job in one place using a single configuration 
 
 #### Protection of our work
 
-We want this tool to be widely available to practitioners to use in their environments or to consultants to implement in client environments.
+We want AGHAST to be widely available, whether you are a practitioner using it in your own environment, or a consultant implementing it for clients.
 
-However, we did not release this for companies to package up and sell within their own commercial product offerings. For this reason, we have licenced under AGPL. Regardless of the specifics of the license, do not build and sell a product around this tool or including this tool. 
+AGHAST is licensed under AGPL to keep it open and ensure improvements flow back to the community. If you are interested in commercial licensing, professional support, or help implementing AGHAST in your organization, [get in touch](https://www.bouncesecurity.com/contact).
 
 #### Prior and Parallel Work
 
