@@ -2,11 +2,11 @@
 layout: post
 title: "Introducing AGHAST: AI-Guided Hybrid Application Static Testing"
 subtitle: "An open source custom code scanner blending static rules and AI"
-date:   2026-03-09 15:30:00 +0300
+date:   2026-04-13 04:00:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
-image: /assets/img/2026-03-aghast-intro/aghastbouncecaption.png
+image: /assets/img/2026-04-aghast-intro/aghastbouncecaption.png
 summary: Introducing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 redirect_from:
   - /aghast
@@ -16,7 +16,7 @@ redirect_from:
 
 Today, we are releasing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
 
-![AGHAST logo](/assets/img/2026-03-aghast-intro/aghastbouncecaption.png){: .blog-image}
+![AGHAST logo](/assets/img/2026-04-aghast-intro/aghastbouncecaption.png){: .blog-image}
 
 If you want to try it out, you can find information here in the [Github repository](https://github.com/BounceSecurity/aghast).
 
@@ -26,7 +26,7 @@ If you want to understand more about the background, read on!
 
 Every security team has asked some version of this question: "Can our scanner check for *that*?" Usually, the answer is no - or at best, "it's complicated." That frustration is exactly where this story begins.
 
-![16:9. Digital art illustration of a security professional standing in front of a wall of code screens, looking frustrated at generic vulnerability alerts while unique, company-specific security issues float past undetected, shown as glowing red symbols slipping through a digital net. Cool blue and red color scheme, cybersecurity concept art style, modern and clean.](/assets/img/2026-03-aghast-intro/confused.png){: .blog-image}
+![16:9. Digital art illustration of a security professional standing in front of a wall of code screens, looking frustrated at generic vulnerability alerts while unique, company-specific security issues float past undetected, shown as glowing red symbols slipping through a digital net. Cool blue and red color scheme, cybersecurity concept art style, modern and clean.](/assets/img/2026-04-aghast-intro/confused.png){: .blog-image}
 
 #### The Gap in Generic Scanning
 
@@ -44,7 +44,7 @@ The sorts of questions we wanted to answer were:
 
 These are questions that are specific to a codebase or organization, and basically impossible for generic static security scanners to answer. They require *context* to understand how things *should* work, not just what is technically vulnerable.
 
-![16:9. Illustration of three interconnected puzzle pieces, each containing a different security question mark symbol, floating above a stylized codebase represented as a city grid. The puzzle pieces glow with warm orange light against a dark blue background. Digital art style, clean lines, concept art for software security.](/assets/img/2026-03-aghast-intro/puzzle-pieces.png){: .blog-image}
+![16:9. Illustration of three interconnected puzzle pieces, each containing a different security question mark symbol, floating above a stylized codebase represented as a city grid. The puzzle pieces glow with warm orange light against a dark blue background. Digital art style, clean lines, concept art for software security.](/assets/img/2026-04-aghast-intro/puzzle-pieces.png){: .blog-image}
 
 #### From Research to Real-World Use
 
@@ -69,7 +69,7 @@ That led to a key realization: why not combine these two techniques?
 
 Think of it as a metal detector on a beach: the static rule tells you where to dig, and the AI carefully examines what you find.
 
-![16:9. Digital art illustration of a two-stage process shown as a funnel diagram. The top wide section shows scattered code files with a magnifying glass labeled 'Static Rules' filtering them down. The narrow bottom section shows a glowing AI brain analyzing a small focused set of code. Gradient from cool blue at top to vibrant purple at bottom. Clean, modern infographic style, technical illustration.](/assets/img/2026-03-aghast-intro/funnel.png){: .blog-image}
+![16:9. Digital art illustration of a two-stage process shown as a funnel diagram. The top wide section shows scattered code files with a magnifying glass labeled 'Static Rules' filtering them down. The narrow bottom section shows a glowing AI brain analyzing a small focused set of code. Gradient from cool blue at top to vibrant purple at bottom. Clean, modern infographic style, technical illustration.](/assets/img/2026-04-aghast-intro/funnel.png){: .blog-image}
 
 #### The Orchestration Problem
 
@@ -115,7 +115,7 @@ There are almost certainly other ways of achieving this, but to our mind, this a
 
 Aside from the basic function, there are several features designed to make AGHAST easy to use and integrate into your existing workflow.
 
-![16:9. Isometric digital art illustration showing AGHAST as a central hub connected to four satellite components: a CI/CD pipeline conveyor belt, interchangeable LLM provider blocks, output format documents (JSON, SARIF), and a configuration gear mechanism. Clean lines, modern tech illustration style, blue and teal color palette with white background.](/assets/img/2026-03-aghast-intro/architecture.png){: .blog-image}
+![16:9. Isometric digital art illustration showing AGHAST as a central hub connected to four satellite components: a CI/CD pipeline conveyor belt, interchangeable LLM provider blocks, output format documents (JSON, SARIF), and a configuration gear mechanism. Clean lines, modern tech illustration style, blue and teal color palette with white background.](/assets/img/2026-04-aghast-intro/architecture.png){: .blog-image}
 
 ##### 1. CI Pipeline Integration
 
@@ -164,7 +164,7 @@ No tool exists in a vacuum. We want to acknowledge some prior and parallel work 
 
 ##### Semgrep
 
-[![Semgrep](/assets/img/2026-03-aghast-intro/semgrep.svg){: .blog-image}](https://semgrep.dev/)
+[![Semgrep](/assets/img/2026-04-aghast-intro/semgrep.svg){: .blog-image}](https://semgrep.dev/)
 
 Firstly, we want to give a shout out to the team at **[Semgrep, Inc](https://semgrep.dev/)** for building a fantastic tool for simple static scanning. They truly revolutionized this space and we stand on their shoulders as do many others.
 
@@ -207,7 +207,7 @@ While we initially considered building on Raptor, the design philosophy differs 
 
 ##### OpenAnt
 
-[![OpenAnt](/assets/img/2026-03-aghast-intro/open-ant-black.png){: .blog-image}](https://www.knostic.ai/openant)
+[![OpenAnt](/assets/img/2026-04-aghast-intro/open-ant-black.png){: .blog-image}](https://www.knostic.ai/openant)
 
 More recently, [Gadi Evron](https://www.linkedin.com/in/gadievron/) and [team](https://www.knostic.ai/) released [OpenAnt](https://www.knostic.ai/blog/oss-scan). We saw it about a week before release and thought their approach for focusing the LLM's attention on particular areas of code at a time was super interesting.
 
