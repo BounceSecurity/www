@@ -54,3 +54,8 @@ Hackeriot
 aisast
 ISACA
 Manicode
+agentic
+SARIF
+pluggability
+aghastbouncecaption
+Evron
