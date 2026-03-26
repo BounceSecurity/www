@@ -12,7 +12,5 @@ toc_title: Audio/Visual information about the course
 
 ### Elevator pitch for the course (~2 minutes)
 
-**[Back to top ↑](#top)**
-
 In this short video, I give a quick explanation of the course and the ideas around it.
 {% include youtube.html video="keGq7VGVjLg" %}
