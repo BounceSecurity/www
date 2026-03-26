@@ -6,7 +6,7 @@ hero_height: is-small
 backlink: /training
 backname: Training
 menubar: aisast_menu
-toc: true
+toc: false
 toc_title: Audio/Visual information about the course
 ---
 
