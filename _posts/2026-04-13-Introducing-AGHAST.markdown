@@ -211,9 +211,9 @@ While we initially considered building on Raptor, the design philosophy differs 
 
 More recently, [Gadi Evron](https://www.linkedin.com/in/gadievron/) and [team](https://www.knostic.ai/) released [OpenAnt](https://www.knostic.ai/blog/oss-scan). We saw it about a week before release and thought their approach for focusing the LLM's attention on particular areas of code at a time was super interesting.
 
-The key difference again is that AGHAST is oriented around specific checks and explicit criteria that determine which parts of the codebase are examined.
+The key difference again is that AGHAST is oriented around specific checks and explicit criteria that determine which parts of the codebase are examined. That said, we liked the OpenAnt approach enough that AGHAST now supports OpenAnt datasets as an input source. This means you can use OpenAnt as a discovery method for targeted checks, feeding pre-extracted code units with call graph context into AGHAST's AI analysis pipeline.
 
-Nevertheless, it was encouraging to see them independently arrive at the same conclusion:
+It was encouraging to see them independently arrive at the same conclusion:
 
 > A key differentiator for LLM-based analysis is guiding the model to the specific area of the codebase it should examine rather than trying to load a whole codebase into context.
 
