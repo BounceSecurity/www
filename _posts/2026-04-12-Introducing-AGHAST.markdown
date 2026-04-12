@@ -20,10 +20,10 @@ Today, we are releasing AGHAST, an open source framework that combines static di
 
 If you want to try it out, you can find information here in the [Github repository](https://github.com/BounceSecurity/aghast).
 
-Here is a brief introduction:
+Here is a brief video introduction:
 
 <div style="text-align: center; margin: 1.5em 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-rjCVgzlcH8" title="AGHAST Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-rjCVgzlcH8" title="AGHAST Introduction" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 </div>
 
 If you want to understand more about the background, read on!
