@@ -1,24 +1,30 @@
 ---
 layout: post
 title: "Introducing AGHAST: AI-Guided Hybrid Application Static Testing"
-subtitle: "An open source custom code scanner blending static rules and AI"
+subtitle: "An open source custom code framework blending static discovery and AI"
 date:   2026-04-13 04:00:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
 image: /assets/img/2026-04-aghast-intro/aghastbouncecaption.png
-summary: Introducing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+summary: Introducing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
 redirect_from:
   - /aghast
 ---
 
 #### tl;dr
 
-Today, we are releasing AGHAST, an open source orchestrator that combines static scanning rules with AI prompts to find code-specific and company-specific security issues.
+Today, we are releasing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
 
 ![AGHAST logo](/assets/img/2026-04-aghast-intro/aghastbouncecaption.png){: .blog-image}
 
 If you want to try it out, you can find information here in the [Github repository](https://github.com/BounceSecurity/aghast).
+
+Here is a brief introduction:
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-rjCVgzlcH8" title="AGHAST Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 If you want to understand more about the background, read on!
 
@@ -83,9 +89,9 @@ Running a one-off combination of a Semgrep rule plus an LLM prompt is one thing.
 
 The answer is **AGHAST**.
 
-This is a platform that has been germinating for about six months.
+This is a framework that has been germinating for about six months.
 
-**AGHAST** stands for **AI-Guided Hybrid Application Static Testing**, and it is the tool that allows us to orchestrate tests based on this custom test philosophy.
+**AGHAST** stands for **AI-Guided Hybrid Application Static Testing**, and it allows us to orchestrate tests based on this custom test philosophy.
 
 Today, we at Bounce Security are open sourcing this tool for you to use and build on as well.
 
@@ -94,7 +100,7 @@ Today, we at Bounce Security are open sourcing this tool for you to use and buil
 AGHAST helps you run three types of checks:
 
 - **Pure AI scanning rules** - let the LLM do all the analysis
-- **A combination of a static rule and an AI scanning rule** - the sweet spot for most use cases
+- **A combination of a static mechanism and an AI scanning rule** - the sweet spot for most use cases
 - **Purely static rules** - for completeness, when a traditional static rule is all you need
 
 The beauty of the approach is what you *don't* need:
@@ -125,7 +131,7 @@ We anticipate that most teams will find it most useful in this context in the lo
 
 ##### 2. Pluggable Components
 
-The current implementation uses Claude Code and the Anthropic Agentic API for AI analysis, and Semgrep Community Edition for static scanning.
+The current implementation uses Claude Code and the Claude Agent SDK for AI analysis, and Semgrep Community Edition for static scanning.
 
 However, the design intentionally allows for pluggability across the stack:
 
