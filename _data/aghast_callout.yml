@@ -1,15 +1,19 @@
 # Search here: https://fontawesome.com/v5/search?q=people&o=r&m=free
 style: is-light
 height: is-small
+intro: >
+  You know what your key code security concerns are. But how do you check for them in a way
+  that is automatable, repeatable and scalable? AGHAST is an open-source framework that lets
+  you define and check for these concerns.
 items:
   - title: Custom Security Checks
     icon: fa-shield-alt
     description: >
-      Define checks specific to your codebase and organization, not just generic vulnerability patterns
+      Define logic tests specific to your codebase and organization, not just generic vulnerability patterns
   - title: Hybrid Analysis
     icon: fa-project-diagram
     description: >
-      Combine the precision of static rules with the intelligence of AI-powered code analysis
+      Combine the efficient precision of static rules with the flexible intelligence of AI-powered code analysis
   - title: Open Source
     icon: fa-code-branch
     description: >

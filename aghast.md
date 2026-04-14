@@ -19,10 +19,10 @@ how_it_works: >
   AGHAST is a framework for orchestrating custom security checks against your codebase.
   It supports three modes of operation, allowing you to choose the right approach for each check:
 questions: true
-questions_title: The Questions AGHAST Can Answer
+questions_title: Example Questions AGHAST Can Answer
 questions_intro: >
   Unlike generic scanners that look for known vulnerability patterns, AGHAST helps you answer
-  organization-specific questions:
+  organization-specific questions such as:
 questions_list:
   - Has our custom business verification been implemented correctly?
   - Has the company's custom authorization mechanism been used correctly and consistently?
@@ -39,7 +39,7 @@ action_buttons:
     style: is-primary
     external: true
   - text: Read the Blog Post
-    link: /blog/2026/04/12/Introducing-AGHAST.html
+    link: /blog/2026/04/14/Introducing-AGHAST.html
     icon: fas fa-newspaper
     style: is-info
   - text: Get in Touch

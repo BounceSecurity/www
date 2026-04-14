@@ -15,6 +15,9 @@
     <section class="hero {% if callouts_height %} {{ callouts_height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
+                {% if callouts.intro %}
+                <p class="subtitle is-5 has-text-centered" style="margin-bottom: 2em;">{{ callouts.intro }}</p>
+                {% endif %}
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
                         <div class="column is-4 has-text-centered">
