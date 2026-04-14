@@ -10,6 +10,8 @@ redirect_from:
     - /training-courses/aisast
 ---
 
+### Introduction
+
 This hands-on course is a deep dive into combining AI-driven and deterministic techniques for scalable, repeatable code security scanning. You will learn to proactively detect and prevent vulnerabilities across multiple repositories without slowing down development.
 
 It features our purpose built, open-source tool [AGHAST](/aghast.html)!
