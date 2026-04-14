@@ -1,0 +1,16 @@
+# Search here: https://fontawesome.com/v5/search?q=people&o=r&m=free
+style: is-light
+height: is-small
+items:
+  - title: Custom Security Checks
+    icon: fa-shield-alt
+    description: >
+      Define checks specific to your codebase and organization, not just generic vulnerability patterns
+  - title: Hybrid Analysis
+    icon: fa-project-diagram
+    description: >
+      Combine the precision of static rules with the intelligence of AI-powered code analysis
+  - title: Open Source
+    icon: fa-code-branch
+    description: >
+      Free to use, extend, and integrate into your existing security workflows

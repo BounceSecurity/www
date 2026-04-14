@@ -1,0 +1,18 @@
+- title: No Codebase Modifications Required
+  description: >
+    Works with your existing code as-is. No need to add annotations, modify source files, or build anything into your codebase.
+- title: Language Agnostic
+  description: >
+    Write your checks in plain language and simple configuration. You don't need to write rules in the language of the codebase being scanned.
+- title: CI Pipeline Ready
+  description: >
+    Designed from the start for automated CI pipelines with a simple install process, text-based configuration, and a single CLI call to run.
+- title: Pluggable Architecture
+  description: >
+    Supports multiple discovery methods (Semgrep, OpenAnt, SARIF) and output formats (JSON, SARIF). Swap in different LLM providers or static analysis engines as needed.
+- title: Flexible Configuration
+  description: >
+    Define checks per-codebase or use a central configuration for multiple codebases. One config file can drive CI jobs across your entire organization.
+- title: Custom Security Rules
+  description: >
+    Define checks tailored to your organization's specific security concerns — from custom authorization patterns to business logic validation.

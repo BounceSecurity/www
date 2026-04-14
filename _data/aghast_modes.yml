@@ -1,0 +1,12 @@
+- title: AI Scanning
+  icon: fa-robot
+  description: >
+    The LLM examines your repository against your custom security instructions, analyzing the full codebase for issues you define.
+- title: Hybrid Checks
+  icon: fa-crosshairs
+  description: >
+    Static discovery tools pinpoint specific code locations, which are then independently analyzed by AI. The sweet spot for most use cases.
+- title: Static Checks
+  icon: fa-check-circle
+  description: >
+    Traditional rule-based discovery that directly maps findings without AI involvement, for when a static rule is all you need.

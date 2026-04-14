@@ -1,0 +1,124 @@
+---
+layout: page
+---
+
+<div class="content">
+
+    <div class="columns is-vcentered">
+        <div class="column is-5 has-text-centered">
+            {% if page.product_image %}
+                <img src="{{ page.product_image }}" alt="{{ page.title }} logo" style="max-width: 300px;">
+            {% endif %}
+        </div>
+        <div class="column is-7">
+            {% if page.product_tagline %}
+                <p class="title is-4">{{ page.product_tagline }}</p>
+            {% endif %}
+            {{ content }}
+        </div>
+    </div>
+
+</div>
+
+{% include callouts.html %}
+
+{% if page.how_it_works %}
+<hr>
+<div class="content">
+    <h2>{{ page.how_it_works_title | default: "How It Works" }}</h2>
+    {{ page.how_it_works | markdownify }}
+
+    {% if page.how_it_works_image %}
+    <div class="columns is-centered" style="margin-top: 1.5em;">
+        <div class="column is-10 has-text-centered">
+            <img src="{{ page.how_it_works_image }}" alt="{{ page.how_it_works_image_alt | default: 'How it works' }}" style="max-width: 600px;">
+        </div>
+    </div>
+    {% endif %}
+
+    {% assign modes = site.data.[page.modes_data] %}
+    {% if modes %}
+    <div class="columns is-multiline" style="margin-top: 1em;">
+        {% for mode in modes %}
+        <div class="column is-4">
+            <div class="box">
+                <p class="title is-5 has-text-centered">
+                    {% if mode.icon %}<span class="icon"><i class="fas {{ mode.icon }}"></i></span>{% endif %}
+                    {{ mode.title }}
+                </p>
+                <p>{{ mode.description }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+{% endif %}
+
+{% if page.video %}
+<hr>
+<div class="content">
+    <h2>{{ page.video_title | default: "Video Introduction" }}</h2>
+    <div class="columns is-centered">
+        <div class="column is-8">
+            {% include youtube.html video=page.video %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% assign features = site.data.[page.features_data] %}
+{% if features %}
+<hr>
+<div class="content">
+    <h2>{{ page.features_title | default: "Key Features" }}</h2>
+    <div class="columns is-multiline" style="margin-top: 1em;">
+        {% for feature in features %}
+        <div class="column is-6">
+            <h4>{{ feature.title }}</h4>
+            <p>{{ feature.description }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% if page.questions %}
+<hr>
+<div class="content">
+    <h2>{{ page.questions_title | default: "Questions It Can Answer" }}</h2>
+    <p>{{ page.questions_intro }}</p>
+    <ul>
+        {% for question in page.questions_list %}
+        <li>{{ question }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if page.getting_started %}
+<hr>
+<div class="content">
+    <h2>{{ page.getting_started_title | default: "Getting Started" }}</h2>
+    {{ page.getting_started | markdownify }}
+
+    {% if page.action_buttons %}
+    <div class="buttons is-centered" style="margin-top: 1.5em;">
+        {% for button in page.action_buttons %}
+        <a href="{{ button.link }}" class="button {{ button.style | default: 'is-primary' }} is-medium" {% if button.external %}target="_blank"{% endif %}>
+            {% if button.icon %}<span class="icon"><i class="{{ button.icon }}"></i></span>{% endif %}
+            <span>{{ button.text }}</span>
+        </a>
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+{% endif %}
+
+{% if page.licensing %}
+<hr>
+<div class="content">
+    <h2>{{ page.licensing_title | default: "Licensing" }}</h2>
+    {{ page.licensing | markdownify }}
+</div>
+{% endif %}

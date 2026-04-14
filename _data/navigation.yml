@@ -1,10 +1,12 @@
 - name: How we add value
   link: /#
   dropdown:
-  - name: Product Security Services  
+  - name: Product Security Services
     link: /services/
   - name: Product Security Training
     link: /training/
+  - name: AGHAST - Open Source Tool
+    link: /aghast/
 - name: Who we are
   link: /team/
 - name: Where we were
