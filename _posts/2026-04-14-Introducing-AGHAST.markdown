@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing AGHAST: AI-Guided Hybrid Application Static Testing"
 subtitle: "An open source custom code framework blending static discovery and AI"
-date:   2026-04-12 04:00:00 +0300
+date:   2026-04-14 04:00:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
