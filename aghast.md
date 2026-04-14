@@ -29,8 +29,9 @@ questions_list:
   - Are API endpoints returning too wide a data set?
   - Are there places where our internal security patterns have been bypassed?
 getting_started: >
-  AGHAST requires **Node.js 20+** and an **Anthropic API key** for AI-powered checks.
-  Optional components include Semgrep Community Edition and OpenAnt for additional discovery methods.
+  AGHAST requires **Node.js 20+**. Depending on the check modes you use, you will also need
+  an **Anthropic API key** (for AI and hybrid checks) and/or **Semgrep Community Edition**
+  (for hybrid and static checks). **OpenAnt** is supported as an alternative discovery method.
 action_buttons:
   - text: View on GitHub
     link: https://github.com/BounceSecurity/aghast
