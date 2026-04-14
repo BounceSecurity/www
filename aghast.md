@@ -16,12 +16,8 @@ features_data: aghast_features
 video: B76A33l1LyI
 how_it_works_title: How It Works
 how_it_works: >
-  AGHAST uses a **hybrid approach**: static rules narrow down the areas of interest in your codebase,
-  then AI examines those specific areas in depth. Think of it as a metal detector on a beach —
-  the static rule tells you where to dig, and the AI carefully examines what you find.
-
-
-  AGHAST supports three modes of operation:
+  AGHAST is a framework for orchestrating custom security checks against your codebase.
+  It supports three modes of operation, allowing you to choose the right approach for each check:
 questions: true
 questions_title: The Questions AGHAST Can Answer
 questions_intro: >
