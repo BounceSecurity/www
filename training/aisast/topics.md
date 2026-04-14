@@ -55,6 +55,8 @@ The Black Hat version of this course "Achieving Scalable Code Security Scanning 
 
 **[Back to top ↑](#top)**
 
+[Register here for the Black Hat course](https://appsecg.host/bhreg)
+
 **COURSE OVERVIEW**
 
 * Overview - Setup training, share training goals and detailed agenda.
@@ -101,5 +103,7 @@ The Black Hat version of this course "Achieving Scalable Code Security Scanning 
 **SUMMARY**
 
 * Course Summary - Summarize course content and key takeaways.
+
+[Register here for the Black Hat course](https://appsecg.host/bhreg)
 
 **[Back to top ↑](#top)**
