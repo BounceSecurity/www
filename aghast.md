@@ -22,8 +22,6 @@ how_it_works: >
 
 
   AGHAST supports three modes of operation:
-how_it_works_image: /assets/img/2026-04-aghast-intro/funnel.png
-how_it_works_image_alt: "AGHAST hybrid approach: static rules filter code, AI analyzes findings"
 questions: true
 questions_title: The Questions AGHAST Can Answer
 questions_intro: >

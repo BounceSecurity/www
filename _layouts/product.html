@@ -20,21 +20,11 @@ layout: page
 
 </div>
 
-{% include callouts.html %}
-
 {% if page.how_it_works %}
 <hr>
 <div class="content">
     <h2>{{ page.how_it_works_title | default: "How It Works" }}</h2>
     {{ page.how_it_works | markdownify }}
-
-    {% if page.how_it_works_image %}
-    <div class="columns is-centered" style="margin-top: 1.5em;">
-        <div class="column is-10 has-text-centered">
-            <img src="{{ page.how_it_works_image }}" alt="{{ page.how_it_works_image_alt | default: 'How it works' }}" style="max-width: 600px;">
-        </div>
-    </div>
-    {% endif %}
 
     {% assign modes = site.data.[page.modes_data] %}
     {% if modes %}
