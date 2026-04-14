@@ -9,7 +9,7 @@ author: josh
 image: /assets/img/2026-04-aghast-intro/aghastbouncecaption.png
 summary: Introducing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
 redirect_from:
-  - /aghast
+  - /aghast-blog
 ---
 
 #### tl;dr
