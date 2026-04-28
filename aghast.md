@@ -30,8 +30,11 @@ questions_list:
   - Are there places where our internal security patterns have been bypassed?
 getting_started: >
   AGHAST requires **Node.js 20+**. Depending on the check modes you use, you will also need
-  an **Anthropic API key** (for AI and hybrid checks) and/or **Semgrep Community Edition**
-  (for hybrid and static checks). **OpenAnt** is supported as an alternative discovery method.
+  an agent provider for AI and hybrid checks &mdash; either an **Anthropic API key** (for the
+  default Claude Code provider) or **[OpenCode](https://opencode.ai)** installed and
+  authenticated (which delegates to any of the 75+ LLM providers OpenCode supports).
+  **Semgrep Community Edition** is needed for hybrid and static checks, and **OpenAnt** is
+  supported as an alternative discovery method.
 
 
   AGHAST is heavily used in our [Repeatable, Scalable and Valuable Code Security Scanning](/training/aisast/) training course, where you will get hands-on experience writing custom checks and applying AGHAST to real-world code security challenges.
