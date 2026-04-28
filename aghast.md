@@ -29,10 +29,10 @@ questions_list:
   - Are API endpoints returning too wide a data set?
   - Are there places where our internal security patterns have been bypassed?
 getting_started: >
-  AGHAST requires **Node.js 20+**. Depending on the check modes you use, you will also need
-  an agent provider for AI and hybrid checks &mdash; either an **Anthropic API key** (for the
-  default Claude Code provider) or **[OpenCode](https://opencode.ai)** installed and
-  authenticated (which delegates to any of the 75+ LLM providers OpenCode supports).
+  AGHAST requires **Node.js 20+**. For AI and hybrid checks you will need an agent provider:
+  either an **Anthropic API key** (for the default Claude Code provider) or
+  **[OpenCode](https://opencode.ai)** installed and authenticated, which delegates to any of
+  the 75+ LLM providers OpenCode supports, including some **free options**.
   **Semgrep Community Edition** is needed for hybrid and static checks, and **OpenAnt** is
   supported as an alternative discovery method.
 
