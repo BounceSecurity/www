@@ -33,6 +33,8 @@ getting_started: >
   either an **Anthropic API key** (for the default Claude Code provider) or
   **[OpenCode](https://opencode.ai)** installed and authenticated, which delegates to any of
   the 75+ LLM providers OpenCode supports, including some **free options**.
+  
+  
   **Semgrep Community Edition** is needed for hybrid and static checks, and **OpenAnt** is
   supported as an alternative discovery method.
 
