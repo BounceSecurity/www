@@ -13,6 +13,29 @@ items		:
     type		: training
     info		: 
 
+  - event		: POD at OWASP Global AppSec Vienna 2026
+    year		: 2026
+    date		: 25th June
+    dateval	: 2026-06-25
+    title		: Context & Cringe - Application Privacy through Play
+    img			: ContextAndCringe-Box.png
+    url			: https://owaspglobalappseceuvienna20.sched.com/event/2L7GM/context-cringe-application-privacy-through-play 
+    by			: Avi Douglen with Dr. Kim Wuyts
+    delivery: In-Person
+    type		: workshop 
+    info		: 
+
+  - event		: OWASP Global AppSec Vienna 2026
+    year		: 2026
+    date		: 26th June
+    dateval	: 2026-06-26
+    title		: From ASVS to APVS: What Changes When You Treat Privacy as a System Property?
+    url			: https://owaspglobalappseceuvienna20.sched.com/event/2JH1I/from-asvs-to-apvs-what-changes-when-you-treat-privacy-as-a-system-property
+    by			: Avi Douglen (with Matt Coles and Kim Wuyts) 
+    delivery: In-Person
+    type		: talk 
+    info		: 
+    
   - event		: Training at OWASP Global AppSec Vienna 2026
     year		: 2026
     date		: 23rd-24th June
