@@ -39,15 +39,38 @@ items		:
     type		: training
     info		: 
 
+  - event		: OWASP Global Virtual Workshop
+    year		: 2026
+    date		: January 14th
+    dateval	: 2026-01-14
+    title		: So You Want To Be An OWASP Speaker? Webinar
+    url			: https://owasp.glueup.com/event/so-you-want-to-be-an-owasp-speaker-163522/
+    by			: Avi Douglen (with Izar Tarandach and Shira Shamban)
+    delivery: Virtual
+    type		: webinar 
+    info		: 
+
+  - event		: Absolute AppSec Podcast
+    year		: 2026
+    date		: January 13th
+    dateval	: 2026-01-13
+    title		: Podcast about Privacy, AppSec Conferences, and OWASP
+    url			: https://www.youtube.com/watch?v=r2-G_BTVd3o 
+    youtube : r2-G_BTVd3o
+    by			: Avi Douglen 
+    type		: podcast
+    info		: 
 
   - event   : Keynote at OWASP BeNeLux 2025 
     year		: 2025
     date		: December 2nd
-    dateval	: 2025/12/02
+    dateval	: 2025-12-02
     title		: "Get Out of your Bubble: Collaborative Threat Modeling" 
     img			: assets/img/events/benelux25.png
+    youtube : Jk-i5_9fbv0
     url			: https://2025.owaspbenelux.eu/program/conference#Avi-Douglen
     by			: Avi Douglen
+    type    : keynote 
     info		:
 
   - event		: Interview with CyberRisk TV
@@ -846,6 +869,16 @@ items		:
     by			: Avi Douglen
     info		:
 
+  - event		: Checkmarx User Security Day
+    year		: 2019
+    date		: September 10th
+    dateval	: 2019-09-10
+    title		: People and Computers Magazine interview 
+    url			: https://www.pc.co.il/featured/299174/ 
+    youtube : 5LTtZpB8ym0?t=79
+    by			: Avi Douglen
+    info		:
+    
   - event		: OWASP Helsinki
     year		: 2019
     date		: September 3rd
