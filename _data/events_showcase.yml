@@ -18,7 +18,7 @@ items		:
     date		: 25th June
     dateval	: 2026-06-25
     title		: "Context and Cringe - Application Privacy through Play"
-    img			: ContextAndCringe-Box.png
+    img			: assets/img/events/ContextAndCringe-Box.png
     url			: https://owaspglobalappseceuvienna20.sched.com/event/2L7GM/context-cringe-application-privacy-through-play 
     by			: Avi Douglen with Dr. Kim Wuyts
     delivery: In-Person
