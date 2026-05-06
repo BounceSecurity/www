@@ -17,7 +17,7 @@ items		:
     year		: 2026
     date		: 25th June
     dateval	: 2026-06-25
-    title		: Context & Cringe - Application Privacy through Play
+    title		: "Context and Cringe - Application Privacy through Play"
     img			: ContextAndCringe-Box.png
     url			: https://owaspglobalappseceuvienna20.sched.com/event/2L7GM/context-cringe-application-privacy-through-play 
     by			: Avi Douglen with Dr. Kim Wuyts
@@ -29,7 +29,7 @@ items		:
     year		: 2026
     date		: 26th June
     dateval	: 2026-06-26
-    title		: From ASVS to APVS: What Changes When You Treat Privacy as a System Property?
+    title		: "From ASVS to APVS: What Changes When You Treat Privacy as a System Property?"
     url			: https://owaspglobalappseceuvienna20.sched.com/event/2JH1I/from-asvs-to-apvs-what-changes-when-you-treat-privacy-as-a-system-property
     by			: Avi Douglen (with Matt Coles and Kim Wuyts) 
     delivery: In-Person
@@ -66,7 +66,7 @@ items		:
     year		: 2026
     date		: January 14th
     dateval	: 2026-01-14
-    title		: So You Want To Be An OWASP Speaker? Webinar
+    title		: "So You Want To Be An OWASP Speaker? Webinar"
     url			: https://owasp.glueup.com/event/so-you-want-to-be-an-owasp-speaker-163522/
     by			: Avi Douglen (with Izar Tarandach and Shira Shamban)
     delivery: Virtual
@@ -77,7 +77,7 @@ items		:
     year		: 2026
     date		: January 13th
     dateval	: 2026-01-13
-    title		: Podcast about Privacy, AppSec Conferences, and OWASP
+    title		: "Podcast about Privacy, AppSec Conferences, and OWASP"
     url			: https://www.youtube.com/watch?v=r2-G_BTVd3o 
     youtube : r2-G_BTVd3o
     by			: Avi Douglen 
