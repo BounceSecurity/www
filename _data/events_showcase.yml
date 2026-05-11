@@ -84,6 +84,17 @@ items		:
     type		: podcast
     info		: 
 
+  - event		: OWASP Israel Chapter Meetup 
+    year		: 2025
+    date		: December 9th
+    dateval	: 2025-12-09
+    title		: "OWASP: The bigger picture, and why you should care"
+    url			: https://www.meetup.com/owasp-israel/events/311959046/ 
+    youtube	: axBV29OlJ-s
+    by			: Avi Douglen 
+    type		: meetup 
+    info		: 
+
   - event   : Keynote at OWASP BeNeLux 2025 
     year		: 2025
     date		: December 2nd
