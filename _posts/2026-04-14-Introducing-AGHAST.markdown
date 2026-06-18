@@ -6,7 +6,7 @@ date:   2026-04-14 04:00:00 +0300
 categories: blog
 hero_height: is-small
 author: josh
-image: /assets/img/2026-04-aghast-intro/aghastbouncecaption.png
+image: /assets/img/2026-04-aghast-intro/aghastowaspcaption.png
 summary: Introducing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
 redirect_from:
   - /aghast-blog
@@ -18,7 +18,7 @@ redirect_from:
 
 Today, we are releasing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
 
-![AGHAST logo](/assets/img/2026-04-aghast-intro/aghastbouncecaption.png){: .blog-image}
+![AGHAST logo](/assets/img/2026-04-aghast-intro/aghastowaspcaption.png){: .blog-image}
 
 If you want to try it out, you can find information here in the [Github repository](https://github.com/owasp-aghast/aghast).
 
