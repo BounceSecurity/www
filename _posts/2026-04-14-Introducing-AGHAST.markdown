@@ -18,7 +18,7 @@ Today, we are releasing AGHAST, an open source framework that combines static di
 
 ![AGHAST logo](/assets/img/2026-04-aghast-intro/aghastbouncecaption.png){: .blog-image}
 
-If you want to try it out, you can find information here in the [Github repository](https://github.com/BounceSecurity/aghast).
+If you want to try it out, you can find information here in the [Github repository](https://github.com/owasp-aghast/aghast).
 
 Here is a brief video introduction:
 
