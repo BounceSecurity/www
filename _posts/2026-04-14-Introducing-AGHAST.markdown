@@ -12,6 +12,8 @@ redirect_from:
   - /aghast-blog
 ---
 
+> _**Update — 16 June 2026:** AGHAST has since been donated to OWASP and is now **OWASP AGHAST**. See [AGHAST is now an OWASP project](/blog/2026/06/16/aghast-joins-owasp.html) for the full story. The project now lives at [aghast.owasp.org](https://aghast.owasp.org), the code is at [`owasp-aghast/aghast`](https://github.com/owasp-aghast/aghast), and it installs as `@owasp-aghast/aghast`. The repository link below has been updated to point to its new home._
+
 #### tl;dr
 
 Today, we are releasing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues.
