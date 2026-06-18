@@ -9,7 +9,7 @@ hero_link_text: Visit the OWASP Project Site
 hero_link_colour: is-dark
 hero_link_size: is-medium
 callouts: aghast_callout
-product_image: /assets/img/2026-04-aghast-intro/aghastbouncesmaller.png
+product_image: /assets/img/2026-04-aghast-intro/aghastowasp.png
 product_tagline: Find the issues that generic scanners miss
 modes_data: aghast_modes
 features_data: aghast_features
